@@ -2,3 +2,7 @@
 .Rproj.user
 
 **/*.quarto_ipynb
+
+# Archivos de desarrollo/preview
+PREVIEW_INSTRUCTIONS.md
+docs/PREVIEW_INSTRUCTIONS.html

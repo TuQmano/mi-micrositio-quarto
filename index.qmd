@@ -17,7 +17,7 @@ Somos el primer espacio en Argentina dedicado a producir datos, investigación y
 
 #### **¿Qué queremos lograr?**
 
-Nuestro objetivo es que la inteligencia artificial se convierta en un motor de productividad, inclusión y desarrollo sostenible. La IA puede aumentar la productividad económica si existe un ecosistema y acciones coordinadas y eso va a depender de las decisiones que tomemos hoy y de las políticas que implementemos. Para eso, nos proponemos traducir datos en acción y generar impactos concretos en distintos niveles:
+Nuestro objetivo es que la inteligencia artificial se convierta en un motor de productividad, inclusión y desarrollo sostenible. La IA puede aumentar la productividad económica si existe un ecosistema y acciones coordinadas y eso va a depender de las decisiones que tomemos hoy y de las políticas que implementemos Para eso, nos proponemos traducir datos en acción y generar impactos concretos en distintos niveles:
 
 -   **Empresas**: generar inteligencia estratégica que permita acelerar la adopción de IA, mejorar productividad y competir regional e internacionalmente.
 
@@ -37,6 +37,6 @@ Nuestro objetivo es que la inteligencia artificial se convierta en un motor de p
 |                     |      Mariana Kunst       |
 |                     |    Alejandro Avenburg    |
 |                     |   Macarena Santolaria    |
-|                     |  Juan Manuel Ottaviano   |
+------------------------------------------------------------------------
 
 ![](logos_combinados.png){fig-align="center" width="400"}
