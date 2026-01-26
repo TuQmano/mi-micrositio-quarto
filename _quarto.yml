@@ -10,7 +10,9 @@ website:
       - href: index.qmd
         text: "Nosotros"
       - href: encuesta.qmd
-        text: "Investigación"  
+        text: "Investigación"
+      - href: blog.qmd
+        text: "Blog"  
     right:
       - icon: github
         href: https://github.com/cepe-fundar

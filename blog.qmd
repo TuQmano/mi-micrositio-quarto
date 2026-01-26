@@ -1,0 +1,27 @@
+---
+title: "Blog"
+description: "Reflexiones, análisis y novedades sobre inteligencia artificial y políticas públicas"
+---
+
+## Entradas del blog
+
+Aquí encontrarás nuestras reflexiones, análisis y novedades sobre inteligencia artificial, políticas públicas y desarrollo.
+
+<div class="blog-entry">
+
+### [Ejemplo de entrada de blog](posts/ejemplo-entrada.html)
+
+<div class="blog-entry-meta">
+<span>26 de enero, 2025</span>
+<span>Equipo nadia</span>
+</div>
+
+<div class="blog-entry-excerpt">
+Esta es una entrada de ejemplo que puedes usar como plantilla para crear nuevas entradas de blog.
+</div>
+
+<a href="posts/ejemplo-entrada.html" class="blog-entry-link">Leer más →</a>
+
+</div>
+
+<!-- Para agregar nuevas entradas, crea un archivo .qmd en la carpeta posts/ y agrega aquí una entrada similar a la de arriba -->
