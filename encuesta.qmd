@@ -8,19 +8,11 @@ editor:
 
 ### **INFORMES:**
 
-```{r echo=FALSE, eval=FALSE}
-📄**ARGENTINA**
-[⬇️](https://raw.githubusercontent.com/CEPE-Fundar/cepe-fundar.github.io/main/informes/encuesta_adopcion_arg.pdf "Descargar")\
-**📄URUGUAY
-[⬇️](https://raw.githubusercontent.com/CEPE-Fundar/cepe-fundar.github.io/main/informes/encuesta_adopcion_uru.pdf "Descargar")**
+📄 **ARGENTINA**  
+[⬇️ Descargar](https://drive.google.com/file/d/1uXZyQ8aqcDyxy2vtqSgQsRxEbEMk4E0q/view?usp=drive_link)
 
-```
-
-
-📄**ARGENTINA**
-[⬇️](https://drive.google.com/file/d/1uXZyQ8aqcDyxy2vtqSgQsRxEbEMk4E0q/view?usp=drive_link "Descargar")\
-**📄URUGUAY
-[⬇️](https://drive.google.com/file/d/1AJtLsLVoz8QJ5BTLwsAX7GO4lrBfOBKl/view?usp=drive_link "Descargar")**
+📄 **URUGUAY**  
+[⬇️ Descargar](https://drive.google.com/file/d/1AJtLsLVoz8QJ5BTLwsAX7GO4lrBfOBKl/view?usp=drive_link)
 
 
 
@@ -30,7 +22,7 @@ editor:
 
 El mundo ya no es el que conocíamos. La inteligencia artificial está
 transformando la economía y la vida cotidiana a un ritmo acelerado,
-amplificando desigualdades o creando oportunidades.La población muestra
+amplificando desigualdades o creando oportunidades. La población muestra
 sentimientos encontrados: entusiasmo y expectativas altas, pero también
 nerviosismo y dudas sobre privacidad, discriminación y pérdida de
 empleo. La adopción de IA en las empresas avanza rápidamente. Pero lo
@@ -66,8 +58,5 @@ que crean textos, imágenes o códigos automáticamente". Además de indagar
 en los planos personales y laborales del uso de IA generativa, la
 encuesta exploró dimensiones como el nivel de confianza, conocimiento,
 perspectivas y sentimientos respecto a esta herramienta.
-
-
-#### 
 
 ![](logos_combinados.png){fig-align="center" width="400"}

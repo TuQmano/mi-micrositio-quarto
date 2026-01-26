@@ -2,10 +2,10 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "CEPE-Fundar"
+  title: "nadia"
   navbar:
-    background: "#7DA5C7"
-    logo: " "
+    background: "#ffffff"
+    logo: logo.svg
     left:
       - href: index.qmd
         text: "Nosotros"

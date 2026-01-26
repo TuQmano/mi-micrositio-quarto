@@ -1,1 +1,265 @@
-/* css styles */
+/* Modern, minimal, personal design */
+
+:root {
+  --primary-color: #1a1a1a;
+  --secondary-color: #666;
+  --accent-color: #000;
+  --bg-color: #ffffff;
+  --border-color: #e5e5e5;
+  --hover-color: #f5f5f5;
+}
+
+/* Typography improvements */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  color: var(--primary-color);
+  line-height: 1.7;
+  letter-spacing: -0.01em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+/* Navbar - Modern, minimal design */
+#quarto-header {
+  border-bottom: 1px solid var(--border-color);
+  background: var(--bg-color) !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.navbar {
+  background: var(--bg-color) !important;
+  padding: 1rem 0;
+  min-height: 70px;
+}
+
+.navbar-brand-container {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.navbar-brand-logo {
+  display: flex;
+  align-items: center;
+  padding: 0;
+}
+
+.navbar-logo {
+  height: 40px;
+  width: auto;
+  max-width: 120px;
+  object-fit: contain;
+}
+
+.navbar-title {
+  display: none; /* Hide text title, show only logo */
+}
+
+.navbar-nav {
+  gap: 0.5rem;
+}
+
+.nav-link {
+  color: var(--primary-color) !important;
+  font-weight: 500;
+  padding: 0.5rem 1rem !important;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.nav-link:hover {
+  background-color: var(--hover-color);
+  color: var(--accent-color) !important;
+}
+
+.nav-link.active {
+  background-color: transparent;
+  color: var(--accent-color) !important;
+}
+
+.nav-link.active::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 1rem;
+  right: 1rem;
+  height: 2px;
+  background-color: var(--accent-color);
+  border-radius: 1px;
+}
+
+.navbar-toggler {
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  padding: 0.5rem;
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%2833, 37, 41, 0.75%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+/* Content area */
+.quarto-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+}
+
+.quarto-title-block {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.quarto-title {
+  margin-bottom: 1rem;
+}
+
+.description {
+  font-size: 1.125rem;
+  color: var(--secondary-color);
+  font-weight: 400;
+}
+
+/* Content styling */
+.content {
+  font-size: 1.0625rem;
+}
+
+.content p {
+  margin-bottom: 1.5rem;
+}
+
+.content ul, .content ol {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.content li {
+  margin-bottom: 0.75rem;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 3px solid var(--accent-color);
+  padding-left: 1.5rem;
+  margin: 2rem 0;
+  font-style: italic;
+  color: var(--secondary-color);
+  background-color: var(--hover-color);
+  padding: 1.5rem;
+  border-radius: 0 6px 6px 0;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 2rem 0;
+  font-size: 0.95rem;
+}
+
+table th, table td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color);
+}
+
+table th {
+  font-weight: 600;
+  background-color: var(--hover-color);
+}
+
+table tr:hover {
+  background-color: var(--hover-color);
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 2rem 0;
+}
+
+/* Links */
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+a:hover {
+  border-bottom-color: var(--accent-color);
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  border-top: 1px solid var(--border-color);
+  margin: 3rem 0;
+}
+
+/* GitHub icon in navbar */
+.nav-item.compact .nav-link {
+  padding: 0.5rem !important;
+  font-size: 1.25rem;
+}
+
+.nav-item.compact .nav-link:hover {
+  background-color: var(--hover-color);
+}
+
+/* Search */
+#quarto-search {
+  margin-left: 1rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .quarto-container {
+    padding: 2rem 1rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  .navbar {
+    padding: 0.75rem 0;
+  }
+  
+  .navbar-logo {
+    height: 32px;
+  }
+}
+
+/* Remove template-like elements */
+.quarto-title-meta {
+  margin-top: 1rem;
+}
+
+/* Smooth transitions */
+* {
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
