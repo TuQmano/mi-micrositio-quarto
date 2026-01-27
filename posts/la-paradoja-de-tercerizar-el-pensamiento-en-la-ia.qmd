@@ -1,0 +1,173 @@
+---
+title: "La paradoja de tercerizar el pensamiento en la IA"
+description: "La paradoja de tercerizar el pensamiento en la IA"
+date: "2025-01-15"
+author: "Eduardo Levy Yeyati"
+categories: ['IA', 'Educación', 'Tecnología']
+---
+
+<div class="blog-layout">
+
+<div class="blog-content">
+
+El director acadmico del Cepe escribi sobre el riesgo de tercerizar en la IA las tareas complejas de pensamiento.
+Como[ya dijimos aqu](https://www.lanacion.com.ar/ideas/factor-humano-cual-es-el-tipo-de-conocimiento-humano-al-que-aun-no-llega-la-inteligencia-artificial-nid21092024/), la IA domina el conocimiento explcito –el que puede documentarse y transmitirse: “tokenizarse”–, a diferencia del tcito: saber prctico formado en la experiencia humana. Esto, que abre la puerta a una complementacin natural entre el humano y el algoritmo, tambin genera una paradoja: el uso intensivo de IA en tareas complejas socava las condiciones que permiten formar ese conocimiento tcito que –al menos por ahora– dibuja uno de los lmites de la sustitucin tecnolgica.
+Una investigacin reciente de Anthropic, basada en el anlisis de conversaciones estudiantiles con chatbot Claude, encontr que casi la mitad (47%) de las interacciones con IA son “conversaciones directas”, con mnima participacin, orientadas a resolver consultas rpidamente en lugar de fomentar el dilogo o el intercambio.
+Ms revelador an: cuando se analizaron las tareas cognitivas que los estudiantes delegan a la IA usando la Taxonoma de Bloom, se descubri que principalmente tercerizan funciones de orden superior como crear (39.8%) y analizar (30.2%), mientras que recordar representa apenas el 1.8%. Ciencias de la Computacin lidera la adopcin (38.6% de conversaciones con solo 5.4% de graduados), seguidas por Ciencias Naturales y Matemticas. Humanidades y Salud tienen menor uso relativo.
+Esto que parece un problema acadmico es, en realidad, un sntoma de una transformacin cognitiva ms profunda.
+El conocimiento tcito se cultiva en la experiencia: es la intuicin que alerta a un mdico pese a estudios normales; el juicio de un maestro para decidir cundo presionar o dar espacio; la pericia de un ingeniero para detectar fallas que las simulaciones no captan.
+Este conocimiento tcito est“escrito en el cuerpo”: en las vas neuronales formadas por la prctica, en la memoria muscular de la repeticin, en el reconocimiento que surge del contacto con la complejidad del mundo real.
+Aqu es donde la paradoja se vuelve ms clara: la IA es tan buena manejando conocimiento explcito que cada vez ms nos sentimos tentados a tercerizar nuestro pensamiento. Pero al hacerlo, corremos el riesgo de atrofiar la formacin del conocimiento tcito que la IA no puede replicar.
+Consideremos lo que sucede cuando los estudiantes buscan consistentemente respuestas directas de la IA en lugar de luchar con los problemas por s mismos. Pueden completar tareas eficientemente, pero se pierden la lucha cognitiva que construye resistencia intelectual y desarrolla comprensin intuitiva. Obtienen el conocimiento explcito –los hechos, las respuestas correctas– pero no desarrollan el conocimiento tcito que proviene de enfrentarse con la incertidumbre, cometer errores y aprender a confiar en su propio juicio.
+El estudio de Anthropic tambin identific patrones preocupantes en el uso “directo” de IA: respuestas a preguntas de opcin mltiple en*machine learning*, respuestas directas a exmenes de idiomas, y reescritura de textos de marketing para evitar detectores de plagio. Como el reporte advierte: “Existen preocupaciones legtimas de que los sistemas de IA puedan proporcionar una muleta para los estudiantes, limitando el desarrollo de habilidades fundamentales necesarias para apoyar el pensamiento de orden superior”.
+El problema se extiende ms all de las aulas. Latrampa de Turing–el escenario donde delegamos tanto pensamiento a la IA que perdemos las experiencias que generan*expertise*humana– ya tiene precedentes. Pensemos cmo el GPS ha reducido nuestras habilidades espaciales, o cmo las calculadoras alteraron el clculo mental.
+Ahora imaginemos esta dinmica desarrollndose en cada dominio del trabajo intelectual. Creamos un crculo vicioso donde:
+1. La IA maneja tareas de conocimiento explcito ms eficientemente que los humanos
+2. Los humanos dependen cada vez ms de la IA para estas tareas
+3. Los humanos pierden oportunidades para desarrollar conocimiento tcito a travs de la prctica
+Es la distopa silenciosa de la pelcula*Wall-E*, donde, tras delegar toda la actividad a sistemas automatizados, los humanos terminan con sus cuerpos y mentes atrofiados.
+Corremos el riesgo de algo similar con nuestra experiencia intelectual? Cuando dejamos que los modelos de lenguaje nos “atiendan” el conocimiento, nos volvemos consumidores pasivos de respuestas perfectamente formuladas, pero dejamos de ejercitar el juicio que da forma a nuestra inteligencia. El msculo cognitivo tambin se atrofia cuando no se entrena.
+La irona es que el conocimiento tcito se vuelve ms valioso, no menos, en un mundo dominado por IA. Cuando el conocimiento explcito se convierte en*commodity*, el juicio humano es el recurso escaso. La capacidad de saber cundo confiar en los resultados de la IA, cmo formular las preguntas correctas y cundo anular las recomendaciones algortmicas se vuelve crucial.
+Como reconoce la propia IA sobre sus limitaciones: los modelos de lenguaje aprenden “analizando patrones y estructuras en grandes cantidades de datos textuales” pero carecen de “la capacidad de adquirir o aplicar [conocimiento tcito] de la misma manera que una persona lo hara a travs de la prctica y experiencia directa”.
+En lugar de usar la IA para evitar pensar, necesitamos enfoques donde potencie –y no reemplace– el desarrollo cognitivo.
+El objetivo no es competir con la IA en conocimiento explcito, sino cultivar las capacidades nicamente humanas que emergen de la experiencia, la prctica y el aprendizaje encarnado –vivido, irrepetible–, anlogo en el conocimiento a lo que el “aura” es en la creatividad.
+En lugar de enfocarnos principalmente en transferencia de informacin, necesitamos enfatizar el desarrollo de juicio, intuicin y el tipo de sabidura prctica que solo puede provenir de enfrentarse directamente con situaciones complejas y ambiguas.
+Esto requiere disear interacciones que preserven el desarrollo cognitivo: en educacin, pidiendo que los estudiantes compartan sus prompts junto con las tareas, creando evaluaciones que prioricen el juicio y enfatizando el aprendizaje experiencial; en el trabajo, usando IA para recopilar sin reemplazar la decisin humana y garantizando experiencia prctica.
+La evidencia emprica respalda estas preocupaciones: estudios recientes documentan reducciones en[el esfuerzo cognitivo](https://analyticsindiamag.com/ai-news-updates/mit-study-warns-of-cognitive-decline-with-llm-use/)yel pensamiento crticoasociadas al uso intensivo de IA. Sin embargo, la paradoja de la tercerizacin apunta a algo ms fundamental: las mismas capacidades de IA que hacen el conocimiento explcito universalmente accesible podran socavar el desarrollo del conocimiento tcito que nos mantiene relevantes.
+Esta paradoja tambin seala una solucin. Al entender qu hace nico e irreemplazable al conocimiento humano, podemos disear interacciones con IA que fortalezcan nuestra agencia intelectual.
+El futuro no ser de quienes compitan con la IA, sino de quienes sepan pensar con ella, preservando el aprendizaje experiencial que produce el irreemplazable discernimiento humano. El desafo no es solo tecnolgico: es qu tipo de aprendices y pensadores elegimos ser en la era de la IA.
+Como deca Aristteles, hay saberes que solo emergen del encuentro directo con el mundo. La paradoja de la tercerizacin cognitiva no es tecnolgica, sino pedaggica: no es solo lo que la IA no hace, sino lo que dejamos de hacer al usarla como atajo. Lo que perdemos no es una habilidad puntual, sino la experiencia que la forma.
+*Ingeniero Civil y doctor en Economa; profesor Plenario de la Universidad Torcuato Di Tella (UTDT)*
+
+Capacitacin sobre adopcin de inteligencia artificial en empresas
+Despus de la COP30: las promesas se traducen en acciones?
+Charla sobre los resultados de la Conferencia de las Partes de Cambio Climtico
+
+Debate sobre el impacto de la IA en la democracia
+Est disponible la nueva publicacin trimestral
+
+Innovacin vs Regulacin: el dilema de la Inteligencia Artificial
+ltimo encuentro del ciclo de charlas de Inteligencia Artificial y Polticas Pblicas
+Transformacin digital e inclusin financiera juvenil: hallazgos clave del estudio de CEPE Di Tella
+Presentacin de los resultados de la investigacin
+Una dcada de economa del comportamiento en Latinoamrica
+Est disponible la nueva publicacin del ndice de Conflictividad Laboral
+
+Inteligencia artificial y escolarizacin: ruptura o continuidad?
+
+Est disponible la publicacin de junio del ndice de Conflictividad Laboral
+Presentacin de Juan Cruz Loureiro en Tech4Impact 2024
+Qu es la inteligencia artificial? Avances de un fenmeno que lleg para quedarse
+
+La atencin de Gobierno en la era digital: El caso Boti en la Ciudad de Buenos Aires
+Sali la publicacin de marzo del ndice de Conflictividad Laboral
+Nueva Publicacin: Complejidad y polticas pblicas: una agenda de presente y futuro
+Este documento recopila los temas tratados durante la 6.a 
+Sali la publicacin de diciembre del ndice de Conflictividad Laboral
+
+Presentacin del informe coescrito con la RREI
+Presentacin del informe "Desigualdades heredadas"
+Discusin sobre el reporte publicado por RED CAF 2022
+
+El 24 de agosto se realiz la 6. 
+Se present el Documento de Polticas Pblicas de Beatriz Toribio junto a un panel de expertos.
+Presentacin del libro "La transicin energtica en la visin de sus protagonistas"
+Conversacin sobre el libro publicado por el Instituto Torcuato Di Tella
+Sali la publicacin de abril del ndice de Conflictividad Laboral
+
+Nueva publicacin: Energa, cambio climtico y crecimiento
+Este documento recopila los temas tratados durante la 5.a 
+Presentacin de investigacin: Los adolescentes y las finanzas
+Investigacin sobre conocimientos y hbitos en Argentina
+
+Se presentaron los resultados obtenidos en la Ciudad de Buenos Aires y en Mendoza, propiciando un espacio para la reflexin acerca del sostenimiento y escalabilidad de esta iniciativa
+Presentacin de Actualizacin de Indicadores de Emisiones Energticas en Argentina
+Se presentaron los resultados actualizados a junio de 2022 del proyecto desarrollado en conjunto con la Fundacin Torcuato Di Tella.
+
+Gastn Gertner, director ejecutivo del CEPE, habl en el evento organizado en el Congreso
+
+El 25 de agosto se realiz la 5. 
+Conversamos con Gastn, quien a comienzos de noviembre asumi como Director Ejecutivo del CEPE.
+A pocos das de terminar el ao, nos gustara compartir con ustedes algunos de los hechos ms destacados.
+
+Qu aprendimos del proceso de participacin de la sociedad civil en educacin
+
+Qu aprendieron sobre educacin las empresas tecnolgicas?
+
+Ms de 25 oradores debatieron sobre educacin en la IV 
+
+Qu hacer con los estudiantes excluidos en la pandemia? Expusieron funcionarios de la regin
+
+El director acadmico del CEPE cre una encuesta para estudiar las dimensiones socioeconmicas detrs del debate sobre la presencialidad escolar en pandemia.
+
+Fue reconocido por el Global Go To Think Tank Index Report del 2020.
+Una seleccin de los contenidos que lograron mayor repercusin durante el ao pasado.
+
+<div class="blog-source-link">
+Publicado originalmente en <a href="https://www.utdt.edu/nota_prensa.php?id_nota_prensa=22903&id_item_menu=25279">La Nación</a>
+</div>
+
+</div>
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="IA">IA</button>
+  <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
+  <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
+  <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Política">Política</button>
+  <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
+  <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+  <button class="blog-filter-btn" data-category="Región">Región</button>
+</div>
+
+</div>
+
+</div>
+
+<script>
+// Filtros por categoría - redirige al blog con el filtro
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  
+  // Hacer las categorías clickeables
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+
+<script>
+// Traducir Author y Published al español
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+
+<footer class="site-footer">
+  <img src="../logos_combinados.png" alt="CEPE y Fundar" width="400">
+</footer>

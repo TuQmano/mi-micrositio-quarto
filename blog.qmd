@@ -7,20 +7,20 @@ description: "Reflexiones, análisis y novedades sobre inteligencia artificial y
 
 <div class="blog-content">
 
-<div class="blog-entry" data-categories="IA Política Deepfakes Democracia">
+<div class="blog-entry" data-categories="IA Tecnología Políticas Públicas Región">
 
-### [Deepfakes, campañas sucias y un decálogo que parece sátira, pero denuncia algo muy real](posts/deepfakes-campanas-sucias.html)
+### [Una inteligencia artificial que hable nuestro idioma](posts/una-inteligencia-artificial-que-hable-nuestro-idioma.html)
 
 <div class="blog-entry-meta">
-<span>15 de junio, 2023</span>
-<span>Daniel Yankelevich</span>
+<span>10 de septiembre, 2025</span>
+<span>Eduardo Levy Yeyati</span>
 </div>
 
 <div class="blog-entry-excerpt">
-Los deepfakes representan un desafío real para la democracia. Un decálogo que parece sátira pero denuncia una realidad preocupante.
+El director acadmico del Cepe escribi sobre el proyecto "LatamGPT", un modelo de inteligencia artificial diseado para Amrica Latina. “Dime cmo hablas y te dir de dnde vienes”, podra susurrar un algori...
 </div>
 
-<a href="posts/deepfakes-campanas-sucias.html" class="blog-entry-link">Leer más →</a>
+<a href="posts/una-inteligencia-artificial-que-hable-nuestro-idioma.html" class="blog-entry-link">Leer más →</a>
 
 </div>
 
@@ -29,12 +29,12 @@ Los deepfakes representan un desafío real para la democracia. Un decálogo que 
 ### [No culpen al algoritmo: ¿cómo regular la inteligencia artificial en un mundo demasiado humano?](posts/no-culpen-al-algoritmo.html)
 
 <div class="blog-entry-meta">
-<span>10 de agosto, 2023</span>
+<span>10 de agosto, 2025</span>
 <span>Daniel Yankelevich</span>
 </div>
 
 <div class="blog-entry-excerpt">
-La regulación de la inteligencia artificial requiere entender que los algoritmos son creados por humanos y reflejan decisiones humanas.
+En 2018, mientras en el Congreso se debatía la despenalización del aborto, el gobierno de la provincia de Salta anunció un algoritmo que permitía predecir embarazos adolescentes. Esta iniciativa fue r...
 </div>
 
 <a href="posts/no-culpen-al-algoritmo.html" class="blog-entry-link">Leer más →</a>
@@ -46,15 +46,66 @@ La regulación de la inteligencia artificial requiere entender que los algoritmo
 ### [Inteligencia artificial sin ciencia ficción: más allá de los chatbots, hay mucho por hacer](posts/ia-sin-ciencia-ficcion.html)
 
 <div class="blog-entry-meta">
-<span>6 de julio, 2023</span>
+<span>6 de julio, 2025</span>
 <span>Macarena Santolaria</span>
 </div>
 
 <div class="blog-entry-excerpt">
-La inteligencia artificial va mucho más allá de los chatbots. Hay un mundo de aplicaciones prácticas y transformaciones reales por explorar.
+Más que preocuparnos por frenar el ascenso inminente y universal de la IA, en Argentina la principal preocupación debería ser su baja implementación en las empresas y en particular en las pymes. La ir...
 </div>
 
 <a href="posts/ia-sin-ciencia-ficcion.html" class="blog-entry-link">Leer más →</a>
+
+</div>
+
+<div class="blog-entry" data-categories="IA Política Deepfakes Democracia">
+
+### [Deepfakes, campañas sucias y un decálogo que parece sátira, pero denuncia algo muy real](posts/deepfakes-campanas-sucias.html)
+
+<div class="blog-entry-meta">
+<span>15 de junio, 2025</span>
+<span>Daniel Yankelevich</span>
+</div>
+
+<div class="blog-entry-excerpt">
+El año pasado hubo al menos tres casos en que un alumno de secundaria publicó videos íntimos de sus compañeras. El tema trascendió porque, en todos los casos, no eran exactamente ellas. Eran videos ed...
+</div>
+
+<a href="posts/deepfakes-campanas-sucias.html" class="blog-entry-link">Leer más →</a>
+
+</div>
+
+<div class="blog-entry" data-categories="IA Educación Tecnología">
+
+### [La paradoja de tercerizar el pensamiento en la IA](posts/la-paradoja-de-tercerizar-el-pensamiento-en-la-ia.html)
+
+<div class="blog-entry-meta">
+<span>15 de enero, 2025</span>
+<span>Eduardo Levy Yeyati</span>
+</div>
+
+<div class="blog-entry-excerpt">
+El director acadmico del Cepe escribi sobre el riesgo de tercerizar en la IA las tareas complejas de pensamiento. Como[ya dijimos aqu](https://www.lanacion.com.ar/ideas/factor-humano-cual-es-el-tipo-d...
+</div>
+
+<a href="posts/la-paradoja-de-tercerizar-el-pensamiento-en-la-ia.html" class="blog-entry-link">Leer más →</a>
+
+</div>
+
+<div class="blog-entry" data-categories="IA Tecnología Políticas Públicas Región">
+
+### [DeepSeek: ¿atajo a la soberanía tecnológica o nueva dependencia?](posts/deepseek-atajo-a-la-soberanía-tecnológica-o-nueva-dependencia.html)
+
+<div class="blog-entry-meta">
+<span>15 de diciembre, 2024</span>
+<span>Eduardo Levy Yeyati y Soledad Guilera</span>
+</div>
+
+<div class="blog-entry-excerpt">
+Eduardo Levy Yeyati, director acadmico del Cepe, y Soledad Guilera, profesora de la Escuela de Gobierno, escribieron sobre las oportunidades y los desafos que plantea DeepSeek, la nueva Inteligencia A...
+</div>
+
+<a href="posts/deepseek-atajo-a-la-soberanía-tecnológica-o-nueva-dependencia.html" class="blog-entry-link">Leer más →</a>
 
 </div>
 
@@ -68,7 +119,7 @@ La inteligencia artificial va mucho más allá de los chatbots. Hay un mundo de 
 </div>
 
 <div class="blog-entry-excerpt">
-¿Será la inteligencia artificial el conocimiento portátil del futuro? Una reflexión sobre las posibilidades y desafíos.
+En 1950, Alan Turing creó el primer método para comprobar si una computadora podía responder y reaccionar como lo haría un humano: el test de Turing. En esta prueba, un observador neutral interactúa c...
 </div>
 
 <a href="posts/conocimiento-portatil-futuro.html" class="blog-entry-link">Leer más →</a>
@@ -85,7 +136,7 @@ La inteligencia artificial va mucho más allá de los chatbots. Hay un mundo de 
 </div>
 
 <div class="blog-entry-excerpt">
-La inteligencia artificial generativa no es solo una tecnología, sino una cuestión política que requiere atención y regulación.
+En las últimas semanas se habló sobre el uso de inteligencia artificial generativa. El chatGPT3 para textos o Dall-e y Stability para imágenes, la IA generativa tiene un gran potencial para transforma...
 </div>
 
 <a href="posts/ia-generativa-cuestion-politica.html" class="blog-entry-link">Leer más →</a>
@@ -102,10 +153,12 @@ La inteligencia artificial generativa no es solo una tecnología, sino una cuest
 </div>
 
 <div class="blog-entry-excerpt">
-Este artículo explora cómo la inteligencia artificial está ingresando al debate político y transformando la forma en que pensamos sobre las políticas públicas.
+La inteligencia artificial (IA) nos vuelve a asombrar: el ChatGPT -un modelo que chatea con el usuario y ofrece respuestas extraordinarias, por su precisión conceptual y por sus habilidades lingüístic...
 </div>
 
 <a href="posts/del-asombro-a-la-politica.html" class="blog-entry-link">Leer más →</a>
+
+</div>
 
 </div>
 
@@ -124,6 +177,7 @@ Este artículo explora cómo la inteligencia artificial está ingresando al deba
   <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
   <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
   <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+  <button class="blog-filter-btn" data-category="Región">Región</button>
 </div>
 
 </div>

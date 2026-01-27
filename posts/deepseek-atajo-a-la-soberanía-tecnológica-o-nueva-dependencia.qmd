@@ -1,0 +1,182 @@
+---
+title: "DeepSeek: ¿atajo a la soberanía tecnológica o nueva dependencia?"
+description: "DeepSeek: ¿atajo a la soberanía tecnológica o nueva dependencia?"
+date: "2024-12-15"
+author: "Eduardo Levy Yeyati y Soledad Guilera"
+categories: ['IA', 'Tecnología', 'Políticas Públicas', 'Región']
+---
+
+<div class="blog-layout">
+
+<div class="blog-content">
+
+Eduardo Levy Yeyati, director acadmico del Cepe, y Soledad Guilera, profesora de la Escuela de Gobierno, escribieron sobre las oportunidades y los desafos que plantea DeepSeek, la nueva Inteligencia Artificial de origen chino.
+Para la Argentina –y para Amrica Latina y el mundo en desarrollo–, DeepSeek podra ser el inicio de la independencia digital o la puerta de entrada a una nueva dependencia.
+**Atajo a la soberana tecnolgica...?**
+Mientras que OpenAI y Google requieren computadoras de ltima generacin, DeepSeek funciona en hardware ms accesible.Para Amrica Latina, esto significa acceso a IA avanzada sin la necesidad de invertir fortunas en infraestructura. Si gobiernos y empresas juegan bien sus cartas, DeepSeek podra impulsar soluciones locales sin quedar atrapados en la dependencia de Silicon Valley o Pekn.
+Ms all del acceso, DeepSeek rompe con la idea de que la IA es un juego del tipo “ganador lleva todo”. Si cumple lo que promete, podra descentralizar el desarrollo tecnolgico y permitir que los pases en desarrollo definan su propio futuro digital. Lo que podra dar lugar a un ecosistema IA ms dinmico y competitivo, a diferencia de uno en el que la capacidad tecnolgica se concentre en unos pocos monopolios.
+Pensemos en un agricultor que predice sequas sin depender de Google. Imaginemos un hospital que diagnostica enfermedades sin enviar datos a Silicon Valley. Si la Argentina adopta DeepSeek estratgicamente, podra generar innovaciones propias sin quedar a merced de los gigantes tecnolgicos.
+La capacidad de DeepSeek para procesar idiomas como espaol y portugus puede fortalecer los ecosistemas de IA en la regin, reduciendo la dependencia de modelos entrenados en ingls. Adems, su eficiencia en hardware de gama media desafa la nocin de que solo pases con energa barata y abundante pueden construir ecosistemas de IA competitivos. En este escenario, Mxico, Colombia o Chile podran posicionarse como centros de innovacin en IA sin depender de clsteres de GPU costosos.
+Amrica Latina ya cuenta con iniciativas en IA que pueden beneficiarse de este avance. En Brasil, Fiocruz desarrolla soluciones de IA para la agricultura de precisin. En la Argentina, el sistema Prometea agiliza los procesos judiciales. En Chile, la estatal Codelco podra reducir costos operativos y el impacto ambiental en la minera con modelos ms accesibles de IA. En Colombia,*startups*como Quipu estn promoviendo la inclusin financiera a travs de modelos de crdito alternativos.
+El creciente inters regional en IA se refleja en la reciente iniciativa de Chile: Latam GPT, un modelo de lenguaje abierto que se lanzar este ao. Este movimiento posiciona al pas como un creador de tecnologa y no solo como un consumidor, desafiando el dominio de las grandes potencias de la IA.
+DeepSeek no es solo un avance tecnolgico; es tambin una herramienta geopoltica. Un gambito de*open source*para economas de recursos limitados, un plan de fidelizacin.
+Respaldado por el Estado chino, DeepSeek es parte de una estrategia para ganar influencia en los pases en desarrollo. No es solo software, es diplomacia digital. Mientras Estados Unidos apuesta por modelos ms potentes, China usa la IA como una va para fortalecer sus lazos estratgicos en mercados estratgicos.
+Para la Argentina y la regin, esto implica tanto una oportunidad como un riesgo. La dependencia histrica de tecnologas occidentales podra simplemente transformarse en una nueva forma de dependencia tecnolgica si DeepSeek se convierte en la nica alternativa accesible.
+La leccin es clara: en lugar de quedar atrapados entre Silicon Valley y Pekn, los pases latinoamericanos deben usar esta competencia a su favor, negociando mejores acuerdos de transferencia tecnolgica y diversificando sus asociaciones en IA.
+La dependencia de un nico proveedor siempre es peligrosa. As como Estados Unidos impuso sanciones en semiconductores para frenar la IA china, la Argentina podra enfrentar restricciones similares si su infraestructura digital queda atrapada en un solo bloque de poder.
+Para evitar cambiar una dependencia por otra, los gobiernos latinoamericanos deben exigir transparencia en las alianzas de IA, garantizar la capacidad local para entrenar modelos y diversificar sus colaboraciones tecnolgicas.
+La inversin en IA no es opcional: es una condicin para la competitividad. Sin ella, las*startups*de la regin tendrn dificultades para escalar, dejando el futuro de la IA en manos de empresas extranjeras.Sin inversin, la regin seguir exportando cerebros e importando innovacin.
+Amrica Latina cuenta con centros de investigacin en IA de talla mundial, como el CPQD en Brasil, el Cenia de Chile, o nuestro Conicet. Sin embargo, sin inversin sostenida en educacin y en incentivos a la innovacin local, sus mejores talentos seguirn migrando hacia las grandes tecnolgicas extranjeras en lugar de desarrollar soluciones propias.
+Algunos pases han dado pasos iniciales. En Uruguay, el Plan Ceibal ha promovido la educacin digital, mientras que en Colombia existen*bootcamps*de IA respaldados por el gobierno.Pero se necesita ms. Nuestros gobiernos deben, entre otras asignaturas pendientes, expandir la formacin en IA desde niveles bsicos hasta avanzados, financiar colaboraciones entre universidades y*startups*, fomentar el emprendimiento en IA para evitar la fuga de talentos e impulsar regulaciones que equilibren la innovacin con la soberana digital.
+Alianzas regionales como Mercosur, Celac y la Alianza del Pacfico pueden jugar un rol clave en la negociacin de acceso equitativo a la IA y en la creacin de regulaciones de soberana de datos. Una estrategia fragmentada solo hara a la regin ms vulnerable a las condiciones impuestas por las superpotencias tecnolgicas.
+La Argentina tiene la oportunidad de definir su futuro digital, pero solo si acta con determinacin. Sin un plan claro y una accin decidida, el pas corre el riesgo de seguir siendo solo un consumidor de IA en un juego donde otros tienen el control.
+La inversin en educacin, investigacin e innovacin, o las alianzas regionales para armonizar regulaciones y agregar recursos escasos, no son una opcin; son una necesidad cada vez ms urgente.De lo contrario, la tecnologa no har ms que ampliar la brecha de desarrollo. La pregunta no es si la IA transformar a la Argentina, sino quin definir su futuro cuando lo haga.
+
+Capacitacin sobre adopcin de inteligencia artificial en empresas
+Despus de la COP30: las promesas se traducen en acciones?
+Charla sobre los resultados de la Conferencia de las Partes de Cambio Climtico
+
+Debate sobre el impacto de la IA en la democracia
+Est disponible la nueva publicacin trimestral
+
+Innovacin vs Regulacin: el dilema de la Inteligencia Artificial
+ltimo encuentro del ciclo de charlas de Inteligencia Artificial y Polticas Pblicas
+Transformacin digital e inclusin financiera juvenil: hallazgos clave del estudio de CEPE Di Tella
+Presentacin de los resultados de la investigacin
+Una dcada de economa del comportamiento en Latinoamrica
+Est disponible la nueva publicacin del ndice de Conflictividad Laboral
+
+Inteligencia artificial y escolarizacin: ruptura o continuidad?
+
+Est disponible la publicacin de junio del ndice de Conflictividad Laboral
+Presentacin de Juan Cruz Loureiro en Tech4Impact 2024
+Qu es la inteligencia artificial? Avances de un fenmeno que lleg para quedarse
+
+La atencin de Gobierno en la era digital: El caso Boti en la Ciudad de Buenos Aires
+Sali la publicacin de marzo del ndice de Conflictividad Laboral
+Nueva Publicacin: Complejidad y polticas pblicas: una agenda de presente y futuro
+Este documento recopila los temas tratados durante la 6.a 
+Sali la publicacin de diciembre del ndice de Conflictividad Laboral
+
+Presentacin del informe coescrito con la RREI
+Presentacin del informe "Desigualdades heredadas"
+Discusin sobre el reporte publicado por RED CAF 2022
+
+El 24 de agosto se realiz la 6. 
+Se present el Documento de Polticas Pblicas de Beatriz Toribio junto a un panel de expertos.
+Presentacin del libro "La transicin energtica en la visin de sus protagonistas"
+Conversacin sobre el libro publicado por el Instituto Torcuato Di Tella
+Sali la publicacin de abril del ndice de Conflictividad Laboral
+
+Nueva publicacin: Energa, cambio climtico y crecimiento
+Este documento recopila los temas tratados durante la 5.a 
+Presentacin de investigacin: Los adolescentes y las finanzas
+Investigacin sobre conocimientos y hbitos en Argentina
+
+Se presentaron los resultados obtenidos en la Ciudad de Buenos Aires y en Mendoza, propiciando un espacio para la reflexin acerca del sostenimiento y escalabilidad de esta iniciativa
+Presentacin de Actualizacin de Indicadores de Emisiones Energticas en Argentina
+Se presentaron los resultados actualizados a junio de 2022 del proyecto desarrollado en conjunto con la Fundacin Torcuato Di Tella.
+
+Gastn Gertner, director ejecutivo del CEPE, habl en el evento organizado en el Congreso
+
+El 25 de agosto se realiz la 5. 
+Conversamos con Gastn, quien a comienzos de noviembre asumi como Director Ejecutivo del CEPE.
+A pocos das de terminar el ao, nos gustara compartir con ustedes algunos de los hechos ms destacados.
+
+Qu aprendimos del proceso de participacin de la sociedad civil en educacin
+
+Qu aprendieron sobre educacin las empresas tecnolgicas?
+
+Ms de 25 oradores debatieron sobre educacin en la IV 
+
+Qu hacer con los estudiantes excluidos en la pandemia? Expusieron funcionarios de la regin
+
+El director acadmico del CEPE cre una encuesta para estudiar las dimensiones socioeconmicas detrs del debate sobre la presencialidad escolar en pandemia.
+
+Fue reconocido por el Global Go To Think Tank Index Report del 2020.
+Una seleccin de los contenidos que lograron mayor repercusin durante el ao pasado.
+
+A pocos das de terminar el 2020, nuestro balance de fin de ao.
+
+Se inaugur el 2 ciclo de charlas Pensando la pospandemia
+
+[
+/
+[Av. Figueroa Alcorta 7350 (C1428BCW)](https://goo.gl/maps/VrVvK)
+Senz Valiente 1010 (C1428BIJ)
+Ciudad de Buenos Aires, Argentina
+[Cmo llegar?](/listado_contenidos.php?id_item_menu=161)
+/
+[Polticas de privacidad](/politicas-privacidad)
+Adems, en alianza con la Formacin Ejecutiva en Polticas Pblicas de la Escuela de Gobierno ofrecemos los siguientes cursos:
+
+**
+
+<div class="blog-source-link">
+Publicado originalmente en <a href="https://www.utdt.edu/nota_prensa.php?id_nota_prensa=22601&id_item_menu=25279">La Nación</a>
+</div>
+
+</div>
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="IA">IA</button>
+  <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
+  <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
+  <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Política">Política</button>
+  <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
+  <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+  <button class="blog-filter-btn" data-category="Región">Región</button>
+</div>
+
+</div>
+
+</div>
+
+<script>
+// Filtros por categoría - redirige al blog con el filtro
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  
+  // Hacer las categorías clickeables
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+
+<script>
+// Traducir Author y Published al español
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+
+<footer class="site-footer">
+  <img src="../logos_combinados.png" alt="CEPE y Fundar" width="400">
+</footer>

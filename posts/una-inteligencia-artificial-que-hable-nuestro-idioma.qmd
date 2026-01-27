@@ -1,0 +1,151 @@
+---
+title: "Una inteligencia artificial que hable nuestro idioma"
+description: "Una inteligencia artificial que hable nuestro idioma"
+date: "2025-09-10"
+author: "Eduardo Levy Yeyati"
+categories: ['IA', 'Tecnología', 'Políticas Públicas', 'Región']
+---
+
+<div class="blog-layout">
+
+<div class="blog-content">
+
+El director acadmico del Cepe escribi sobre el proyecto "LatamGPT", un modelo de inteligencia artificial diseado para Amrica Latina.
+“Dime cmo hablas y te dir de dnde vienes”, podra susurrar un algoritmo. Cuando ChatGPT describe nuestra cultura como “vibrante, diversa, arraigada en herencia indgena, africana y europea”, uno no sabe si aplaudir la correccin poltica o lamentar la blandura de postal turstica. El problema trasciende la cortesa: estos cerebros artificiales tropiezan con nuestros cdigos locales, no entienden que “nos vemos” en Buenos Aires es una promesa etrea, confunden las siglas cambiantes de la burocracia territorial o alucinan palabras en guaran con la desenvoltura de un colonizador digital.
+Un grupo de ingenieros est construyendo una respuestaa esto: LatamGPT, el primer modelo de inteligencia artificial diseado especficamente para nuestra regin, que tiene lanzamiento programado para 2025. El proyecto, coordinado desde Chile por el Centro Nacional de Inteligencia Artificial (Cenia), plantea una pregunta que roza lo existencial: puede una regin que siempre lleg tarde al cambio tecnolgico escribir su propio guion digital? Con 33 alianzas estratgicas firmadas en 2024 que incluyen a 12 pases —y el respaldo de Brasil, que comprometi cerca de US$4000 millones para su plan de IA de 2024-2028—, el proyecto trasciende la fantasa tecnopatritica.
+LatamGPT promete una revolucin silenciosa: entre 50.000 y 70.000 millonesde parmetros entrenados con 8 terabytes de datos del barrio latinoamericano. Decisiones judiciales de tribunales porteos, registros bibliotecarios de Lima, libros de texto de Bogot y lenguas ancestrales como el nhuatl, el quechua y el mapudungun alimentarn sus neuronas artificiales. Imaginemos un modelo que no solo traduzca, sino que adems*comprenda*la diferencia entre un*pibe*porteo, un*cara*carioca, un*pelado*bogotano, un*cabro*santiaguino, un*chavo*chilango, un*chibolo*limeo, un*botija*montevideano. Un algoritmo que, all donde ChatGPT responde con la fra genericidad de “trmites gubernamentales”, pueda navegar las particularidades del PIX brasileo, desentraar los misterios del CURP mexicano o seguir la danza de siglas y colores del Estado y la poltica argentinos (de la AFIP a la ARCA, de celeste a violeta).
+Lo que comenz como experimento acadmico mut en obsesin continental. Brasil lidera con pica sudamericana; con su Plan de IA 2024-2028, distribuye 23.000 millones de reales en cuatro aos, casi 14.000 millones para innovacin empresarial y ms de 5000 millones para infraestructura. Colombia aprob el Conpes 4144, un plan de US$479 millones en seis aos que promete digitalizar hasta el ltimo rincn rural. Chile anunci US$2500 millones para 28 centros de datos; segn el ndice Latinoamericano de Inteligencia Artificial 2024 de la Cepal, el pas mapuche ocupa el primer lugar, seguido por Brasil y Uruguay. La delantera chilena no es casualidad. El Centro Binacional Franco-Chileno de Inteligencia Artificial, inaugurado en febrero de 2025 tras el acuerdo entre Boric y Macron, materializa una cooperacin que aporta el*savoir faire*francs del Inria. El centro de supercomputacin de la Universidad de Tarapac, con sus US$10.000.000 de inversin y energa renovable del desierto de Atacama, hospeda hoy el futuro latinoamericano.
+Chile fuetambin pionero en completar la Metodologa de Evaluacin de Preparacin para IA de la Unesco, actualizando su poltica nacional en 2024 con nfasis en transparencia y equidad. Su proyecto de ley de 2024 crea consejos asesores tcnicos y marcos basados en riesgo, anticipndose a la mayora regional con esa vocacin regulatoria que nos distingue de la anarqua californiana. En paralelo, las comunidades indgenas escriben su propia pica digital. El Proyecto Illary de Per cre el primer avatar presentador de noticias del mundo en quechua, con 80-90% de precisin, migrando desde aulas universitarias hasta la viralidad de TikTok, prueba de que la tecnologa puede ser puente, no sepultura, de nuestras lenguas originarias.
+En Brasil, la alianza entre IBM Research y la comunidad guaran Tenonde Porprodujo un “asistente lingstico” que ayud a 30 estudiantes de secundaria a escribir oraciones ms complejas en mbya guaran despus de un semestre. Un modelo escalable a las 190 lenguas indgenas brasileas que enfrentan riesgo de extincin, tecnologa como arqueologa del futuro. Mxico desarrolla cinco proyectos documentados por la Unesco, incluidos proteccin de patrones textiles con IA para comunidades de Altos de Chiapas y sistemas de traduccin multilinge que abrazan 11 familias de lenguas indgenas. Google News Initiative apoya proyectos como Quispe Chequea de Per, que crea contenido en quechua, aimara y awajn para 12 estaciones de radio amaznicas y andinas.
+La pregunta persiste: soberana digital o autoengao en tecnicolor?Con una inversin regional de US$8200 millones frente a los US$190.000 millones globales, las proporciones sugieren ms David que Goliat. La aparicin de alternativas como DeepSeek —que exhibe rendimiento superior a ChatGPT en traduccin al espaol en ciertas pruebas— redefine el tablero. De repente, el acceso rentable a IA de calidad no requiere ciudadana californiana. Y los modelos pequeos de fuente abierta se vuelven moda. Debemos partir de uno de estos modelos y “ecualizarlo” para que cante con nuestras voces, a riesgo de quedar atrapados en una suscripcin ascendente como el protagonista del episodio “Common People” de la ltima temporada de*Black Mirror*? Conviene empezar de cero con un modelo nuestro americano difcil de crear y costoso de mantener?
+Suiza eligi la soberana total con su modelo multilinge de cdigo abiertopara 2025, demostrando que la IA nacional es tcnicamente viable —con condiciones de peso: inversin pblica sostenida, coordinacin institucional militar, capacidad centralizada suiza; para el resto de nosotros, la alternativa pragmtica parecera ser la adaptacin inteligente— en lnea con el camino adoptado por LatamGPT. Tcnicas como LoRA (*Low-Rank Adaptation*) permiten personalizar modelos existentes para contextos regionales con una fraccin del costo computacional; la alquimia de convertir inteligencia artificial ajena en propia sin quebrar el tesoro pblico. Aqu, las alianzas estratgicas son vitales: Microsoft-Kyndryl expandiendo su Centro de Excelencia regional, Amazon prometiendo US$1800 millones para centros de datos brasileos, la Alianza Digital UE-ALC facilitando transferencia tecnolgica, Google Startup Accelerator AI First ofreciendo hasta US$350.000 en crditos de nube para participantes brasileos.
+J.P. Morgan estima una oportunidad de US$100.000 millonesdurante la prxima dcada para la economa de servicios de IA en Amrica Latina. Los banqueros, cuando olfatean ganancias, rara vez se equivocan. LatamGPT tambin nos obliga a repensar una hereja: si la conectividad digital es el ferrocarril del siglo XXI y la IA, el motor de la era posindustrial, por qu el Estado observa desde las gradas? La infraestructura sola significar cemento y acero. Hoy incluye GPU y datasets estructurados. El experimento LatamGPT testea si la IA puede funcionar como infraestructura pblica: gestionada para beneficio colectivo, no rentabilidad privada.
+Esto subvierte en parte suscriterios de xito. Mientras la IA comercial persigue*engagement*adictivo, el modelo pblico debera servir a la educacin, la salud, la preservacin cultural. Por ejemplo, si la IA puede reducir la desercin escolar y optimizar servicios de salud pblica, el entrenamiento con datos regionales debera volverla ms efectiva que alternativas globales para contextos locales, justificando la inversin pblica como inversin en futuro, no en prestigio. Qu hace falta para que los gobiernos de la regin entiendan que la IA va camino a ser un servicio bsico como la educacin, la salud o el transporte, y debera ser tratada del mismo modo?
+El lanzamiento de LatamGPT ser el primer examen real que probarsi Amrica Latina puede escribir su propio libreto en la era de la IA. Los factores de xito se perfilan ntidamente: inversin gubernamental sustancial, cooperacin regional indita, desarrollo comunitario para poblaciones indgenas, y posicionamiento estratgico en aplicaciones especializadas antes que competencia frontal. En suma, un quiebre con las modas polticas de la historia reciente. El xito se medir no en*benchmarks*tcnicos, sino en transformacin social. Si el modelo ayuda a una maestra rural de Nario o a un funcionario de Ecatepec a trabajar mejor, habr justificado su existencia independientemente de cuntos parmetros tenga o qu tan rpido procese.
+La soberana de IA latinoamericana depender de la voluntad polticapara inversintecnolgica sostenida y la capacidad institucional para mantenerla. LatamGPT ofrece un comienzo prometedor, pero, como toda promesa latinoamericana, la prueba est en la perseverancia de la ejecucin, no en el anuncio. El objetivo no es competir con Silicon Valley, sino construir una IA que nos sirva. En un mundo donde los algoritmos moldean nuestras percepciones de la realidad, tener una IA que entienda la nuestra no es un lujo tecnolgico: es supervivencia cultural. Como dira un algoritmo criollo: “No se trata de hablar como ellos, sino de que nos entiendan como somos”.
+
+Capacitacin sobre adopcin de inteligencia artificial en empresas
+Despus de la COP30: las promesas se traducen en acciones?
+Charla sobre los resultados de la Conferencia de las Partes de Cambio Climtico
+
+Debate sobre el impacto de la IA en la democracia
+Est disponible la nueva publicacin trimestral
+
+Innovacin vs Regulacin: el dilema de la Inteligencia Artificial
+ltimo encuentro del ciclo de charlas de Inteligencia Artificial y Polticas Pblicas
+Transformacin digital e inclusin financiera juvenil: hallazgos clave del estudio de CEPE Di Tella
+Presentacin de los resultados de la investigacin
+Una dcada de economa del comportamiento en Latinoamrica
+Est disponible la nueva publicacin del ndice de Conflictividad Laboral
+
+Inteligencia artificial y escolarizacin: ruptura o continuidad?
+
+Est disponible la publicacin de junio del ndice de Conflictividad Laboral
+Presentacin de Juan Cruz Loureiro en Tech4Impact 2024
+Qu es la inteligencia artificial? Avances de un fenmeno que lleg para quedarse
+
+La atencin de Gobierno en la era digital: El caso Boti en la Ciudad de Buenos Aires
+Sali la publicacin de marzo del ndice de Conflictividad Laboral
+Nueva Publicacin: Complejidad y polticas pblicas: una agenda de presente y futuro
+Este documento recopila los temas tratados durante la 6.a 
+Sali la publicacin de diciembre del ndice de Conflictividad Laboral
+
+Presentacin del informe coescrito con la RREI
+Presentacin del informe "Desigualdades heredadas"
+Discusin sobre el reporte publicado por RED CAF 2022
+
+El 24 de agosto se realiz la 6. 
+Se present el Documento de Polticas Pblicas de Beatriz Toribio junto a un panel de expertos.
+Presentacin del libro "La transicin energtica en la visin de sus protagonistas"
+Conversacin sobre el libro publicado por el Instituto Torcuato Di Tella
+Sali la publicacin de abril del ndice de Conflictividad Laboral
+
+Nueva publicacin: Energa, cambio climtico y crecimiento
+Este documento recopila los temas tratados durante la 5.a 
+Presentacin de investigacin: Los adolescentes y las finanzas
+Investigacin sobre conocimientos y hbitos en Argentina
+
+Se presentaron los resultados obtenidos en la Ciudad de Buenos Aires y en Mendoza, propiciando un espacio para la reflexin acerca del sostenimiento y escalabilidad de esta iniciativa
+Presentacin de Actualizacin de Indicadores de Emisiones Energticas en Argentina
+Se presentaron los resultados actualizados a junio de 2022 del proyecto desarrollado en conjunto con la Fundacin Torcuato Di Tella.
+
+Gastn Gertner, director ejecutivo del CEPE, habl en el evento organizado en el Congreso
+
+El 25 de agosto se realiz la 5. 
+Conversamos con Gastn, quien a comienzos de noviembre asumi como Director Ejecutivo del CEPE.
+A pocos das de terminar el ao, nos gustara compartir con ustedes algunos de los hechos ms destacados.
+
+Qu aprendimos del proceso de participacin de la sociedad civil en educacin
+
+Qu aprendieron sobre educacin las empresas tecnolgicas?
+
+Ms de 25 oradores debatieron sobre educacin en la IV
+
+<div class="blog-source-link">
+Publicado originalmente en <a href="https://www.utdt.edu/nota_prensa.php?id_nota_prensa=22950&id_item_menu=25279">La Nación</a>
+</div>
+
+</div>
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="IA">IA</button>
+  <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
+  <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
+  <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Política">Política</button>
+  <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
+  <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+  <button class="blog-filter-btn" data-category="Región">Región</button>
+</div>
+
+</div>
+
+</div>
+
+<script>
+// Filtros por categoría - redirige al blog con el filtro
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  
+  // Hacer las categorías clickeables
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+
+<script>
+// Traducir Author y Published al español
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+
+<footer class="site-footer">
+  <img src="../logos_combinados.png" alt="CEPE y Fundar" width="400">
+</footer>

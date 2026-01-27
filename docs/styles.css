@@ -323,11 +323,22 @@ hr {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.blog-entry-meta span:first-child {
+  color: var(--secondary-color);
+}
+
+.blog-entry-meta span:last-child {
+  color: var(--accent-color);
+  font-weight: 500;
 }
 
 .blog-entry-meta::before {
   content: "·";
   margin: 0 0.25rem;
+  color: var(--secondary-color);
 }
 
 .blog-entry-meta:first-child::before {
