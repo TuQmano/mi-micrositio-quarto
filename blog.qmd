@@ -1,27 +1,200 @@
 ---
-title: "Blog"
+title: "Opinión"
 description: "Reflexiones, análisis y novedades sobre inteligencia artificial y políticas públicas"
 ---
 
-## Entradas del blog
+<div class="blog-layout">
 
-Aquí encontrarás nuestras reflexiones, análisis y novedades sobre inteligencia artificial, políticas públicas y desarrollo.
+<div class="blog-content">
 
-<div class="blog-entry">
+<div class="blog-entry" data-categories="IA Política Deepfakes Democracia">
 
-### [Ejemplo de entrada de blog](posts/ejemplo-entrada.html)
+### [Deepfakes, campañas sucias y un decálogo que parece sátira, pero denuncia algo muy real](posts/deepfakes-campanas-sucias.html)
 
 <div class="blog-entry-meta">
-<span>26 de enero, 2025</span>
-<span>Equipo nadia</span>
+<span>15 de junio, 2023</span>
+<span>Daniel Yankelevich</span>
 </div>
 
 <div class="blog-entry-excerpt">
-Esta es una entrada de ejemplo que puedes usar como plantilla para crear nuevas entradas de blog.
+Los deepfakes representan un desafío real para la democracia. Un decálogo que parece sátira pero denuncia una realidad preocupante.
 </div>
 
-<a href="posts/ejemplo-entrada.html" class="blog-entry-link">Leer más →</a>
+<a href="posts/deepfakes-campanas-sucias.html" class="blog-entry-link">Leer más →</a>
 
 </div>
 
-<!-- Para agregar nuevas entradas, crea un archivo .qmd en la carpeta posts/ y agrega aquí una entrada similar a la de arriba -->
+<div class="blog-entry" data-categories="IA Regulación Políticas Públicas">
+
+### [No culpen al algoritmo: ¿cómo regular la inteligencia artificial en un mundo demasiado humano?](posts/no-culpen-al-algoritmo.html)
+
+<div class="blog-entry-meta">
+<span>10 de agosto, 2023</span>
+<span>Daniel Yankelevich</span>
+</div>
+
+<div class="blog-entry-excerpt">
+La regulación de la inteligencia artificial requiere entender que los algoritmos son creados por humanos y reflejan decisiones humanas.
+</div>
+
+<a href="posts/no-culpen-al-algoritmo.html" class="blog-entry-link">Leer más →</a>
+
+</div>
+
+<div class="blog-entry" data-categories="IA Tecnología Innovación">
+
+### [Inteligencia artificial sin ciencia ficción: más allá de los chatbots, hay mucho por hacer](posts/ia-sin-ciencia-ficcion.html)
+
+<div class="blog-entry-meta">
+<span>6 de julio, 2023</span>
+<span>Macarena Santolaria</span>
+</div>
+
+<div class="blog-entry-excerpt">
+La inteligencia artificial va mucho más allá de los chatbots. Hay un mundo de aplicaciones prácticas y transformaciones reales por explorar.
+</div>
+
+<a href="posts/ia-sin-ciencia-ficcion.html" class="blog-entry-link">Leer más →</a>
+
+</div>
+
+<div class="blog-entry" data-categories="IA Educación Tecnología">
+
+### [Inteligencia artificial. ¿El conocimiento portátil del futuro?](posts/conocimiento-portatil-futuro.html)
+
+<div class="blog-entry-meta">
+<span>26 de marzo, 2023</span>
+<span>Sebastián Ceria y Daniel Yankelevich</span>
+</div>
+
+<div class="blog-entry-excerpt">
+¿Será la inteligencia artificial el conocimiento portátil del futuro? Una reflexión sobre las posibilidades y desafíos.
+</div>
+
+<a href="posts/conocimiento-portatil-futuro.html" class="blog-entry-link">Leer más →</a>
+
+</div>
+
+<div class="blog-entry" data-categories="IA Políticas Públicas">
+
+### [Inteligencia artificial generativa: una cuestión política](posts/ia-generativa-cuestion-politica.html)
+
+<div class="blog-entry-meta">
+<span>15 de marzo, 2023</span>
+<span>Daniel Yankelevich</span>
+</div>
+
+<div class="blog-entry-excerpt">
+La inteligencia artificial generativa no es solo una tecnología, sino una cuestión política que requiere atención y regulación.
+</div>
+
+<a href="posts/ia-generativa-cuestion-politica.html" class="blog-entry-link">Leer más →</a>
+
+</div>
+
+<div class="blog-entry" data-categories="IA Políticas Públicas">
+
+### [Del asombro a la política: la inteligencia artificial sube al estrado](posts/del-asombro-a-la-politica.html)
+
+<div class="blog-entry-meta">
+<span>1 de febrero, 2023</span>
+<span>Daniel Yankelevich</span>
+</div>
+
+<div class="blog-entry-excerpt">
+Este artículo explora cómo la inteligencia artificial está ingresando al debate político y transformando la forma en que pensamos sobre las políticas públicas.
+</div>
+
+<a href="posts/del-asombro-a-la-politica.html" class="blog-entry-link">Leer más →</a>
+
+</div>
+
+</div>
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="IA">IA</button>
+  <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
+  <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
+  <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Política">Política</button>
+  <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
+  <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+</div>
+
+</div>
+
+</div>
+
+<script>
+// Filtros por categoría
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  const blogEntries = document.querySelectorAll('.blog-entry');
+  
+  // Obtener categoría de la URL si existe
+  const urlParams = new URLSearchParams(window.location.search);
+  const categoryFromUrl = urlParams.get('categoria');
+  
+  // Si hay categoría en la URL, activarla
+  if (categoryFromUrl) {
+    filterButtons.forEach(btn => {
+      btn.classList.remove('active');
+      if (btn.getAttribute('data-category') === categoryFromUrl) {
+        btn.classList.add('active');
+      }
+    });
+  }
+  
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      
+      // Actualizar botones activos
+      filterButtons.forEach(btn => btn.classList.remove('active'));
+      this.classList.add('active');
+      
+      // Actualizar URL sin recargar
+      if (category === 'all') {
+        window.history.pushState({}, '', 'blog.html');
+      } else {
+        window.history.pushState({}, '', 'blog.html?categoria=' + encodeURIComponent(category));
+      }
+      
+      // Filtrar entradas
+      blogEntries.forEach(entry => {
+        if (category === 'all') {
+          entry.style.display = '';
+        } else {
+          const categories = entry.getAttribute('data-categories');
+          if (categories && categories.includes(category)) {
+            entry.style.display = '';
+          } else {
+            entry.style.display = 'none';
+          }
+        }
+      });
+    });
+  });
+  
+  // Aplicar filtro inicial si hay categoría en la URL
+  if (categoryFromUrl && categoryFromUrl !== 'all') {
+    blogEntries.forEach(entry => {
+      const categories = entry.getAttribute('data-categories');
+      if (categories && categories.includes(categoryFromUrl)) {
+        entry.style.display = '';
+      } else {
+        entry.style.display = 'none';
+      }
+    });
+  }
+});
+</script>
+
+<footer class="site-footer">
+  <img src="logos_combinados.png" alt="CEPE y Fundar" width="400">
+</footer>

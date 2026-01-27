@@ -7,9 +7,9 @@ El **Centro de Políticas Públicas** ([**CEPE**](https://www.utdt.edu/listado_c
 
 Somos el primer espacio en Argentina dedicado a producir datos, investigación y proyectos innovadores sobre inteligencia artificial, con foco en políticas públicas y desarrollo económico. Queremos que la IA sea un vector para impulsar un desarrollo inclusivo, competitivo y sostenible para Argentina y la región.
 
-> **CEPE** es el centro de políticas públicas basadas en evidencia de la Escuela de Gobierno de la Universidad Torcuato Di Tella.
+**CEPE** es el centro de políticas públicas basadas en evidencia de la Escuela de Gobierno de la Universidad Torcuato Di Tella.
 
-> **Fundar** es un centro de innovación en políticas de desarrollo que busca impulsar transformaciones estructurales para la Argentina. Innovación, para nosotros, quiere decir pensar los problemas de nuestro país desde un punto de vista integral y ofrecer soluciones concretas que puedan ser aplicadas y testeadas. Nuestro objetivo es que esas soluciones contribuyan a construir una Argentina desarrollada, en donde todas las personas puedan vivir plenamente. Una Argentina productiva y sustentable, estable, inteligente y conectada, y de bienestar compartido.
+**Fundar** es un centro de innovación en políticas de desarrollo que busca impulsar transformaciones estructurales para la Argentina. Innovación, para nosotros, quiere decir pensar los problemas de nuestro país desde un punto de vista integral y ofrecer soluciones concretas que puedan ser aplicadas y testeadas. Nuestro objetivo es que esas soluciones contribuyan a construir una Argentina desarrollada, en donde todas las personas puedan vivir plenamente. Una Argentina productiva y sustentable, estable, inteligente y conectada, y de bienestar compartido.
 
 
 
@@ -39,4 +39,6 @@ Nuestro objetivo es que la inteligencia artificial se convierta en un motor de p
 |                     |   Macarena Santolaria    |
 ------------------------------------------------------------------------
 
-![](logos_combinados.png){fig-align="center" width="400"}
+<footer class="site-footer">
+  <img src="logos_combinados.png" alt="CEPE y Fundar" width="400">
+</footer>

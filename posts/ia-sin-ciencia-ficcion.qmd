@@ -1,0 +1,120 @@
+---
+title: "Inteligencia artificial sin ciencia ficción: más allá de los chatbots, hay mucho por hacer"
+description: "Artículo sobre inteligencia artificial"
+date: "2025-07-06"
+author: "Macarena Santolaria"
+categories: ['IA', 'Tecnología', 'Innovación']
+---
+
+<div class="blog-layout">
+
+<div class="blog-content">
+
+**Más que preocuparnos por frenar el ascenso inminente y universal de la IA, en Argentina la principal preocupación debería ser su baja implementación en las empresas y en particular en las pymes.**
+
+La irrupción de la IA generativa en 2022 disparó especulaciones más cercanas a la ciencia ficción que a la realidad productiva. Nos invaden reels que alarman sobre la inminencia de robots en toda empresa y hogar de familia. Nos dicen que no hay vuelta atrás. Que ChatGPT es más inteligente que todos nosotros y, por ende, nos reemplazará en todo lo que pueda ser automatizado (ya que **todo es automatizable**). Pero, ¿nos sirve esta perspectiva alarmista?
+
+El perfeccionamiento exponencial de los LLM —*large language models* o modelos extensos de lenguaje— o, en su versión más conocida, chatbots como **Chat GPT, Gemini, Claude o Copilot**, despertó en el mundo fascinación y temor por igual.
+
+La carrera entre grandes tecnológicas por la construcción del LLM más inteligente en los últimos tres años sedimentó una certeza: pronto alcanzaremos la **AGI**. Estas tres siglas significan *artificial general intelligence* —o IA general—, también nombrada como “superinteligencia”. Estos dos conceptos representan aquel momento hipotético en donde la IA superaría a la inteligencia humana en todos los ámbitos. O sea, un futuro en donde la IA **revise formularios, realice traducciones, redacte regulaciones o diseñe fármacos** mejor que cualquier ser humano y de manera autónoma. Recientemente el progreso en datos, computación y modelos adelantaron las proyecciones sobre la conquista de la AGI a dentro de 10, 5 y 2 años. Según Sam Altman, en OpenAI ya saben cómo construirla. Expertos y empresarios en todo el mundo llamaron a detener los grandes desarrollos de la IA, hasta asegurar que estos estén alineados con “valores humanos”.
+
+Es importantísimo que se den esos debates. Existen riesgos éticos, laborales y de seguridad reales que las políticas y regulaciones tienen que atender. **Pero Argentina no es Silicon Valley. **Más que preocuparnos por frenar el ascenso inminente y universal de la IA, en Argentina la principal preocupación debería ser** su baja implementación.**
+
+Es cierto que algunos sectores como la programación, el diseño o la publicidad están avanzando rápido, y es lógico que eso contribuya a una sensación de adopción generalizada. Es verdad que la IA hace imágenes estilo Ghibli espectaculares y que con Veo-3 ya no podemos distinguir entre un video real y uno artificial. Pero, puesto en perspectiva, la difusión de esta tecnología en el sector productivo todavía es baja. Según un estudio del BID, en 2023, **sólo el 14% de las PyMEs en Argentina implementaron algún tipo de IA en sus procesos productivos** (aunque probablemente esa cifra ya sea más alta hoy y más aún en empresas grandes).
+
+La preocupación por el surgimiento de un neoludismo local resulta exagerada porque tampoco es que haya tantas máquinas para romper. No es que el debate sobre el alineamiento humano de las potenciales capacidades de la IA no sea importante ni deba existir. Lo es. Pero para que estas preocupaciones se traduzcan en regulaciones concretas, primero tiene que existir un sujeto susceptible de ser regulado.
+
+Para salir de una discusión lejana a la realidad productiva nacional es necesario desmitificar un primer supuesto del debate. La IA es mucho más que Chat GPT y los LLM son mucho más que chatbots. El problema de reducir a la IA a un chat es que se corre el peligro de** alejar **a potenciales adoptantes de su uso. Es difícil pensar estrategias de implementación de la IA si la única forma de intervención en los procesos productivos de todas las cadenas de valor de cada vertical sectorial es un chatbot. La IA como tecnología de propósito general abarca muchas más técnicas.
+
+Estas otras técnicas son, de hecho, las que mayormente están siendo desarrolladas e implementadas en Argentina.
+
+En el **agro** se están utilizando drones e imágenes satelitales combinadas con técnicas como visión por computadora y algoritmos clásicos de aprendizaje automático para desarrollar soluciones que van desde el conteo de plantas, la detección de plagas o el monitoreo y seguimiento del ganado.
+
+El sector de la** energía **utiliza realidad virtual y aumentada para la formación de trabajadores en entornos controlados y algoritmos de predicción del rendimiento y de posibles errores en la perforación de pozos.
+
+En el sector de la** salud **se desarrollaron modelos con deep learning para analizar lesiones y algoritmos de clasificación para el análisis de estudios mamográficos y de tórax.
+
+Una cantidad significativa de estos casos de aplicación surgieron no tanto de la licencia de modelos desarrollados en otros países, sino más bien debido a la colaboración entre empresas tradicionales con las distintas universidades e institutos de investigación científica públicas (como el INTA), y con las prolíficas startups de IA argentinas *(agtechs, healthtecs, biotechs, climate techs,* entre otras) y empresas tecnológicas nacionales proveedoras de software y servicios informáticos.
+
+Es necesario traer al centro de la discusión la variedad de casos de implementación y sincerarnos acerca del** atraso **en la adopción tecnológica nacional: este cambio de perspectiva nos aleja de debates estériles sobre las promesas y amenazas grandilocuentes de la IA. Salir de esta parálisis, al mismo tiempo, nos permite pensar cómo podemos y de qué manera queremos insertar la IA en el entramado productivo nacional.
+
+Una estrategia nacional **en clave desarrollista e inclusiva** tiene que ser llevada a cabo con acciones concretas que promuevan la implementación de la IA en los procesos productivos. Acciones como políticas de transferencia entre el sistema científico tecnológico nacional y el sector productivo (que estuvieron bien direccionadas en iniciativas como el CAMIA o el préstamo del BID al MINCyT para el desarrollo de aplicaciones de IA en sectores exportadores, pero quedaron finalmente truncas) o políticas de formación profesional que contemplen nuevas competencias laborales para el uso de IA en distintas ocupaciones. Estas acciones podrían ser integradas por un centro que funcione como un** “INTA de la IA”.** Un centro que integre distintas estrategias para atacar las barreras de implementación de la IA en las empresas, las asista en oportunidades concretas de aplicación y las ayude a integrar esta tecnología de manera justa y democrática en los lugares de trabajo.
+
+El problema de las proyecciones sobre la completa e inminente automatización es que obvian la brecha entre los prototipos californianos y la adopción real de estas tecnologías en los sectores productivos. La explosión de productividad prometida por la IA no llegará** mientras la microempresa de comercio minorista en el NOA o la mediana empresa de autopartes de Córdoba asocien la IA a Elon Musk y a Chat GPT.**
+
+En cambio, el aumento de la productividad y del desarrollo vendrán de la mano de un abordaje local de la IA —con menos promesas y amenazas– y con técnicas de IA menos populares –más allá de los LLM—. Para ser el tercer hub de IA en el mundo primero tenemos que dejar la ciencia ficción al territorio del cine y la literatura: el futuro productivo de nuestro país requiere de otro tipo de imaginación.
+
+
+<div class="blog-source-link">
+Publicado originalmente en <a href="https://fund.ar/publicacion/inteligencia-artificial-sin-ciencia-ficcion-mas-alla-de-los-chatbots-hay-mucho-por-hacer/">Clarín</a>
+</div>
+
+</div>
+
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="IA">IA</button>
+  <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
+  <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
+  <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Política">Política</button>
+  <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
+  <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+</div>
+
+</div>
+
+
+</div>
+
+
+<script>
+// Filtros por categoría - redirige al blog con el filtro
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  
+  // Hacer las categorías clickeables
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+
+
+
+<script>
+// Traducir Author y Published al español
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+
+
+<footer class="site-footer">
+  <img src="../logos_combinados.png" alt="CEPE y Fundar" width="400">
+</footer>

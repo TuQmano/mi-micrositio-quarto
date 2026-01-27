@@ -1,0 +1,138 @@
+---
+title: "Deepfakes, campañas sucias y un decálogo que parece sátira, pero denuncia algo muy real"
+description: "Artículo sobre inteligencia artificial"
+date: "2025-06-15"
+author: "Daniel Yankelevich"
+categories: ['IA', 'Política', 'Deepfakes', 'Democracia']
+---
+
+<div class="blog-layout">
+
+<div class="blog-content">
+
+El año pasado hubo al menos tres casos en que un alumno de secundaria publicó videos íntimos de sus compañeras. El tema trascendió porque, en todos los casos, no eran exactamente ellas. Eran videos editados usando inteligencia artificial (IA) llamados deepfakes. Esto no lo hace gracioso ni menos grave: las chicas fueron efectivamente muy expuestas y agredidas, y aunque rápidamente se supo que eran fake, no quita que sea un problema serio que esos videos sigan dando vueltas por internet.
+
+Este es un problema serio. El gobierno de Trump, al que nadie puede acusar de woke o progresista, impulsó una ley llamada “Take It Down Act” (Ley Elimínalo, en español): desde el 19 de mayo de 2025 es delito federal en Estado Unidos publicar a sabiendas representaciones visuales íntimas de personas sin su consentimiento. Esto incluye imágenes reales y deepfakes, y tiene implicancias directas sobre las formas de hacer campañas políticas.
+
+En ese sentido, es imposible no mencionar lo que sucedió en las últimas elecciones de la Ciudad de Buenos Aires: circuló un video de Mauricio Macri, en el cual el expresidente llamaba a votar a Manuel Adorni en vez de a Silvia Lospennato. Un ojo entrenado se daba cuenta bastante rápido de que era un video falso hecho con IA, un deepfake. El PRO cree que este video puede haber cambiado algún porcentaje de las elecciones y lo denunciaron en la justicia electoral. Según Macri, “esta acción tramposa demuestra un profundo desprecio por las reglas electorales y, en el fondo, por la democracia misma”.
+
+En Fundar venimos trabajando desde hace años sobre el uso de IA y sus riesgos. Alertamos sobre su potencial uso para manipular, en particular en contexto de elecciones. Como no logramos que esto sea tomado en serio, recordamos el viejo truco de la psicología inversa. Aquí va un cambio de foco: un decálogo de recomendaciones para el uso de IA y deepfakes en campañas. No somos una organización partidaria, pueden usarlo todos por igual.
+
+Decálogo de recomendaciones para una campaña con IA
+
+1. Viralizar primero, (no) chequear después
+
+Usar IA para realizar videos o imágenes de tu enemigo en una situación ridícula o humillante. Hemos visto a Putin llorando, a Biden durmiendo, y algunas más inocentes como el Papa Francisco con campera, entre otros. El truco es viralizarlas rápido mediante la Red (ver regla 8): la imagen llega rápido, la desmentida toma tiempo. Nunca usar términos como opositor o contrincante, siempre llamarlo enemigo.
+
+2. ¡Escuchá el audio que me mandó!
+
+Podés usar IA para generar audios con la voz del enemigo, y hacerlos pasar como audios de WhatsApp. Un mensaje en que el enemigo confiesa haber roto una ley nacional, o mucho peor: confiesa no bañarse. Reenviarlo a la mayor cantidad posible de grupos de consorcio, club, o padres de la escuela.
+
+3. Si el periodista dice que es deepfake, hacerle un deepfake al periodista
+
+Íntimamente relacionada con la 1. Para que esto funcione bien, hay que bajarle el precio al periodismo serio, que puede desmitificar e identificar fakes. Hay que montarse sobre el valor de las redes, donde todo vale, y circular deepfakes de estos nuevos enemigos. Si ellos protestan, burlarse por llorones. Si usan este Decálogo, tratarlos de falsos y mentirosos.
+
+4. Un apodo duele más que mil palabras
+
+Usar IA para combinar palabras que den apodos graciosísimos, hilarantes, de esos que no escuchás desde quinto grado. El truco es tirarle al chat diez instituciones que funcionen bien y que tu partido detesta, diez nombres de nuevos enemigos inventados, y pedirle que los combine. Estos apodos se viralizan fácilmente y permiten referirse al enemigo sin darle dimensión humana. Jamás reconocer valor alguno al enemigo.
+
+5. Jugar a sus debilidades
+
+Hay que estar atento a todas las fotos del enemigo. Por ejemplo, circula una imagen del enemigo y algo en su mesa parece, presuntamente, ser droga. La gente en la Red comienza a hablar de eso. Instantáneamente, hay que pedir a la IA más imágenes que pongan de relieve esa presunta droga. Unos videos de Macron, Merz y Starmer en un tren a Kiev mostraban un pañuelo sobre la mesa. Poco después, con algo de ayuda, los vimos bailar, drogarse y tirar polvo blanco por todos lados. Esto se viraliza rápido, es clave mezclar IA con la realidad.
+
+6. Relato IA mata mandato
+
+No tener plataforma ni plan de gobierno: usar IA para personalizar propuestas considerando solo preocupaciones y miedos de cada persona. Lo único importante es borrar las marcas del chat, aunque, en realidad, a nadie le importa y hoy ya es orgánico leer en medio de un texto “¡Qué buena idea! Ahí te van 10 opciones de medidas falsas que podrán atraer a tu electorado”. Por ejemplo, si sabemos que una madre está preocupada por la seguridad de su hijo que viaja solo al colegio, hablarle de robots policías que le dan la mano y lo acompañan. Al ciudadano que viaja muchas horas diarias, mostrarle avances de nuevas líneas de subte ficticias con imágenes generadas por IA. No proponer, solo apuntar al miedo y al hartazgo con mensajes lo más personalizados que la IA nos permita.
+
+7. Agrega músculos y mandíbula, quita papada a esta foto
+
+Si crees que tu imagen no es lo suficientemente agresiva para enfrentarte a tus muchos enemigos, que están por todos lados, pedirle al chat que altere tus fotos a piacere. Si muchos de tus amigos de la Red (ver 8) lo replican, empieza a ser verdad. Hoy somos en gran parte nuestros avatares, vos también podés tener músculos y no tener papada.
+
+8. La Red
+
+Armar una red. Todo esto debe ser hecho desde cuentas con seudónimos, replicadas por cuentas robot, militantes o tuiteros pagos. Mientras más aniñados los nombres mejor. La estructura de la red debe planificarse para que cualquier publicación pase por varios replicantes. La Red debe ser multiplataforma y controlada desde la Oficina Central.
+
+9. Amigos de la Red – Asociación Heterogénea
+
+La red debe tener una capa de cuentas de influencers conocidos, con el rol de potenciar y ser hubs de comunicación. Pueden ser cosplayers, jugadores de Age of Empires u otros famosos. La estructura de la Red no es única, pero el orden en que se publica y la velocidad de publicación son relevantes.
+
+10. No seas así, era un chiste nomás
+
+Si se descubre algo de todo esto, echar la culpa a las cuentas con seudónimos o de autores desconocidos o decir que todo es una joda. Total, regulación no hay.
+
+Si prefieren como nosotros un clima de elecciones distinto, donde estas cosas no sucedan o al menos no sean bien vistas, invitemos a toda la clase política a consensuar reglas, en forma de regulación o al menos acuerdos. Cuando uno ve un video íntimo con su cara circulando por internet, se da cuenta de que no siempre usar la IA produce resultados divertidos. Tampoco cuando se trata de la democracia.
+
+
+<div class="blog-source-link">
+Publicado originalmente en <a href="https://fund.ar/publicacion/deepfakes-campanas-sucias-y-un-decalogo-que-parece-satira-pero-denuncia-algo-muy-real/">TN</a>
+</div>
+
+</div>
+
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="IA">IA</button>
+  <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
+  <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
+  <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Política">Política</button>
+  <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
+  <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+</div>
+
+</div>
+
+
+</div>
+
+
+<script>
+// Filtros por categoría - redirige al blog con el filtro
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  
+  // Hacer las categorías clickeables
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+
+
+
+<script>
+// Traducir Author y Published al español
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+
+
+<footer class="site-footer">
+  <img src="../logos_combinados.png" alt="CEPE y Fundar" width="400">
+</footer>

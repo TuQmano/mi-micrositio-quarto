@@ -1,0 +1,104 @@
+---
+title: "Inteligencia artificial. ¿El conocimiento portátil del futuro?"
+description: "Artículo sobre inteligencia artificial"
+date: "2023-03-26"
+author: "Sebastián Ceria y Daniel Yankelevich"
+categories: ['IA', 'Educación', 'Tecnología']
+---
+
+<div class="blog-layout">
+
+<div class="blog-content">
+
+En 1950, Alan Turing creó el primer método para comprobar si una computadora podía responder y reaccionar como lo haría un humano: el test de Turing. En esta prueba, un observador neutral interactúa con dos interlocutores: uno de ellos es una computadora y el otro es un humano, pero el observador no sabe cuál es cuál. Si este último no logra descubrir a la computadora mediante una serie de preguntas, decimos que ha superado el test de Turing, ya que contesta “igual que un humano”. Cuando el célebre matemático desarrolló su test, la perspectiva de diseñar una computadora que pudiera superarlo era lejana. Hoy, en cambio, la sorpresa es que la computadora no supere el test.
+
+Más aún, con el reciente lanzamiento de la nueva versión del ChatGPT, un desarrollo de OpenAI, las respuestas parecen no solo indistinguibles, sino muchas veces mejores -en cuanto a su claridad conceptual y lingüística- a las que puede ofrecer un humano. De hecho, en algunos campos del trabajo intelectual, las computadoras ya vienen superando el test de Turing cotidianamente con actividades que suplen al trabajo humano. Por ejemplo, hace muy poco tiempo existía (existe todavía) una labor -la taquigrafía en sus versiones más o menos profesionales- que consistía en “desgrabar” una clase o una reunión a partir de una cinta. Hoy, eso mismo se puede hacer desde un audio o un video en forma completamente automatizable usando IA. El ejemplo es básico, pero, ¿hasta dónde puede extrapolarse? ¿Qué capacidades pueden aprenderse o facilitarse usando IA?
+
+Imaginemos ahora un test alternativo al de Turing, con un escenario y componentes similares, pero otro objetivo: averiguar si la tecnología IA puede proporcionar saberes de forma extraordinaria y “producir” un experto en tiempo récord. En una habitación tenemos un experto en cierta temática; en otra, una persona sin conocimientos específicos, pero asistido por una “mochila de IA” que está capacitado para usar y le sirve para obtener respuestas sobre esa temática; un tercer participante, neutral, tiene que interactuar con ambos. Si este último no puede distinguir a la persona experta de la inexperta, el test está aprobado. Nuestra prueba es una especulación, pero una especulación necesaria, porque nos permite formularnos las preguntas correctas de cara al futuro: ¿es posible que una persona, con la asistencia tecnológica adecuada, pueda dominar una capacidad o saber a una velocidad inédita? ¿Pueden estos dispositivos de IA ser instrumentos para reducir la diferencia entre expertos y no expertos? Para ser más claros, ¿puede la IA ser un instrumento para acortar la brecha de capacidades y de saberes? Existen elementos para dar una respuesta afirmativa.
+
+En primer lugar, la disrupción creada por la IA es un hecho indisputable: la IA está produciendo cambios en la manera que recibimos y construimos conocimientos. Pensemos en los videos de YouTube que enseñan soluciones a una vasta y variada gama de problemas a través de tutoriales: ¿no es una muestra clara de cómo la tecnología ya está ayudando a achicar la brecha de conocimientos, a aumentar y potenciar las capacidades de los no expertos? En segundo lugar, estamos seguros de que la formación que se requiere para interactuar con IA es más fácil de adquirir que una educación formal de varios años. Pensemos en poblaciones que tuvieron una educación básica deficitaria: la disrupción producida por la IA puede ser un instrumento para “saltar” la brecha de formación. Insistamos con el potencial: puede serlo, si esa “mochila” se piensa y planifica en una estrategia integral de desarrollo inclusivo y sustentable.
+
+Demos un ejemplo de la IA como salto en el dominio de una determinada disciplina: la programación. Las diferencias de productividad entre los programadores expertos y los programadores amateur es muy grande. En varios análisis que la ACM (Asociación Profesional Internacional de Computación) realizó a lo largo de los años, reportó diferencias de 700% en rendimiento entre ambos perfiles. Por otro lado, la IA por sí sola no está capacitada para programar sin supervisión directa: seguramente sus resultados son peores que los de un programador amateur. Pero un programador amateur con determinado entrenamiento específico y acceso a asistentes como los que ya existen (Copilot, por ejemplo) puede mejorar mucho y reducir la brecha con un programador excelente, aunque este tenga acceso a la misma herramienta. Es decir que la IA, en este campo, ayuda a reducir la brecha de capacidades, porque tiene un mayor efecto positivo en el no experto que en el experto. No es obvio que la vaya a tener en otros campos, pero sí que la posibilidad existe.
+
+Hay algo que sí es obvio o evidente: esas “mochilas IA” no van a ser un bien común en el futuro y no van a ser accesibles para todos por el solo hecho de que vayan a existir. Incluso, si fuéramos a usarlas para saltar brechas, ¿quién tendrá esas “mochilas”? ¿qué formación debe tener alguien para poder aprovechar todo su potencial? ¿se podrán fabricar como se fabrica un martillo? ¿quién puede o debe fabricarlas? ¿quién financiarlas?
+
+Entonces, ¿puede la IA ayudar a reducir la brecha de capacidades y de saberes? La respuesta está en nuestras manos, como sociedad. Se trata de definir una estrategia para usarla en esa dirección. Lo que ocurra puede tener consecuencias opuestas: ampliar o reducir las diferencias existentes.
+
+Es muy difícil que estos dispositivos vayan a ser instrumentos de igualación si solo vemos pasar el tren del futuro desde el terraplén del statu quo. La estrategia del laissez faire agranda la brecha entre sociedades que invierten billones de dólares en desarrollar estas capacidades y sociedades que no. Por eso, es imprescindible tener políticas públicas que empujen la posibilidad de que la IA forme parte de una dinámica virtuosa que ayude a nivelar para arriba.
+
+Entonces, ¿puede la IA ayudar a reducir la brecha de capacidades y de saberes? La respuesta está en nuestras manos, como sociedad. Se trata de definir una estrategia para usarla en esa dirección. Lo que ocurra puede tener consecuencias opuestas: ampliar o reducir las diferencias existentes. El resultado no es inevitable ni está dado: se trata de cómo decidimos actuar de cara a esta y a otras innovaciones tecnológicas. Debemos investigar, diseñar e implementar políticas públicas que incentiven el desarrollo de una IA inclusiva, capaz de revolucionar la educación, el mercado de trabajo y el potencial económico de nuestro país: ese es un camino posible para conseguir una sociedad más igualitaria. Quizás estemos ante una de las mayores oportunidades con potencial igualador de los últimos tiempos, pero debemos asegurarnos que la tecnología sea utilizada para reducir la brecha de conocimientos y no para generar el efecto contrario.
+
+
+<div class="blog-source-link">
+Publicado originalmente en <a href="https://fund.ar/publicacion/inteligencia-artificial-conocimiento-portatil-del-futuro/">el diario La Nación</a>
+</div>
+
+</div>
+
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="IA">IA</button>
+  <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
+  <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
+  <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Política">Política</button>
+  <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
+  <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+</div>
+
+</div>
+
+
+</div>
+
+
+<script>
+// Filtros por categoría - redirige al blog con el filtro
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  
+  // Hacer las categorías clickeables
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+
+
+
+<script>
+// Traducir Author y Published al español
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+
+
+<footer class="site-footer">
+  <img src="../logos_combinados.png" alt="CEPE y Fundar" width="400">
+</footer>

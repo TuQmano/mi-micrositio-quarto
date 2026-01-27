@@ -1,0 +1,91 @@
+---
+title: "No culpen al algoritmo: ¿cómo regular la inteligencia artificial en un mundo demasiado humano?"
+description: "Artículo sobre inteligencia artificial"
+date: "2025-08-10"
+author: "Daniel Yankelevich"
+categories: ['IA', 'Regulación', 'Políticas Públicas']
+---
+
+<div class="blog-layout">
+
+<div class="blog-content">
+
+En 2018, mientras en el Congreso se debatía la despenalización del aborto, el gobierno de la provincia de Salta anunció un algoritmo que permitía predecir embarazos adolescentes. Esta iniciativa fue recibida con amplias críticas y generó muchísimo rechazo por su visión discriminadora. Más aun, el repudio no se dio sólo a nivel local: el algoritmo llegó a la revista WIRED y fue juzgado negativamente por investigadores de Cambridge. El sistema propuesto «etiquetaba» a adolescentes salteñas según su nivel de riesgo de embarazo. Fueron tan demoledoras las críticas que no llegó a utilizarse y nunca se conoció cuáles iban a ser los usos de esta predicción.
+
+En 2022, el Ministerio de Educación de Mendoza puso en funcionamiento un sistema de alerta temprana de trayectorias en riesgo (SAT), que permite predecir la interrupción de las trayectorias educativas de estudiantes secundarios. El SAT agiliza la identificación de estudiantes en riesgo de deserción escolar y permite la intervención temprana para evitar que se interrumpa su escolaridad. Varios actores, incluso Fundar, lo reconocen como un caso de éxito de uso de datos para definición de políticas públicas y de modelos predictivos con impacto social.
+
+Según varios expertos, uno de los principales motivos de la interrupción de las trayectorias educativas es el embarazo adolescente.
+
+<div class="blog-source-link">
+Publicado originalmente en <a href="https://fund.ar/publicacion/no-culpen-al-algoritmo-como-regular-la-inteligencia-artificial-en-un-mundo-demasiado-humano/">Fundar</a>
+</div>
+
+</div>
+
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="IA">IA</button>
+  <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
+  <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
+  <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Política">Política</button>
+  <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
+  <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+</div>
+
+</div>
+
+
+</div>
+
+
+<script>
+// Filtros por categoría - redirige al blog con el filtro
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  
+  // Hacer las categorías clickeables
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+
+
+
+<script>
+// Traducir Author y Published al español
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+
+
+<footer class="site-footer">
+  <img src="../logos_combinados.png" alt="CEPE y Fundar" width="400">
+</footer>

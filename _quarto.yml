@@ -12,7 +12,7 @@ website:
       - href: encuesta.qmd
         text: "Investigación"
       - href: blog.qmd
-        text: "Blog"  
+        text: "Opinión"  
     right:
       - icon: github
         href: https://github.com/cepe-fundar
@@ -21,6 +21,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    lang: es
 
 
 
