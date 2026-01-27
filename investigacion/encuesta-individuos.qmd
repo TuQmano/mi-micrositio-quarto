@@ -1,0 +1,29 @@
+---
+title: "Encuesta Nacional sobre Adopción de IA - Individuos"
+description: "Argentina y Uruguay - Uso personal y laboral de IA generativa"
+---
+
+### **INFORMES:**
+
+📄 **ARGENTINA**  
+[⬇️ Descargar](https://drive.google.com/file/d/1uXZyQ8aqcDyxy2vtqSgQsRxEbEMk4E0q/view?usp=drive_link)
+
+📄 **URUGUAY**  
+[⬇️ Descargar](https://drive.google.com/file/d/1AJtLsLVoz8QJ5BTLwsAX7GO4lrBfOBKl/view?usp=drive_link)
+
+![](../images/flyer.png)
+
+### **¿Por qué una encuesta sobre usos de IA?**
+
+El mundo ya no es el que conocíamos. La inteligencia artificial está transformando la economía y la vida cotidiana a un ritmo acelerado, amplificando desigualdades o creando oportunidades. La población muestra sentimientos encontrados: entusiasmo y expectativas altas, pero también nerviosismo y dudas sobre privacidad, discriminación y pérdida de empleo. La adopción de IA en las empresas avanza rápidamente. Pero lo hace de manera profundamente heterogénea, segmentada y desigual porque no todas tienen las capacidades y los recursos para adoptar nuevas tecnologías.
+
+En Argentina, la situación es aún más compleja: no contamos con datos básicos. ¿Cuál es el nivel de adopción? ¿Quiénes la usan y para qué? ¿Cómo impacta en la vida cotidiana de las personas? ¿Qué grupos sociales están accediendo más rápidamente y cuáles permanecen rezagados? ¿Qué porcentaje de empresas usa IA? ¿En qué sectores y con qué fines? ¿Qué barreras enfrentan para incorporarla? ¿Qué regulaciones necesitamos para asegurar un desarrollo responsable y competitivo? ¿Quiénes deberían liderarla?
+
+Lo que sí sabemos es que el impacto de la IA va a depender de las decisiones que tomemos hoy y de las políticas que implementemos y que para eso necesitamos datos. Porque queremos una IA que sirva para aumentar la productividad, crecer y competir internacionalmente. Que genere más trabajo de calidad, calificado y más bienestar en la sociedad. Con esta misión, desde el [**CEPE**](https://www.utdt.edu/listado_contenidos.php?id_item_menu=25278)**-Di Tella** y [**Fundar**](https://fund.ar/serie/inteligencia-artificial) realizamos una encuesta con un panel online con cuotas por género, nivel educativo, edad, nivel socioeconómico y región para aproximar la composición de la población adulta (18 años o más), recolectadas entre agosto y septiembre de 2025 en Argentina y Uruguay.
+
+La encuesta se centra específicamente en el uso (personal y laboral) de la inteligencia artificial generativa, entendiendo por ésta a "sistemas que crean textos, imágenes o códigos automáticamente". Además de indagar en los planos personales y laborales del uso de IA generativa, la encuesta exploró dimensiones como el nivel de confianza, conocimiento, perspectivas y sentimientos respecto a esta herramienta.
+
+<footer class="site-footer">
+  <img src="../logos_combinados.png" alt="CEPE y Fundar" width="400">
+</footer>
+

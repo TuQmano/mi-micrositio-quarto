@@ -1,0 +1,47 @@
+---
+title: "Investigación"
+description: "Proyectos de investigación sobre inteligencia artificial y políticas públicas"
+---
+
+<div class="investigacion-grid">
+
+<div class="investigacion-card">
+
+### [Encuesta Nacional sobre Adopción de IA - Individuos](investigacion/encuesta-individuos.html)
+
+<div class="investigacion-meta">
+<span>Argentina y Uruguay</span>
+<span>2025</span>
+</div>
+
+<div class="investigacion-excerpt">
+Encuesta sobre el uso personal y laboral de inteligencia artificial generativa en Argentina y Uruguay. Análisis de adopción, confianza, conocimiento y perspectivas de la población adulta.
+</div>
+
+<a href="investigacion/encuesta-individuos.html" class="investigacion-link">Ver investigación →</a>
+
+</div>
+
+<div class="investigacion-card">
+
+### [Encuesta Nacional sobre Adopción de IA - PyMES](investigacion/encuesta-pymes.html)
+
+<div class="investigacion-meta">
+<span>Argentina</span>
+<span>En desarrollo</span>
+</div>
+
+<div class="investigacion-excerpt">
+Investigación sobre la adopción de inteligencia artificial en pequeñas y medianas empresas argentinas. Análisis de barreras, oportunidades y estrategias de implementación.
+</div>
+
+<a href="investigacion/encuesta-pymes.html" class="investigacion-link">Ver investigación →</a>
+
+</div>
+
+</div>
+
+<footer class="site-footer">
+  <img src="logos_combinados.png" alt="CEPE y Fundar" width="400">
+</footer>
+

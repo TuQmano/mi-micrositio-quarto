@@ -7,9 +7,9 @@ website:
     background: "#ffffff"
     logo: logo.svg
     left:
-      - href: index.qmd
+      - href: nosotros.qmd
         text: "Nosotros"
-      - href: encuesta.qmd
+      - href: investigacion.qmd
         text: "Investigación"
       - href: blog.qmd
         text: "Opinión"  
