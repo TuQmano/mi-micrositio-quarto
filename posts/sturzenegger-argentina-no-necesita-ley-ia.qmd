@@ -1,7 +1,7 @@
 ---
 title: "Federico Sturzenegger tiene razón: Argentina no necesita una ley de inteligencia artificial"
 description: "Artículo sobre regulación de inteligencia artificial"
-date: "2026-01-28"
+date: "2025-08-15"
 author: "Daniel Yankelevich"
 categories: ['Regulación', 'Políticas Públicas']
 ---

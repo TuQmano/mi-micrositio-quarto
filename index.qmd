@@ -10,7 +10,7 @@ Para que esta tecnología sea un trampolín real de desarrollo, se requiere esta
 
 El despliegue responsable de la IA en Argentina debe articular cinco ejes: trabajo y distribución del ingreso; productividad y cuellos de botella; educación y habilidades humanas; regulación inteligente; y gobernanza estatal y regional.
 
-**IA, desarrollo y trabajo:** instituciones para una adopción inclusiva. La IA puede aumentar la productividad, pero no es una varita mágica. En economías frágiles, desiguales y con baja digitalización, sus beneficios no están garantizados. De hecho, la adopción heterogénea, espasmódica y segmentada puede agravar las brechas tecnológicas entre sectores y regiones.
+**IA, desarrollo y trabajo: instituciones para una adopción inclusiva**. La IA puede aumentar la productividad, pero no es una varita mágica. En economías frágiles, desiguales y con baja digitalización, sus beneficios no están garantizados. De hecho, la adopción heterogénea, espasmódica y segmentada puede agravar las brechas tecnológicas entre sectores y regiones.
 
 Si queremos que la IA se convierta en un vector de desarrollo inclusivo, se necesitan políticas activas que promuevan la integración de la IA a nuestras cadenas productivas: apoyo a la adopción tecnológica en PyMEs, difusión de buenas prácticas, identificación y superación de cuellos de botella. Sin infraestructura, talento ni estabilidad macro, la IA no transforma: segrega.
 

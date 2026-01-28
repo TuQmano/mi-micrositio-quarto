@@ -1,19 +1,12 @@
 ---
-title: "Nosotros"
-description: "Inteligencia Artificial para el Desarrollo de Argentina"
+title: "Nodo Argentino de Inteligencia Artificial"
+description: "El Centro de Políticas Públicas de la Universidad Torcuato Di Tella (CEPE) y Fundar, en el marco de su agenda conjunta sobre inteligencia artificial, innovación y desarrollo productivo, trabajamos 
+con el objetivo de que la inteligencia artificial se convierta en un motor de productividad, inclusión y desarrollo sostenible"
 ---
 
-El **Centro de Políticas Públicas** ([**CEPE**](https://www.utdt.edu/listado_contenidos.php?id_item_menu=25278)) de la Universidad Torcuato Di Tella y [**Fundar**](https://fund.ar/serie/inteligencia-artificial), en el marco de su agenda conjunta sobre inteligencia artificial, innovación y desarrollo productivo, trabajamos para traducir datos en acción: Empresas: promover la adopción responsable y productiva de IA. Gobiernos: proveer evidencia para políticas éticas e inclusivas. Sociedad: impulsar la alfabetización digital y capacitación laboral.
+**¿Qué queremos lograr?**
 
-Somos el primer espacio en Argentina dedicado a producir datos, investigación y proyectos innovadores sobre inteligencia artificial, con foco en políticas públicas y desarrollo económico. Queremos que la IA sea un vector para impulsar un desarrollo inclusivo, competitivo y sostenible para Argentina y la región.
-
-> **CEPE** es el centro de políticas públicas basadas en evidencia de la Escuela de Gobierno de la Universidad Torcuato Di Tella.
-
-> **Fundar** es un centro de innovación en políticas de desarrollo que busca impulsar transformaciones estructurales para la Argentina. Innovación, para nosotros, quiere decir pensar los problemas de nuestro país desde un punto de vista integral y ofrecer soluciones concretas que puedan ser aplicadas y testeadas. Nuestro objetivo es que esas soluciones contribuyan a construir una Argentina desarrollada, en donde todas las personas puedan vivir plenamente. Una Argentina productiva y sustentable, estable, inteligente y conectada, y de bienestar compartido.
-
-#### **¿Qué queremos lograr?**
-
-Nuestro objetivo es que la inteligencia artificial se convierta en un motor de productividad, inclusión y desarrollo sostenible. La IA puede aumentar la productividad económica si existe un ecosistema y acciones coordinadas y eso va a depender de las decisiones que tomemos hoy y de las políticas que implementemos Para eso, nos proponemos traducir datos en acción y generar impactos concretos en distintos niveles:
+La IA puede aumentar la productividad económica si existe un ecosistema y acciones coordinadas y eso va a depender de las decisiones que tomemos hoy y de las políticas que implementemos Para eso, nos proponemos traducir datos en acción y generar impactos concretos en distintos niveles:
 
 -   **Empresas**: generar inteligencia estratégica que permita acelerar la adopción de IA, mejorar productividad y competir regional e internacionalmente.
 
@@ -22,6 +15,16 @@ Nuestro objetivo es que la inteligencia artificial se convierta en un motor de p
 -   **Sociedad**: impulsar innovación en educación y capacitación laboral que reduzca desigualdades y prepare a las personas para empleos de calidad en la era de la IA.
 
 -   **Región**: liderar una red de colaboración que conecte a Argentina con América Latina y posicione a la región en la discusión global sobre IA.
+ 
+#### Nosotros
+
+Somos el primer espacio en Argentina dedicado a producir datos, investigación y proyectos innovadores sobre inteligencia artificial, con foco en políticas públicas y desarrollo económico. Queremos que la IA sea un vector para impulsar un desarrollo inclusivo, competitivo y sostenible para Argentina y la región.
+
+> **[**CEPE**](https://www.utdt.edu/listado_contenidos.php?id_item_menu=25278)** es el centro de políticas públicas basadas en evidencia de la Escuela de Gobierno de la Universidad Torcuato Di Tella.
+
+> [**Fundar**](https://fund.ar/agendas/ia-para-el-desarrollo/) es un centro de innovación en políticas de desarrollo que busca impulsar transformaciones estructurales a partir de soluciones concretas que puedan ser aplicadas y testeadas.
+
+
 
 |      **CEPE**       |        **Fundar**        |
 |:-------------------:|:------------------------:|
