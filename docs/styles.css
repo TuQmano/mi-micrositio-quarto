@@ -320,6 +320,30 @@ hr {
 @media (max-width: 768px) {
   .quarto-container {
     padding: 2rem 1rem;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+  
+  /* Anular estilos de Quarto que limitan el ancho */
+  .page-columns {
+    display: block !important;
+  }
+  
+  .page-layout-article {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+  
+  .content {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  #quarto-content {
+    max-width: 100% !important;
+    width: 100% !important;
   }
   
   h1 {
@@ -480,6 +504,22 @@ hr {
   overflow: hidden; /* Contener el float */
 }
 
+/* En móvil, eliminar el margen derecho */
+@media (max-width: 768px) {
+  .blog-layout:not(:has(.blog-sidebar)) {
+    margin-right: 0 !important;
+    overflow: visible !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  
+  /* Eliminar cualquier float que pueda estar causando problemas */
+  .blog-layout + .blog-sidebar {
+    display: none !important;
+    float: none !important;
+  }
+}
+
 /* Categorías clickeables en posts individuales */
 .quarto-category {
   cursor: pointer;
@@ -580,6 +620,99 @@ main.content:has(.blog-layout):has(.blog-sidebar:not(.blog-layout .blog-sidebar)
   
   .blog-filter-btn {
     width: auto;
+  }
+}
+
+/* Ocultar sidebar completamente en móvil */
+@media (max-width: 768px) {
+  .blog-layout {
+    grid-template-columns: 1fr !important;
+    gap: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    max-width: 100% !important;
+  }
+  
+  .blog-sidebar {
+    display: none !important;
+  }
+  
+  .blog-content {
+    width: 100% !important;
+    max-width: 100% !important;
+    grid-column: 1 / -1 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  /* Asegurar que el contenedor principal no tenga restricciones */
+  .quarto-container .blog-layout {
+    grid-template-columns: 1fr !important;
+    max-width: 100% !important;
+    margin-right: 0 !important;
+  }
+  
+  /* Eliminar cualquier margen o padding que limite el ancho */
+  main.content {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  
+  /* Asegurar que page-columns no limite el ancho en móvil */
+  .page-columns {
+    display: block !important;
+  }
+  
+  .page-layout-article .content {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+  }
+  
+  /* Asegurar que blog-entries también ocupen todo el ancho */
+  .blog-entry {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  
+  /* Anular estilos de Quarto que limitan el ancho del contenido */
+  #quarto-content.page-columns {
+    display: block !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+  
+  #quarto-content.page-layout-article {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+  
+  /* Asegurar que el contenedor de Quarto no limite el ancho */
+  .quarto-container.page-columns {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+  
+  /* Anular cualquier estilo de margin-sidebar de Quarto */
+  .margin-sidebar,
+  .sidebar {
+    display: none !important;
+  }
+  
+  /* Asegurar que el contenido principal ocupe todo el espacio */
+  .quarto-container.page-columns > .content,
+  .quarto-container.page-columns > main.content {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
   }
 }
 

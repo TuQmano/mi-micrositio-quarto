@@ -1,6 +1,6 @@
 ---
-title: "Manifiesto"
-subtitle: "Sin IA no hay desarrollo, pero la inclusión no vendrá sola"
+title: "Manifiesto por una Inteligencia Artificial para el Desarrollo"
+subtitle: "Sin IA no hay desarrollo, pero la inclusión no está garantizada."
 
 ---
 
@@ -10,7 +10,10 @@ Para que esta tecnología sea un trampolín real de desarrollo, se requiere esta
 
 El despliegue responsable de la IA en Argentina debe articular cinco ejes: trabajo y distribución del ingreso; productividad y cuellos de botella; educación y habilidades humanas; regulación inteligente; y gobernanza estatal y regional.
 
-**IA, desarrollo y trabajo: instituciones para una adopción inclusiva**. La IA puede aumentar la productividad, pero no es una varita mágica. En economías frágiles, desiguales y con baja digitalización, sus beneficios no están garantizados. De hecho, la adopción heterogénea, espasmódica y segmentada puede agravar las brechas tecnológicas entre sectores y regiones.
+
+## **IA, desarrollo y trabajo: instituciones para una adopción inclusiva**. 
+
+La IA puede aumentar la productividad, pero no es una varita mágica. En economías frágiles, desiguales y con baja digitalización, sus beneficios no están garantizados. De hecho, la adopción heterogénea, espasmódica y segmentada puede agravar las brechas tecnológicas entre sectores y regiones.
 
 Si queremos que la IA se convierta en un vector de desarrollo inclusivo, se necesitan políticas activas que promuevan la integración de la IA a nuestras cadenas productivas: apoyo a la adopción tecnológica en PyMEs, difusión de buenas prácticas, identificación y superación de cuellos de botella. Sin infraestructura, talento ni estabilidad macro, la IA no transforma: segrega.
 
@@ -18,15 +21,24 @@ La IA no sólo cambia cómo trabajamos. Cambia qué tareas existen y cuáles des
 
 La transición debe acompañarse con políticas activas de formación profesional, asistencia a PyMEs para reorganizar tareas y mesas de diálogo entre Estado, empresas y trabajadores. En su ausencia, corremos el riesgo que la IA amplíe desigualdades. Con las políticas adecuadas, la IA puede convertirse en una herramienta de productividad compartida e inclusión social.
 
-**IA y educación: pensar críticamente con la tecnología**. La IA desafía a la escuela y a la universidad. No alcanza con enseñar a usar herramientas: hay que enseñar a pensar con ellas, sin dejar de pensar por uno mismo. La educación debe priorizar habilidades humanas que complementan a la IA: criterio, juicio, pensamiento crítico, creatividad.
+
+## **IA y educación: pensar críticamente con la tecnología**. 
+
+La IA desafía a la escuela y a la universidad. No alcanza con enseñar a usar herramientas: hay que enseñar a pensar con ellas, sin dejar de pensar por uno mismo. La educación debe priorizar habilidades humanas que complementan a la IA: criterio, juicio, pensamiento crítico, creatividad.
 
 Integrar la IA a las aulas no significa reemplazar la enseñanza: significa acompañar su uso con guía docente, evitar la utilización mecánica que atrofia el aprendizaje y rediseñar el currículo para una realidad donde la IA es parte del entorno cognitivo. Hay que preparar a las personas para trabajar con la IA, no competir contra ella.
 
-**IA y regulación: medianeras para el desarrollo responsable.** Las regulaciones no deben frenar la innovación, pero tampoco pueden ausentarse. Sin reglas claras, la IA amplifica riesgos: opacidad algorítmica, manipulación de la opinión pública, sesgos en decisiones sensibles y captura de mercados.
+
+## **IA y regulación: medianeras para el desarrollo responsable.** 
+
+Las regulaciones no deben frenar la innovación, pero tampoco pueden ausentarse. Sin reglas claras, la IA amplifica riesgos: opacidad algorítmica, manipulación de la opinión pública, sesgos en decisiones sensibles y captura de mercados.
 
 Necesitamos una regulación basada en usos y proporcional al riesgo, con principios de transparencia, rendición de cuentas y trazabilidad. Quienes diseñan y operan sistemas de IA deben asumir responsabilidad por sus efectos. También es necesario evitar la concentración del poder tecnológico en unas pocas plataformas globales. Fomentar la competencia y la apertura de código y datos es parte de una estrategia de soberanía digital.
 
-**IA y Estado: soberanía tecnológica y cooperación regional.** La gobernanza de la IA no es solo un problema técnico: es una cuestión estratégica de Estado. Si no construimos capacidades locales, corremos el riesgo de una nueva dependencia tecnológica: quedar atrapados entre SIlicon Valley y Shenzehn. Necesitamos soberanía tecnológica relativa: I+D y talento local, infraestructura digital, datos abiertos bajo normas propias, e innovación en nuestro idioma.
+
+## **IA y Estado: soberanía tecnológica y cooperación regional.** 
+
+La gobernanza de la IA no es solo un problema técnico: es una cuestión estratégica de Estado. Si no construimos capacidades locales, corremos el riesgo de una nueva dependencia tecnológica: quedar atrapados entre SIlicon Valley y Shenzehn. Necesitamos soberanía tecnológica relativa: I+D y talento local, infraestructura digital, datos abiertos bajo normas propias, e innovación en nuestro idioma.
 
 La región debe cooperar: integrar esfuerzos, compartir estándares, negociar mejores condiciones de acceso. Un plan nacional de transformación digital con IA debería incluir inversión sostenida, apertura de datos públicos, investigación, formación de talento, modernización del Estado y articulación con actores privados y académicos.
 

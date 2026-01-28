@@ -1,7 +1,5 @@
 ---
-title: "Nodo Argentino de Inteligencia Artificial"
-description: "El Centro de Políticas Públicas de la Universidad Torcuato Di Tella (CEPE) y Fundar, en el marco de su agenda conjunta sobre inteligencia artificial, innovación y desarrollo productivo, trabajamos 
-con el objetivo de que la inteligencia artificial se convierta en un motor de productividad, inclusión y desarrollo sostenible"
+description: "Desde el Centro de Políticas Públicas (CEPE) de la Universidad Torcuato Di Tella y desde Fundar, en el marco de nuestra agenda conjunta sobre inteligencia artificial, innovación y desarrollo productivo, venimos trabajando para traducir datos en acción."
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">

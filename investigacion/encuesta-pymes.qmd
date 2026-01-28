@@ -17,9 +17,6 @@ Esta encuesta busca comprender el estado actual de la adopción de IA en las PyM
 - Evaluar las necesidades de capacitación y apoyo institucional
 - Proponer políticas públicas específicas para PyMES
 
-### **Metodología**
-
-La encuesta se realizará mediante un panel representativo de PyMES argentinas, estratificadas por sector económico, tamaño y región geográfica. Se espera recopilar datos durante el segundo semestre de 2025.
 
 ### **Resultados esperados**
 
