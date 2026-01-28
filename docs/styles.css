@@ -64,15 +64,26 @@ body.nav-fixed {
 }
 
 .navbar-brand-container {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
+  margin: 0 !important;
+  padding: 0 !important;
+  gap: 0 !important;
+}
+
+.navbar-brand-container.mx-auto {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
 }
 
 .navbar-brand-logo {
-  display: flex;
-  align-items: center;
-  padding: 0;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: none !important;
+  background: none !important;
+}
+
+.navbar-brand-logo:hover {
+  background: none !important;
+  opacity: 0.8;
 }
 
 .navbar-logo {
@@ -80,6 +91,9 @@ body.nav-fixed {
   width: auto;
   max-width: 120px;
   object-fit: contain;
+  display: block;
+  margin: 0;
+  padding: 0;
 }
 
 .navbar-title {
@@ -132,9 +146,19 @@ body.nav-fixed {
 
 /* Content area */
 .quarto-container {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
-  padding: 3rem 2rem;
+  padding: 3rem 2.5rem;
+}
+
+/* Asegurar que blog-layout use el espacio disponible */
+.quarto-container .blog-layout {
+  max-width: 100%;
+}
+
+.quarto-container {
+  max-width: 1400px;
+  padding: 3rem 2.5rem;
 }
 
 .quarto-title-block {
@@ -395,9 +419,11 @@ hr {
 /* Blog layout with sidebar filters */
 .blog-layout {
   display: grid;
-  grid-template-columns: 1fr 250px;
-  gap: 3rem;
+  grid-template-columns: 1fr 280px;
+  gap: 4rem;
   margin-top: 2rem;
+  margin-bottom: 3rem;
+  align-items: start;
 }
 
 /* Categorías clickeables en posts individuales */
@@ -414,6 +440,7 @@ hr {
 
 .blog-content {
   min-width: 0;
+  grid-column: 1;
 }
 
 .blog-sidebar {
@@ -423,6 +450,9 @@ hr {
   padding: 0;
   background: transparent;
   border: none;
+  grid-column: 2;
+  width: 280px;
+  align-self: start;
 }
 
 .blog-sidebar h4 {
@@ -473,10 +503,12 @@ hr {
 @media (max-width: 968px) {
   .blog-layout {
     grid-template-columns: 1fr;
+    gap: 2rem;
   }
   
   .blog-sidebar {
     position: static;
+    width: 100%;
     margin-bottom: 2rem;
   }
   
