@@ -7,166 +7,133 @@ description: "Reflexiones, análisis y novedades sobre inteligencia artificial y
 
 <div class="blog-content">
 
+<div class="blog-entry" data-categories="Regulación Políticas Públicas">
+### [Federico Sturzenegger tiene razón: Argentina no necesita una ley de inteligencia artificial](posts/sturzenegger-argentina-no-necesita-ley-ia.html)
+<div class="blog-entry-meta">
+<span>28 de enero, 2026</span>
+<span>Daniel Yankelevich</span>
+</div>
+<div class="blog-entry-excerpt">
+Federico Sturzenegger argumenta que Argentina no necesita una ley específica de inteligencia artificial, analizando los desafíos regulatorios y proponiendo alternativas...
+</div>
+<a href="posts/sturzenegger-argentina-no-necesita-ley-ia.html" class="blog-entry-link">Leer más →</a>
+</div>
+
 <div class="blog-entry" data-categories="IA Tecnología Políticas Públicas Región">
-
 ### [Una inteligencia artificial que hable nuestro idioma](posts/una-inteligencia-artificial-que-hable-nuestro-idioma.html)
-
 <div class="blog-entry-meta">
 <span>10 de septiembre, 2025</span>
 <span>Eduardo Levy Yeyati</span>
 </div>
-
 <div class="blog-entry-excerpt">
-El director acadmico del Cepe escribi sobre el proyecto "LatamGPT", un modelo de inteligencia artificial diseado para Amrica Latina. “Dime cmo hablas y te dir de dnde vienes”, podra susurrar un algori...
+El director académico del CEPE escribió sobre el proyecto "LatamGPT", un modelo de inteligencia artificial diseñado para América Latina. "Dime cómo hablas y te diré de dónde vienes", podría susurrar un algori...
 </div>
-
 <a href="posts/una-inteligencia-artificial-que-hable-nuestro-idioma.html" class="blog-entry-link">Leer más →</a>
-
 </div>
 
 <div class="blog-entry" data-categories="IA Regulación Políticas Públicas">
-
 ### [No culpen al algoritmo: ¿cómo regular la inteligencia artificial en un mundo demasiado humano?](posts/no-culpen-al-algoritmo.html)
-
 <div class="blog-entry-meta">
 <span>10 de agosto, 2025</span>
 <span>Daniel Yankelevich</span>
 </div>
-
 <div class="blog-entry-excerpt">
-En 2018, mientras en el Congreso se debatía la despenalización del aborto, el gobierno de la provincia de Salta anunció un algoritmo que permitía predecir embarazos adolescentes. Esta iniciativa fue r...
+En 2018, mientras en el Congreso se debatía la despenalización del aborto, el gobierno de la provincia de Salta anunció un algoritmo que permitía predecir embarazos adolescentes. Esta iniciativa fue recibida con amplias críticas y generó muchísimo rechazo por su visión discriminadora...
 </div>
-
 <a href="posts/no-culpen-al-algoritmo.html" class="blog-entry-link">Leer más →</a>
-
 </div>
 
 <div class="blog-entry" data-categories="IA Tecnología Innovación">
-
 ### [Inteligencia artificial sin ciencia ficción: más allá de los chatbots, hay mucho por hacer](posts/ia-sin-ciencia-ficcion.html)
-
 <div class="blog-entry-meta">
 <span>6 de julio, 2025</span>
 <span>Macarena Santolaria</span>
 </div>
-
 <div class="blog-entry-excerpt">
 Más que preocuparnos por frenar el ascenso inminente y universal de la IA, en Argentina la principal preocupación debería ser su baja implementación en las empresas y en particular en las pymes. La ir...
 </div>
-
 <a href="posts/ia-sin-ciencia-ficcion.html" class="blog-entry-link">Leer más →</a>
-
 </div>
 
 <div class="blog-entry" data-categories="IA Política Deepfakes Democracia">
-
 ### [Deepfakes, campañas sucias y un decálogo que parece sátira, pero denuncia algo muy real](posts/deepfakes-campanas-sucias.html)
-
 <div class="blog-entry-meta">
 <span>15 de junio, 2025</span>
 <span>Daniel Yankelevich</span>
 </div>
-
 <div class="blog-entry-excerpt">
-El año pasado hubo al menos tres casos en que un alumno de secundaria publicó videos íntimos de sus compañeras. El tema trascendió porque, en todos los casos, no eran exactamente ellas. Eran videos ed...
+El año pasado hubo al menos tres casos en que un alumno de secundaria publicó videos íntimos de sus compañeras. El tema trascendió porque, en todos los casos, no eran exactamente ellas. Eran videos ed...
 </div>
-
 <a href="posts/deepfakes-campanas-sucias.html" class="blog-entry-link">Leer más →</a>
-
 </div>
 
 <div class="blog-entry" data-categories="IA Educación Tecnología">
-
 ### [La paradoja de tercerizar el pensamiento en la IA](posts/la-paradoja-de-tercerizar-el-pensamiento-en-la-ia.html)
-
 <div class="blog-entry-meta">
 <span>15 de enero, 2025</span>
 <span>Eduardo Levy Yeyati</span>
 </div>
-
 <div class="blog-entry-excerpt">
-El director acadmico del Cepe escribi sobre el riesgo de tercerizar en la IA las tareas complejas de pensamiento. Como[ya dijimos aqu](https://www.lanacion.com.ar/ideas/factor-humano-cual-es-el-tipo-d...
+El director académico del CEPE escribió sobre el riesgo de tercerizar en la IA las tareas complejas de pensamiento. Como [ya dijimos aquí](https://www.lanacion.com.ar/ideas/factor-humano-cual-es-el-tipo-d...
 </div>
-
 <a href="posts/la-paradoja-de-tercerizar-el-pensamiento-en-la-ia.html" class="blog-entry-link">Leer más →</a>
-
 </div>
 
 <div class="blog-entry" data-categories="IA Tecnología Políticas Públicas Región">
-
 ### [DeepSeek: ¿atajo a la soberanía tecnológica o nueva dependencia?](posts/deepseek-atajo-a-la-soberanía-tecnológica-o-nueva-dependencia.html)
-
 <div class="blog-entry-meta">
 <span>15 de diciembre, 2024</span>
 <span>Eduardo Levy Yeyati y Soledad Guilera</span>
 </div>
-
 <div class="blog-entry-excerpt">
-Eduardo Levy Yeyati, director acadmico del Cepe, y Soledad Guilera, profesora de la Escuela de Gobierno, escribieron sobre las oportunidades y los desafos que plantea DeepSeek, la nueva Inteligencia A...
+Eduardo Levy Yeyati, director académico del CEPE, y Soledad Guilera, profesora de la Escuela de Gobierno, escribieron sobre las oportunidades y los desafíos que plantea DeepSeek, la nueva Inteligencia A...
 </div>
-
 <a href="posts/deepseek-atajo-a-la-soberanía-tecnológica-o-nueva-dependencia.html" class="blog-entry-link">Leer más →</a>
-
 </div>
 
 <div class="blog-entry" data-categories="IA Educación Tecnología">
-
 ### [Inteligencia artificial. ¿El conocimiento portátil del futuro?](posts/conocimiento-portatil-futuro.html)
-
 <div class="blog-entry-meta">
 <span>26 de marzo, 2023</span>
 <span>Sebastián Ceria y Daniel Yankelevich</span>
 </div>
-
 <div class="blog-entry-excerpt">
 En 1950, Alan Turing creó el primer método para comprobar si una computadora podía responder y reaccionar como lo haría un humano: el test de Turing. En esta prueba, un observador neutral interactúa c...
 </div>
-
 <a href="posts/conocimiento-portatil-futuro.html" class="blog-entry-link">Leer más →</a>
-
 </div>
 
 <div class="blog-entry" data-categories="IA Políticas Públicas">
-
 ### [Inteligencia artificial generativa: una cuestión política](posts/ia-generativa-cuestion-politica.html)
-
 <div class="blog-entry-meta">
 <span>15 de marzo, 2023</span>
 <span>Daniel Yankelevich</span>
 </div>
-
 <div class="blog-entry-excerpt">
 En las últimas semanas se habló sobre el uso de inteligencia artificial generativa. El chatGPT3 para textos o Dall-e y Stability para imágenes, la IA generativa tiene un gran potencial para transforma...
 </div>
-
 <a href="posts/ia-generativa-cuestion-politica.html" class="blog-entry-link">Leer más →</a>
-
 </div>
 
 <div class="blog-entry" data-categories="IA Políticas Públicas">
-
 ### [Del asombro a la política: la inteligencia artificial sube al estrado](posts/del-asombro-a-la-politica.html)
-
 <div class="blog-entry-meta">
 <span>1 de febrero, 2023</span>
 <span>Daniel Yankelevich</span>
 </div>
-
 <div class="blog-entry-excerpt">
 La inteligencia artificial (IA) nos vuelve a asombrar: el ChatGPT -un modelo que chatea con el usuario y ofrece respuestas extraordinarias, por su precisión conceptual y por sus habilidades lingüístic...
 </div>
-
 <a href="posts/del-asombro-a-la-politica.html" class="blog-entry-link">Leer más →</a>
-
 </div>
 
 </div>
+
 
 <div class="blog-sidebar">
 
 <div class="blog-filters" id="blog-filters">
   <button class="blog-filter-btn active" data-category="all">Todas</button>
-  <button class="blog-filter-btn" data-category="IA">IA</button>
   <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
   <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
   <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>

@@ -12,9 +12,74 @@ categories: ['IA', 'Regulación', 'Políticas Públicas']
 
 En 2018, mientras en el Congreso se debatía la despenalización del aborto, el gobierno de la provincia de Salta anunció un algoritmo que permitía predecir embarazos adolescentes. Esta iniciativa fue recibida con amplias críticas y generó muchísimo rechazo por su visión discriminadora. Más aun, el repudio no se dio sólo a nivel local: el algoritmo llegó a la revista WIRED y fue juzgado negativamente por investigadores de Cambridge. El sistema propuesto «etiquetaba» a adolescentes salteñas según su nivel de riesgo de embarazo. Fueron tan demoledoras las críticas que no llegó a utilizarse y nunca se conoció cuáles iban a ser los usos de esta predicción.
 
-En 2022, el Ministerio de Educación de Mendoza puso en funcionamiento un sistema de alerta temprana de trayectorias en riesgo (SAT), que permite predecir la interrupción de las trayectorias educativas de estudiantes secundarios. El SAT agiliza la identificación de estudiantes en riesgo de deserción escolar y permite la intervención temprana para evitar que se interrumpa su escolaridad. Varios actores, incluso Fundar, lo reconocen como un caso de éxito de uso de datos para definición de políticas públicas y de modelos predictivos con impacto social.
+En 2022, el Ministerio de Educación de Mendoza puso en funcionamiento un sistema de alerta temprana de trayectorias en riesgo (SAT), que permite predecir la interrupción de las trayectorias educativas de estudiantes secundarios. El SAT agiliza la identificación de estudiantes en riesgo de deserción escolar y permite la intervención temprana para evitar que se interrumpa su escolaridad. Varios actores, incluso Fundar, lo reconocen como un caso de éxito de uso de datos para definición de políticas públicas y de modelos predictivos con impacto social.
 
 Según varios expertos, uno de los principales motivos de la interrupción de las trayectorias educativas es el embarazo adolescente.
+
+Estamos hablando del mismo algoritmo para los dos casos: ¿por qué motivos el sistema de predicción de embarazos es objeto de crítica casi unánime, y la predicción de interrupción educativa es reconocido como un caso de éxito? ¿Podemos entender esos motivos para proponer una regulación clara de la IA que evite los usos estigmatizantes y fomente aquellos que potencien el desarrollo?
+
+Es que los casos de éxito del uso de la IA —o su contracara, los casos en los que el uso de la IA es percibida como una amenaza— no se explican por los algoritmos o modelos utilizados: se explican por los contextos e intencionalidades de uso.
+
+## Hacia una regulación de la IA
+
+Los riesgos en el uso de la IA han sido ampliamente estudiados y suelen citarse para justificar la necesidad de una regulación. Parte de estos riesgos derivan de los potenciales sesgos, estadísticos, algorítmicos, de entrenamiento, como los de las bases de datos usadas para alimentar estos sistemas. Otros riesgos provienen de las llamadas "alucinaciones": los sistemas de IA generativa responden prediciendo texto: incluso si no cuentan con la información solicitada, van a responder algo (dicho con menos tecnicismos: mandan fruta).
+
+También existen otros riesgos vinculados al uso de los sistemas. Por ejemplo, la generación de imágenes, videos o sonidos para producir noticias falsas (_fake news_) y hacerlas circular por redes. Como ejemplo menos grave, la posibilidad de que se produzcan violaciones a los derechos de autor.
+
+**Ahora bien, no es lo mismo regular la IA que regular su uso**. Tomemos como ejemplo los autos. Regular los automóviles es obligar a que cuenten con _airbags_ o cinturones de seguridad. Regular su uso es definir velocidades máximas o exigir licencias de conducir. De forma análoga, más importante que regular la IA es regular el uso de la IA, y el uso cambia en diferentes contextos y actividades: **un sistema de IA en salud no puede ser tratado de la misma forma que en un juego de plataforma**. Si bien en ambos casos existe el riesgo de filtración de datos usados en el entrenamiento, los daños potenciales de una filtración de datos sobre enfermedades o condiciones de salud es potencialmente mucho mayor que en el caso de un juego.
+
+## ¿De qué hablamos cuando hablamos de regular el uso de la IA?
+
+En Argentina existen numerosos proyectos de ley para regular la IA. Por lo general, la definición de IA usada en esas propuestas es tan laxa que, en su interpretación más literal, alcanza incluso al uso de planillas de cálculo como Excel.
+
+En contraste, **la regulación europea, así como algunas órdenes ejecutivas de Estados Unidos, establecen una línea divisoria entre modelos sencillos y avanzados**, a partir del esfuerzo de poder de cómputo necesario para entrenarlos. Es decir, la división está dada por la cantidad de operaciones necesarias para entrenar el modelo: si son más de 10^24 FLOPS (operaciones de punto flotante) se habla de modelos avanzados, para los cuales se define un conjunto particular de normas.
+
+Ambas aproximaciones, la más específica y la más general, resultan problemáticas. La toma de decisiones automáticas no es exclusiva de la IA ni es algo nuevo en sistemas digitales. Los algoritmos con reglas fijas también toman decisiones en forma determinística y regularlos no sería regular IA: sería regular sistemas informáticos en general. Por otro lado, no sabemos si el límite de 10^24 es correcto, ya que resulta enormemente arbitrario y muy probablemente cambiará a medida que se desarrollen nuevas tecnologías. Los cambios que estamos experimentando con la IA se dan de forma mucho más rápida que la velocidad en que cambia una regulación.
+
+Pero además, el impacto social de una tecnología no necesariamente tiene que ver con su complejidad, algo que se vio en el caso de la Therac 25.
+
+La Therac 25 era una máquina usada para tratamiento con radiación. Debido a un error en su programación, en determinadas situaciones liberaba una cantidad de radiación que resultaba en órdenes de magnitud mayores a las dosis prescriptas, causando lastimaduras. De hecho, hay casos documentados de muerte por exceso de radiación luego del uso de la máquina. ¿Qué pasó una vez que se descubrió el error? La empresa que desarrolló la Therac 25 se declaró en quiebra y el programador demostró que había respondido a los requerimientos: los requerimientos, por su parte, eran correctos, pero estaban escritos en un lenguaje poco común y el testeo fue realizado de acuerdo con "los estándares de la época". En otras palabras, se produjo un error de enorme impacto sin que pudiera establecerse un responsable claro y sin que exista «inteligencia artificial» de por medio.
+
+De este ejemplo se desprenden dos lecciones: primero, un marco regulatorio sin capacidades estatales de control y sin una autoridad de aplicación que lo garantice sirve de poco; y segundo, el impacto social de una tecnología tiene poco que ver con la complejidad del modelo o si es una IA o un sistema tradicional.
+
+Un camino alternativo es adaptar la regulación de los algoritmos o modelos en función del tipo de uso. Así, en casos como el de la Therac 25, de nada sirve regular la IA o la toma de decisiones automáticas: lo que debería regularse es el uso de dispositivos médicos que incorporan software. Este criterio podría llevarse a otras industrias y actividades: alimentos, salud, seguridad tienen normas específicas que deberán ser ampliadas en algunos casos para considerar el uso de nuevas herramientas. En todos esos casos el objeto de la regulación es el alimento, el tratamiento o la actividad. La regulación de la herramienta recién podría darse en un paso posterior y en función de las especificidades del objeto.
+
+En las discusiones sobre regulación de la IA suele proponerse la validación humana de las decisiones automáticas generadas por un modelo o algoritmo (_human in the loop_) como condición para evitar potenciales errores o riesgos: se trataría entonces de decisiones tomadas por una persona asesorada por una IA. Sin embargo, si bien es clave que exista un ser humano que avale y tome la responsabilidad sobre el uso de esta herramienta, eso no resulta suficiente. **El problema, más profundo, es que existen sesgos cognitivos y situaciones sociales que suelen llevar a las personas a aceptar como válidas las recomendaciones de los sistemas de IA, por falta de un criterio crítico.** Por un lado, debido a la existencia de fuertes incentivos para su aceptación y desincentivos a desafiarlas, o sencillamente porque ocupan toda la atención del humano.
+
+Un ejemplo de los incentivos es el caso de COMPAS, un sistema que asesoraba a jueces a partir de la estimación del riesgo de reincidencia en personas condenadas bajo la ley penal cuyas recomendaciones fueron aceptadas sin cambios en un altísimo porcentaje. Un ejemplo de la manipulación de la atención se da en los algoritmos de recomendación o selección de contenido en redes sociales, que terminamos aceptando en forma pasiva para que elija qué tenemos que ver, como si fuera la única selección de contenido posible. Las recomendaciones sin una verdadera revisión crítica terminan siendo imposiciones.
+
+## ¿En qué etapa estamos?
+
+Los tiempos de la innovación tecnológica, de la competitividad empresarial y de los procesos regulatorios son distintos. Nos encontramos en una etapa inicial en la incorporación de la IA en las actividades productivas y sociales. Si bien existen ya numerosos ejemplos de uso, dista de ser un fenómeno masivo. Incluso los estudios de impacto señalan que aún es temprano para comprender claramente cómo va a desenvolverse el uso de la IA.
+
+**Regular una tecnología en su etapa inicial puede ser problemático, sobre todo porque no sabemos cómo va a ser su despliegue. A su vez, las zonas grises no reguladas pueden resultar problemáticas: ya vemos en la práctica el impacto que el uso de la IA puede tener en la manipulación de elecciones o la propagación de noticias falsas.**
+
+Si retomamos el ejemplo de los autos como referencia, estamos en una etapa similar al momento en que Gottlieb Daimler proponía sus "carros de caballo con motor". Se empezaban a discutir algunos riesgos (carros que iban a velocidades astronómicas de 20 km/h) y la conveniencia de estas máquinas frente a los caballos (mucho más confiables), entre otras cosas. Proponer el uso de cinturones de seguridad en ese momento era impensable. Esto no quiere decir que no sea necesario tomar recaudos en actividades y usos específicos, pero es fundamental tener en cuenta que nos encontramos en una etapa inicial.
+
+Un indicio claro de que se trata de un momento inicial es la disparidad entre las discusiones sobre la regulación de la IA y la regulación del uso de datos, al menos en nuestro país. **Si bien existen numerosas propuestas de regulación de IA, la regulación de datos personales y del uso de datos en el estado no tiene ningún avance desde hace varios años.** Hay consenso en que la ley argentina de datos personales tiene muchos aspectos antiguos o que deben mejorarse. En particular, fue redactada antes de que aparezcan muchas innovaciones que cambiaron el panorama social con respecto a lo digital. Sin embargo, no se llegan a acuerdos en los proyectos de regulación ni parece un tema prioritario en la agenda. La IA sin datos no existe: los desarrollos de IA sólo son posibles mediante el uso de grandes cantidades de datos. Sin embargo, aún está en discusión de quién son esos datos, quién y para qué puede usarlos, qué derechos tienen los ciudadanos sobre sus datos y qué datos puede usar el Estado en sus diferentes dependencias para ser más eficiente —y, a la par, qué responsabilidades genera este uso—. **Es clave regular el uso de datos como un paso en el camino que lleve a regular la IA.**
+
+## Una propuesta
+
+Un paso previo a la regulación de la IA es modernizar, modificar y renovar la Ley de Datos Personales, y establecer una normativa moderna para el intercambio y manipulación de datos en el Estado y entre privados.
+
+Una regulación para la IA debe ser pensada sobre su uso y no sobre la tecnología. Regular los algoritmos no es la solución. La discusión podría ordenarse en tres pasos:
+
+1. **Definir los principales escenarios de uso de la IA en el presente y para el corto y mediano plazo, de manera tal de bajar a tierra la discusión.** Esto permite concentrarse en los escenarios que ya se conocen o vislumbran y no adelantar discusiones para casos aún desconocidos.
+2. **Identificar y analizar riesgos potenciales en cada escenario**, realizando el análisis de riesgos con una matriz de probabilidad, impacto y mitigación para cada uno de ellos.
+3. **Para los escenarios de mayor riesgo, validar si la regulación actual aplicable al escenario resulta suficiente o si se requiere mayor precisión.** Los casos que no estén cubiertos son candidatos para contar con una extensión de la regulación existente o una nueva propuesta regulatoria.
+
+De esta validación pueden surgir diferentes casos:
+
+* aquellos en los que la regulación existente sea suficiente;
+* los que requieran algún ajuste en en su reglamentación;
+* los que quedarán definidos a través de jurisprudencia y no necesariamente en nuevas leyes o reglamentos;
+* algunos que, además de requerir de acción inmediata, resultan de mayor complejidad, como pueden ser las noticias falsas y la manipulación de las redes sociales.
+
+Los casos de noticias falsas generan tensión entre la necesidad de regularlos y la libertad de expresión, y deben ser analizados en forma particular considerando esa tensión. Esta es aún una discusión abierta para la que no existen soluciones simples. Otros casos particulares deben ser tratados por dominio de aplicación. El uso de IA en salud, educación y seguridad debe ser analizado por expertos del dominio para los escenarios que se identifiquen. El uso de modelos avanzados en actividades recreativas o en análisis técnicos de ingeniería no parecen ser casos relevantes en la actualidad a la hora de pensar regulaciones, lo que no quiere decir que a futuro no sea necesario avanzar en esa dirección.
+
+**Los algoritmos no pueden tener responsabilidad: la responsabilidad del uso de IA debe ser asumida por alguien. Si el uso de IA, como el uso de cualquier herramienta, produce daños o tiene un impacto negativo, debe estar claramente definido el responsable.**
+
+**Avanzar muy rápido en regulaciones sin dar los pasos previos necesarios es tan riesgoso como no avanzar en absoluto.**
 
 <div class="blog-source-link">
 Publicado originalmente en <a href="https://fund.ar/publicacion/no-culpen-al-algoritmo-como-regular-la-inteligencia-artificial-en-un-mundo-demasiado-humano/">Fundar</a>
@@ -27,7 +92,6 @@ Publicado originalmente en <a href="https://fund.ar/publicacion/no-culpen-al-alg
 
 <div class="blog-filters" id="blog-filters">
   <button class="blog-filter-btn active" data-category="all">Todas</button>
-  <button class="blog-filter-btn" data-category="IA">IA</button>
   <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
   <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
   <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>

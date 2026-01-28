@@ -1,9 +1,8 @@
 ---
-title: "nadia"
+title: "Manifiesto"
+subtitle: "Sin IA no hay desarrollo, pero por sí sola no construye sociedades inclusivas"
 description: "Manifiesto sobre inteligencia artificial y desarrollo"
 ---
-
-**Sin IA no hay desarrollo, pero por sí sola no construye sociedades inclusivas**
 
 La inteligencia artificial ya está transformando nuestra economía: se integra en el agro, la salud, la industria, los servicios y la educación. Tiene potencial para aumentar la productividad y abrir nuevas posibilidades, pero también puede profundizar las desigualdades existentes y favorecer la concentración de poder. El impacto futuro de la IA depende de las decisiones de política pública que tomemos hoy: cómo se adopta, con qué regulación, con qué propósito y en qué condiciones.
 

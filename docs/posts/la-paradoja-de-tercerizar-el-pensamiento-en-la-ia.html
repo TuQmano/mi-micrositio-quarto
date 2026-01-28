@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.521">
+<meta name="generator" content="quarto-1.8.27">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Eduardo Levy Yeyati">
 <meta name="description" content="La paradoja de tercerizar el pensamiento en la IA">
 
-<title>nadia - La paradoja de tercerizar el pensamiento en la IA</title>
+<title>La paradoja de tercerizar el pensamiento en la IA – nadia</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,15 +32,17 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-974d01ce0b71e65b39e38eb9a838184e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -55,7 +57,7 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "Sin resultados",
+    "search-no-results-text": "No se han encontrado resultados",
     "search-matching-documents-text": "documentos encontrados",
     "search-copy-link-title": "Copiar el enlace en la búsqueda",
     "search-hide-matches-text": "Ocultar resultados adicionales",
@@ -73,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -81,14 +83,15 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../logo.svg" alt="" class="navbar-logo">
+    <img src="../logo.svg" alt="" class="navbar-logo light-content">
+    <img src="../logo.svg" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">nadia</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Buscar"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -114,7 +117,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -170,32 +173,22 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="blog-layout">
 <div class="blog-content">
-<p>El director acadmico del Cepe escribi sobre el riesgo de tercerizar en la IA las tareas complejas de pensamiento. Como<a href="https://www.lanacion.com.ar/ideas/factor-humano-cual-es-el-tipo-de-conocimiento-humano-al-que-aun-no-llega-la-inteligencia-artificial-nid21092024/">ya dijimos aqu</a>, la IA domina el conocimiento explcito –el que puede documentarse y transmitirse: “tokenizarse”–, a diferencia del tcito: saber prctico formado en la experiencia humana. Esto, que abre la puerta a una complementacin natural entre el humano y el algoritmo, tambin genera una paradoja: el uso intensivo de IA en tareas complejas socava las condiciones que permiten formar ese conocimiento tcito que –al menos por ahora– dibuja uno de los lmites de la sustitucin tecnolgica. Una investigacin reciente de Anthropic, basada en el anlisis de conversaciones estudiantiles con chatbot Claude, encontr que casi la mitad (47%) de las interacciones con IA son “conversaciones directas”, con mnima participacin, orientadas a resolver consultas rpidamente en lugar de fomentar el dilogo o el intercambio. Ms revelador an: cuando se analizaron las tareas cognitivas que los estudiantes delegan a la IA usando la Taxonoma de Bloom, se descubri que principalmente tercerizan funciones de orden superior como crear (39.8%) y analizar (30.2%), mientras que recordar representa apenas el 1.8%. Ciencias de la Computacin lidera la adopcin (38.6% de conversaciones con solo 5.4% de graduados), seguidas por Ciencias Naturales y Matemticas. Humanidades y Salud tienen menor uso relativo. Esto que parece un problema acadmico es, en realidad, un sntoma de una transformacin cognitiva ms profunda. El conocimiento tcito se cultiva en la experiencia: es la intuicin que alerta a un mdico pese a estudios normales; el juicio de un maestro para decidir cundo presionar o dar espacio; la pericia de un ingeniero para detectar fallas que las simulaciones no captan. Este conocimiento tcito est“escrito en el cuerpo”: en las vas neuronales formadas por la prctica, en la memoria muscular de la repeticin, en el reconocimiento que surge del contacto con la complejidad del mundo real. Aqu es donde la paradoja se vuelve ms clara: la IA es tan buena manejando conocimiento explcito que cada vez ms nos sentimos tentados a tercerizar nuestro pensamiento. Pero al hacerlo, corremos el riesgo de atrofiar la formacin del conocimiento tcito que la IA no puede replicar. Consideremos lo que sucede cuando los estudiantes buscan consistentemente respuestas directas de la IA en lugar de luchar con los problemas por s mismos. Pueden completar tareas eficientemente, pero se pierden la lucha cognitiva que construye resistencia intelectual y desarrolla comprensin intuitiva. Obtienen el conocimiento explcito –los hechos, las respuestas correctas– pero no desarrollan el conocimiento tcito que proviene de enfrentarse con la incertidumbre, cometer errores y aprender a confiar en su propio juicio. El estudio de Anthropic tambin identific patrones preocupantes en el uso “directo” de IA: respuestas a preguntas de opcin mltiple en<em>machine learning</em>, respuestas directas a exmenes de idiomas, y reescritura de textos de marketing para evitar detectores de plagio. Como el reporte advierte: “Existen preocupaciones legtimas de que los sistemas de IA puedan proporcionar una muleta para los estudiantes, limitando el desarrollo de habilidades fundamentales necesarias para apoyar el pensamiento de orden superior”. El problema se extiende ms all de las aulas. Latrampa de Turing–el escenario donde delegamos tanto pensamiento a la IA que perdemos las experiencias que generan<em>expertise</em>humana– ya tiene precedentes. Pensemos cmo el GPS ha reducido nuestras habilidades espaciales, o cmo las calculadoras alteraron el clculo mental. Ahora imaginemos esta dinmica desarrollndose en cada dominio del trabajo intelectual. Creamos un crculo vicioso donde: 1. La IA maneja tareas de conocimiento explcito ms eficientemente que los humanos 2. Los humanos dependen cada vez ms de la IA para estas tareas 3. Los humanos pierden oportunidades para desarrollar conocimiento tcito a travs de la prctica Es la distopa silenciosa de la pelcula<em>Wall-E</em>, donde, tras delegar toda la actividad a sistemas automatizados, los humanos terminan con sus cuerpos y mentes atrofiados. Corremos el riesgo de algo similar con nuestra experiencia intelectual? Cuando dejamos que los modelos de lenguaje nos “atiendan” el conocimiento, nos volvemos consumidores pasivos de respuestas perfectamente formuladas, pero dejamos de ejercitar el juicio que da forma a nuestra inteligencia. El msculo cognitivo tambin se atrofia cuando no se entrena. La irona es que el conocimiento tcito se vuelve ms valioso, no menos, en un mundo dominado por IA. Cuando el conocimiento explcito se convierte en<em>commodity</em>, el juicio humano es el recurso escaso. La capacidad de saber cundo confiar en los resultados de la IA, cmo formular las preguntas correctas y cundo anular las recomendaciones algortmicas se vuelve crucial. Como reconoce la propia IA sobre sus limitaciones: los modelos de lenguaje aprenden “analizando patrones y estructuras en grandes cantidades de datos textuales” pero carecen de “la capacidad de adquirir o aplicar [conocimiento tcito] de la misma manera que una persona lo hara a travs de la prctica y experiencia directa”. En lugar de usar la IA para evitar pensar, necesitamos enfoques donde potencie –y no reemplace– el desarrollo cognitivo. El objetivo no es competir con la IA en conocimiento explcito, sino cultivar las capacidades nicamente humanas que emergen de la experiencia, la prctica y el aprendizaje encarnado –vivido, irrepetible–, anlogo en el conocimiento a lo que el “aura” es en la creatividad. En lugar de enfocarnos principalmente en transferencia de informacin, necesitamos enfatizar el desarrollo de juicio, intuicin y el tipo de sabidura prctica que solo puede provenir de enfrentarse directamente con situaciones complejas y ambiguas. Esto requiere disear interacciones que preserven el desarrollo cognitivo: en educacin, pidiendo que los estudiantes compartan sus prompts junto con las tareas, creando evaluaciones que prioricen el juicio y enfatizando el aprendizaje experiencial; en el trabajo, usando IA para recopilar sin reemplazar la decisin humana y garantizando experiencia prctica. La evidencia emprica respalda estas preocupaciones: estudios recientes documentan reducciones en<a href="https://analyticsindiamag.com/ai-news-updates/mit-study-warns-of-cognitive-decline-with-llm-use/">el esfuerzo cognitivo</a>yel pensamiento crticoasociadas al uso intensivo de IA. Sin embargo, la paradoja de la tercerizacin apunta a algo ms fundamental: las mismas capacidades de IA que hacen el conocimiento explcito universalmente accesible podran socavar el desarrollo del conocimiento tcito que nos mantiene relevantes. Esta paradoja tambin seala una solucin. Al entender qu hace nico e irreemplazable al conocimiento humano, podemos disear interacciones con IA que fortalezcan nuestra agencia intelectual. El futuro no ser de quienes compitan con la IA, sino de quienes sepan pensar con ella, preservando el aprendizaje experiencial que produce el irreemplazable discernimiento humano. El desafo no es solo tecnolgico: es qu tipo de aprendices y pensadores elegimos ser en la era de la IA. Como deca Aristteles, hay saberes que solo emergen del encuentro directo con el mundo. La paradoja de la tercerizacin cognitiva no es tecnolgica, sino pedaggica: no es solo lo que la IA no hace, sino lo que dejamos de hacer al usarla como atajo. Lo que perdemos no es una habilidad puntual, sino la experiencia que la forma. <em>Ingeniero Civil y doctor en Economa; profesor Plenario de la Universidad Torcuato Di Tella (UTDT)</em></p>
-<p>Capacitacin sobre adopcin de inteligencia artificial en empresas Despus de la COP30: las promesas se traducen en acciones? Charla sobre los resultados de la Conferencia de las Partes de Cambio Climtico</p>
-<p>Debate sobre el impacto de la IA en la democracia Est disponible la nueva publicacin trimestral</p>
-<p>Innovacin vs Regulacin: el dilema de la Inteligencia Artificial ltimo encuentro del ciclo de charlas de Inteligencia Artificial y Polticas Pblicas Transformacin digital e inclusin financiera juvenil: hallazgos clave del estudio de CEPE Di Tella Presentacin de los resultados de la investigacin Una dcada de economa del comportamiento en Latinoamrica Est disponible la nueva publicacin del ndice de Conflictividad Laboral</p>
-<p>Inteligencia artificial y escolarizacin: ruptura o continuidad?</p>
-<p>Est disponible la publicacin de junio del ndice de Conflictividad Laboral Presentacin de Juan Cruz Loureiro en Tech4Impact 2024 Qu es la inteligencia artificial? Avances de un fenmeno que lleg para quedarse</p>
-<p>La atencin de Gobierno en la era digital: El caso Boti en la Ciudad de Buenos Aires Sali la publicacin de marzo del ndice de Conflictividad Laboral Nueva Publicacin: Complejidad y polticas pblicas: una agenda de presente y futuro Este documento recopila los temas tratados durante la 6.a Sali la publicacin de diciembre del ndice de Conflictividad Laboral</p>
-<p>Presentacin del informe coescrito con la RREI Presentacin del informe “Desigualdades heredadas” Discusin sobre el reporte publicado por RED CAF 2022</p>
-<p>El 24 de agosto se realiz la 6. Se present el Documento de Polticas Pblicas de Beatriz Toribio junto a un panel de expertos. Presentacin del libro “La transicin energtica en la visin de sus protagonistas” Conversacin sobre el libro publicado por el Instituto Torcuato Di Tella Sali la publicacin de abril del ndice de Conflictividad Laboral</p>
-<p>Nueva publicacin: Energa, cambio climtico y crecimiento Este documento recopila los temas tratados durante la 5.a Presentacin de investigacin: Los adolescentes y las finanzas Investigacin sobre conocimientos y hbitos en Argentina</p>
-<p>Se presentaron los resultados obtenidos en la Ciudad de Buenos Aires y en Mendoza, propiciando un espacio para la reflexin acerca del sostenimiento y escalabilidad de esta iniciativa Presentacin de Actualizacin de Indicadores de Emisiones Energticas en Argentina Se presentaron los resultados actualizados a junio de 2022 del proyecto desarrollado en conjunto con la Fundacin Torcuato Di Tella.</p>
-<p>Gastn Gertner, director ejecutivo del CEPE, habl en el evento organizado en el Congreso</p>
-<p>El 25 de agosto se realiz la 5. Conversamos con Gastn, quien a comienzos de noviembre asumi como Director Ejecutivo del CEPE. A pocos das de terminar el ao, nos gustara compartir con ustedes algunos de los hechos ms destacados.</p>
-<p>Qu aprendimos del proceso de participacin de la sociedad civil en educacin</p>
-<p>Qu aprendieron sobre educacin las empresas tecnolgicas?</p>
-<p>Ms de 25 oradores debatieron sobre educacin en la IV</p>
-<p>Qu hacer con los estudiantes excluidos en la pandemia? Expusieron funcionarios de la regin</p>
-<p>El director acadmico del CEPE cre una encuesta para estudiar las dimensiones socioeconmicas detrs del debate sobre la presencialidad escolar en pandemia.</p>
-<p>Fue reconocido por el Global Go To Think Tank Index Report del 2020. Una seleccin de los contenidos que lograron mayor repercusin durante el ao pasado.</p>
+<p>El director acadmico del Cepe escribi sobre el riesgo de tercerizar en la IA las tareas complejas de pensamiento. Como <a href="https://www.lanacion.com.ar/ideas/factor-humano-cual-es-el-tipo-de-conocimiento-humano-al-que-aun-no-llega-la-inteligencia-artificial-nid21092024/">ya dijimos aqu</a>, la IA domina el conocimiento explcito –el que puede documentarse y transmitirse: “tokenizarse”–, a diferencia del tcito: saber prctico formado en la experiencia humana. Esto, que abre la puerta a una complementacin natural entre el humano y el algoritmo, tambin genera una paradoja: el uso intensivo de IA en tareas complejas socava las condiciones que permiten formar ese conocimiento tcito que –al menos por ahora– dibuja uno de los lmites de la sustitucin tecnolgica. Una investigacin reciente de Anthropic, basada en el anlisis de conversaciones estudiantiles con chatbot Claude, encontr que casi la mitad (47%) de las interacciones con IA son “conversaciones directas”, con mnima participacin, orientadas a resolver consultas rpidamente en lugar de fomentar el dilogo o el intercambio. Ms revelador an: cuando se analizaron las tareas cognitivas que los estudiantes delegan a la IA usando la Taxonoma de Bloom, se descubri que principalmente tercerizan funciones de orden superior como crear (39.8%) y analizar (30.2%), mientras que recordar representa apenas el 1.8%. Ciencias de la Computacin lidera la adopcin (38.6% de conversaciones con solo 5.4% de graduados), seguidas por Ciencias Naturales y Matemticas. Humanidades y Salud tienen menor uso relativo. Esto que parece un problema acadmico es, en realidad, un sntoma de una transformacin cognitiva ms profunda.</p>
+<p>El conocimiento tcito se cultiva en la experiencia: es la intuicin que alerta a un mdico pese a estudios normales; el juicio de un maestro para decidir cundo presionar o dar espacio; la pericia de un ingeniero para detectar fallas que las simulaciones no captan. Este conocimiento tácito está “escrito en el cuerpo”: en las vas neuronales formadas por la prctica, en la memoria muscular de la repeticin, en el reconocimiento que surge del contacto con la complejidad del mundo real. Aqu es donde la paradoja se vuelve ms clara: la IA es tan buena manejando conocimiento explcito que cada vez ms nos sentimos tentados a tercerizar nuestro pensamiento. Pero al hacerlo, corremos el riesgo de atrofiar la formacin del conocimiento tcito que la IA no puede replicar. Consideremos lo que sucede cuando los estudiantes buscan consistentemente respuestas directas de la IA en lugar de luchar con los problemas por s mismos. Pueden completar tareas eficientemente, pero se pierden la lucha cognitiva que construye resistencia intelectual y desarrolla comprensin intuitiva. Obtienen el conocimiento explcito –los hechos, las respuestas correctas– pero no desarrollan el conocimiento tcito que proviene de enfrentarse con la incertidumbre, cometer errores y aprender a confiar en su propio juicio. El estudio de Anthropic tambin identific patrones preocupantes en el uso “directo” de IA: respuestas a preguntas de opcin mltiple en <em>machine learning</em>, respuestas directas a exmenes de idiomas, y reescritura de textos de marketing para evitar detectores de plagio. Como el reporte advierte: “Existen preocupaciones legtimas de que los sistemas de IA puedan proporcionar una muleta para los estudiantes, limitando el desarrollo de habilidades fundamentales necesarias para apoyar el pensamiento de orden superior”. El problema se extiende ms all de las aulas. Latrampa de Turing–el escenario donde delegamos tanto pensamiento a la IA que perdemos las experiencias que generan<em>expertise</em>humana– ya tiene precedentes. Pensemos cmo el GPS ha reducido nuestras habilidades espaciales, o cmo las calculadoras alteraron el clculo mental. Ahora imaginemos esta dinmica desarrollndose en cada dominio del trabajo intelectual. Creamos un crculo vicioso donde:</p>
+<ol type="1">
+<li>La IA maneja tareas de conocimiento explcito más eficientemente que los humanos</li>
+<li>Los humanos dependen cada vez más de la IA para estas tareas</li>
+<li>Los humanos pierden oportunidades para desarrollar conocimiento tácito a travs de la práctica</li>
+</ol>
+<p>Es la distopa silenciosa de la pelcula <em>Wall-E</em>, donde, tras delegar toda la actividad a sistemas automatizados, los humanos terminan con sus cuerpos y mentes atrofiados. Corremos el riesgo de algo similar con nuestra experiencia intelectual? Cuando dejamos que los modelos de lenguaje nos “atiendan” el conocimiento, nos volvemos consumidores pasivos de respuestas perfectamente formuladas, pero dejamos de ejercitar el juicio que da forma a nuestra inteligencia. El msculo cognitivo tambin se atrofia cuando no se entrena. La irona es que el conocimiento tcito se vuelve ms valioso, no menos, en un mundo dominado por IA. Cuando el conocimiento explcito se convierte en <em>commodity</em>, el juicio humano es el recurso escaso. La capacidad de saber cundo confiar en los resultados de la IA, cmo formular las preguntas correctas y cundo anular las recomendaciones algortmicas se vuelve crucial. Como reconoce la propia IA sobre sus limitaciones: los modelos de lenguaje aprenden “analizando patrones y estructuras en grandes cantidades de datos textuales” pero carecen de “la capacidad de adquirir o aplicar [conocimiento tcito] de la misma manera que una persona lo hara a travs de la prctica y experiencia directa”. En lugar de usar la IA para evitar pensar, necesitamos enfoques donde potencie –y no reemplace– el desarrollo cognitivo.</p>
+<p>El objetivo no es competir con la IA en conocimiento explcito, sino cultivar las capacidades nicamente humanas que emergen de la experiencia, la prctica y el aprendizaje encarnado –vivido, irrepetible–, anlogo en el conocimiento a lo que el “aura” es en la creatividad. En lugar de enfocarnos principalmente en transferencia de informacin, necesitamos enfatizar el desarrollo de juicio, intuicin y el tipo de sabidura prctica que solo puede provenir de enfrentarse directamente con situaciones complejas y ambiguas. Esto requiere disear interacciones que preserven el desarrollo cognitivo: en educacin, pidiendo que los estudiantes compartan sus prompts junto con las tareas, creando evaluaciones que prioricen el juicio y enfatizando el aprendizaje experiencial; en el trabajo, usando IA para recopilar sin reemplazar la decisin humana y garantizando experiencia prctica. La evidencia emprica respalda estas preocupaciones: estudios recientes documentan reducciones en <a href="https://analyticsindiamag.com/ai-news-updates/mit-study-warns-of-cognitive-decline-with-llm-use/">el esfuerzo cognitivo</a>yel pensamiento crticoasociadas al uso intensivo de IA. Sin embargo, la paradoja de la tercerizacin apunta a algo ms fundamental: las mismas capacidades de IA que hacen el conocimiento explcito universalmente accesible podran socavar el desarrollo del conocimiento tcito que nos mantiene relevantes. Esta paradoja también seala una solucién. Al entender qu hace nico e irreemplazable al conocimiento humano, podemos disear interacciones con IA que fortalezcan nuestra agencia intelectual. El futuro no ser de quienes compitan con la IA, sino de quienes sepan pensar con ella, preservando el aprendizaje experiencial que produce el irreemplazable discernimiento humano. El desafo no es solo tecnolgico: es qu tipo de aprendices y pensadores elegimos ser en la era de la IA. Como deca Aristoteles, hay saberes que solo emergen del encuentro directo con el mundo. La paradoja de la tercerizacin cognitiva no es tecnolgica, sino pedaggica: no es solo lo que la IA no hace, sino lo que dejamos de hacer al usarla como atajo. Lo que perdemos no es una habilidad puntual, sino la experiencia que la forma.</p>
 <div class="blog-source-link">
 <p>Publicado originalmente en <a href="https://www.utdt.edu/nota_prensa.php?id_nota_prensa=22903&amp;id_item_menu=25279">La Nación</a></p>
 </div>
 </div>
 <div class="blog-sidebar">
 <div id="blog-filters" class="blog-filters">
-<p><button class="blog-filter-btn active" data-category="all">Todas</button> <button class="blog-filter-btn" data-category="IA">IA</button> <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button> <button class="blog-filter-btn" data-category="Regulación">Regulación</button> <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button> <button class="blog-filter-btn" data-category="Educación">Educación</button> <button class="blog-filter-btn" data-category="Política">Política</button> <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button> <button class="blog-filter-btn" data-category="Democracia">Democracia</button> <button class="blog-filter-btn" data-category="Innovación">Innovación</button> <button class="blog-filter-btn" data-category="Región">Región</button></p>
+<p><button class="blog-filter-btn active" data-category="all">Todas</button> <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button> <button class="blog-filter-btn" data-category="Regulación">Regulación</button> <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button> <button class="blog-filter-btn" data-category="Educación">Educación</button> <button class="blog-filter-btn" data-category="Política">Política</button> <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button> <button class="blog-filter-btn" data-category="Democracia">Democracia</button> <button class="blog-filter-btn" data-category="Innovación">Innovación</button> <button class="blog-filter-btn" data-category="Región">Región</button></p>
 </div>
 </div>
 </div>
@@ -244,43 +237,58 @@ document.addEventListener('DOMContentLoaded', function() {
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
-window.document.addEventListener("DOMContentLoaded", function (event) {
-  const toggleBodyColorMode = (bsSheetEl) => {
-    const mode = bsSheetEl.getAttribute("data-mode");
-    const bodyEl = window.document.querySelector("body");
-    if (mode === "dark") {
-      bodyEl.classList.add("quarto-dark");
-      bodyEl.classList.remove("quarto-light");
-    } else {
-      bodyEl.classList.add("quarto-light");
-      bodyEl.classList.remove("quarto-dark");
-    }
-  }
-  const toggleBodyColorPrimary = () => {
-    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
-    if (bsSheetEl) {
-      toggleBodyColorMode(bsSheetEl);
-    }
-  }
-  toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
       }
+      return false;
     }
-    return false;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copiado");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copiado");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
       for (const childEl of codeEl.children) {
         if (isCodeAnnotation(childEl)) {
           childEl.remove();
@@ -288,172 +296,184 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
       return codeEl.innerText;
     }
-  });
-  clipboard.on('success', function(e) {
-    // button target
-    const button = e.trigger;
-    // don't keep focus
-    button.blur();
-    // flash "checked"
-    button.classList.add('code-copy-button-checked');
-    var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copiado");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copiado");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
-    }
-    setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
-      }
-      button.setAttribute("title", currentTitle);
-      button.classList.remove('code-copy-button-checked');
-    }, 1000);
-    // clear code selection
-    e.clearSelection();
-  });
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-    const config = {
-      allowHTML: true,
-      maxWidth: 500,
-      delay: 100,
-      arrow: false,
-      appendTo: function(el) {
-          return el.parentElement;
-      },
-      interactive: true,
-      interactiveBorder: 10,
-      theme: 'quarto',
-      placement: 'bottom-start',
-    };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
-    window.tippy(el, config); 
-  }
-  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-  for (var i=0; i<noterefs.length; i++) {
-    const ref = noterefs[i];
-    tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-      try { href = new URL(href).hash; } catch {}
-      const id = href.replace(/^#\/?/, "");
-      const note = window.document.getElementById(id);
-      return note.innerHTML;
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
     });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
         }
       }
     }
-    stripColumnClz(note)
-    const typesetMath = (el) => {
-      if (window.MathJax) {
-        // MathJax Typeset
-        window.MathJax.typeset([el]);
-      } else if (window.katex) {
-        // KaTeX Render
-        var mathElements = el.getElementsByClassName("math");
-        var macros = [];
-        for (var i = 0; i < mathElements.length; i++) {
-          var texText = mathElements[i].firstChild;
-          if (mathElements[i].tagName == "SPAN") {
-            window.katex.render(texText.data, mathElements[i], {
-              displayMode: mathElements[i].classList.contains('display'),
-              throwOnError: false,
-              macros: macros,
-              fleqn: false
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
             });
           }
-        }
-      }
-    }
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
-          }
-        }
-        typesetMath(container);
-        return container.innerHTML
-      } else {
-        typesetMath(note);
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      typesetMath(note);
-      return note.innerHTML;
-    }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
-          }
         } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
           .then(res => res.text())
           .then(html => {
             const parser = new DOMParser();
             const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
+            const note = htmlDoc.querySelector('main.content');
             if (note !== null) {
-              const html = processXRef(id, note);
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
               instance.setContent(html);
             } 
           }).finally(() => {
@@ -461,185 +481,161 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
-    });
-  }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            div.style.left = 0;
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
+      }, function(instance) {
       });
     }
-  }
-});
-</script>
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
 </div> <!-- /content -->
 
 

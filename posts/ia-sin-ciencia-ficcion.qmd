@@ -56,7 +56,6 @@ Publicado originalmente en <a href="https://fund.ar/publicacion/inteligencia-art
 
 <div class="blog-filters" id="blog-filters">
   <button class="blog-filter-btn active" data-category="all">Todas</button>
-  <button class="blog-filter-btn" data-category="IA">IA</button>
   <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
   <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
   <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
