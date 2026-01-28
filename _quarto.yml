@@ -2,15 +2,17 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "CEPE-Fundar"
+  title: "nadia"
   navbar:
-    background: "#7DA5C7"
-    logo: " "
+    background: "#ffffff"
+    logo: logo.svg
     left:
-      - href: index.qmd
+      - href: nosotros.qmd
         text: "Nosotros"
-      - href: encuesta.qmd
-        text: "Investigación"  
+      - href: investigacion.qmd
+        text: "Investigación"
+      - href: blog.qmd
+        text: "Opinión"  
     right:
       - icon: github
         href: https://github.com/cepe-fundar
@@ -19,6 +21,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    lang: es
 
 
 

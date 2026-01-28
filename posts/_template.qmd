@@ -1,0 +1,24 @@
+---
+title: "Título de la entrada"
+description: "Breve descripción de la entrada"
+date: "2025-01-26"
+author: "Autor"
+categories: ["IA", "Políticas Públicas"]
+---
+
+## Introducción
+
+Aquí va el contenido de tu entrada de blog.
+
+Puedes usar todo el formato de Markdown y Quarto.
+
+### Subtítulos
+
+- Listas
+- Con viñetas
+- O numeradas
+
+**Texto en negrita** y *texto en cursiva*.
+
+[Enlaces](https://ejemplo.com) también funcionan.
+
