@@ -1,6 +1,6 @@
 ---
 title: "Investigación"
-description: "Proyectos de investigación sobre inteligencia artificial y políticas públicas"
+
 ---
 
 <div class="investigacion-grid">

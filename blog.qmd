@@ -26,7 +26,7 @@ Federico Sturzenegger argumenta que Argentina no necesita una ley específica de
 <span>Eduardo Levy Yeyati</span>
 </div>
 <div class="blog-entry-excerpt">
-El director académico del CEPE escribió sobre el proyecto "LatamGPT", un modelo de inteligencia artificial diseñado para América Latina. "Dime cómo hablas y te diré de dónde vienes", podría susurrar un algori...
+"LatamGPT", un modelo de inteligencia artificial diseñado para América Latina. "Dime cómo hablas y te diré de dónde vienes", podría susurrar un algoritmo...
 </div>
 <a href="posts/una-inteligencia-artificial-que-hable-nuestro-idioma.html" class="blog-entry-link">Leer más →</a>
 </div>
@@ -74,7 +74,7 @@ El año pasado hubo al menos tres casos en que un alumno de secundaria publicó 
 <span>Eduardo Levy Yeyati</span>
 </div>
 <div class="blog-entry-excerpt">
-El director académico del CEPE escribió sobre el riesgo de tercerizar en la IA las tareas complejas de pensamiento. Como [ya dijimos aquí](https://www.lanacion.com.ar/ideas/factor-humano-cual-es-el-tipo-d...
+El riesgo de tercerizar en la IA las tareas complejas de pensamiento. 
 </div>
 <a href="posts/la-paradoja-de-tercerizar-el-pensamiento-en-la-ia.html" class="blog-entry-link">Leer más →</a>
 </div>
