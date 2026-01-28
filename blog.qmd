@@ -162,8 +162,6 @@ La inteligencia artificial (IA) nos vuelve a asombrar: el ChatGPT -un modelo que
 
 </div>
 
-</div>
-
 <div class="blog-sidebar">
 
 <div class="blog-filters" id="blog-filters">
