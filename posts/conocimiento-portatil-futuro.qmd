@@ -99,5 +99,5 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <footer class="site-footer">
-  <img src="../logos_combinados.png" alt="CEPE y Fundar" width="400">
+  <img src="../NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
 </footer>

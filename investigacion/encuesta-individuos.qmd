@@ -23,6 +23,6 @@ Lo que sí sabemos es que el impacto de la IA va a depender de las decisiones qu
 La encuesta se centra específicamente en el uso (personal y laboral) de la inteligencia artificial generativa, entendiendo por ésta a "sistemas que crean textos, imágenes o códigos automáticamente". Además de indagar en los planos personales y laborales del uso de IA generativa, la encuesta exploró dimensiones como el nivel de confianza, conocimiento, perspectivas y sentimientos respecto a esta herramienta.
 
 <footer class="site-footer">
-  <img src="../logos_combinados.png" alt="CEPE y Fundar" width="400">
+  <img src="../NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
 </footer>
 
