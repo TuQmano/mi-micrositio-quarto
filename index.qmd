@@ -1,6 +1,6 @@
 ---
 title: "Manifiesto"
-subtitle: "Sin IA no hay desarrollo, pero por sí sola no construye sociedades inclusivas"
+subtitle: "Sin IA no hay desarrollo, pero la inclusión no vendrá sola"
 
 ---
 
@@ -35,5 +35,5 @@ La mayoría de los datos valiosos para entrenar y desplegar IA están en manos d
 Sin acción estratégica, seremos meramente consumidores de una tecnología definida por otros. Con convicción y con un rumbo definido, podemos poner la IA al servicio de un desarrollo inclusivo y soberano de nuestro país y la región.
 
 <footer class="site-footer">
-  <img src="logos_combinados.png" alt="CEPE y Fundar" width="400">
+  <img src="NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
 </footer>

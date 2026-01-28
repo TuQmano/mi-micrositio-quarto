@@ -4,6 +4,10 @@ description: "El Centro de Políticas Públicas de la Universidad Torcuato Di Te
 con el objetivo de que la inteligencia artificial se convierta en un motor de productividad, inclusión y desarrollo sostenible"
 ---
 
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="footer.png" alt="NADIA" style="max-width: 100%; height: auto;">
+</div>
+
 **¿Qué queremos lograr?**
 
 La IA puede aumentar la productividad económica si existe un ecosistema y acciones coordinadas y eso va a depender de las decisiones que tomemos hoy y de las políticas que implementemos Para eso, nos proponemos traducir datos en acción y generar impactos concretos en distintos niveles:
@@ -18,7 +22,7 @@ La IA puede aumentar la productividad económica si existe un ecosistema y accio
  
 #### Nosotros
 
-Somos el primer espacio en Argentina dedicado a producir datos, investigación y proyectos innovadores sobre inteligencia artificial, con foco en políticas públicas y desarrollo económico. Queremos que la IA sea un vector para impulsar un desarrollo inclusivo, competitivo y sostenible para Argentina y la región.
+**nadIA** es el primer espacio en Argentina dedicado a producir datos, investigación y proyectos innovadores sobre inteligencia artificial, con foco en políticas públicas y desarrollo económico. Queremos que la IA sea un vector para impulsar un desarrollo inclusivo, competitivo y sostenible para Argentina y la región.
 
 > **[**CEPE**](https://www.utdt.edu/listado_contenidos.php?id_item_menu=25278)** es el centro de políticas públicas basadas en evidencia de la Escuela de Gobierno de la Universidad Torcuato Di Tella.
 
@@ -38,6 +42,6 @@ Somos el primer espacio en Argentina dedicado a producir datos, investigación y
 |                     |   Macarena Santolaria    |
 
 <footer class="site-footer">
-  <img src="logos_combinados.png" alt="CEPE y Fundar" width="400">
+  <img src="NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
 </footer>
 
