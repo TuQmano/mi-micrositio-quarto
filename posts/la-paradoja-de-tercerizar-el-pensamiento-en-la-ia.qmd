@@ -3,7 +3,7 @@ title: "La paradoja de tercerizar el pensamiento en la IA"
 description: "La paradoja de tercerizar el pensamiento en la IA"
 date: "2025-01-15"
 author: "Eduardo Levy Yeyati"
-categories: ['IA', 'Educación', 'Tecnología']
+categories: ['Educación']
 ---
 
 <div class="blog-layout">
@@ -52,15 +52,10 @@ Publicado originalmente en <a href="https://www.utdt.edu/nota_prensa.php?id_nota
 
 <div class="blog-filters" id="blog-filters">
   <button class="blog-filter-btn active" data-category="all">Todas</button>
-  <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
-  <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
-  <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
+  <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button>
+  <button class="blog-filter-btn" data-category="Adopción">Adopción</button>
   <button class="blog-filter-btn" data-category="Educación">Educación</button>
-  <button class="blog-filter-btn" data-category="Política">Política</button>
-  <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
-  <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
   <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
-  <button class="blog-filter-btn" data-category="Región">Región</button>
 </div>
 
 </div>

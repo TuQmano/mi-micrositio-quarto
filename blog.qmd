@@ -7,7 +7,7 @@ description: "Reflexiones, análisis y novedades sobre inteligencia artificial y
 
 <div class="blog-content">
 
-<div class="blog-entry" data-categories="Regulación Políticas Públicas">
+<div class="blog-entry" data-categories="Gobernanza">
 ### [Federico Sturzenegger tiene razón: Argentina no necesita una ley de inteligencia artificial](posts/sturzenegger-argentina-no-necesita-ley-ia.html)
 <div class="blog-entry-meta">
 <span>28 de enero, 2026</span>
@@ -20,7 +20,7 @@ Federico Sturzenegger argumenta que Argentina no necesita una ley específica de
 </div>
 
 
-<div class="blog-entry" data-categories="Políticas Públicas Tecnología Región">
+<div class="blog-entry" data-categories="Adopción">
 ### [Uso de la IA en Uruguay se concentra en los jóvenes y en personas con mayor nivel educativo e ingreso, según estudio](posts/uso-ia-uruguay-jovenes-educacion-ingreso.html)
 <div class="blog-entry-meta">
 <span>21 de noviembre, 2025</span>
@@ -32,7 +32,7 @@ Un estudio realizado por FUNDAR y CEPE analiza el uso de inteligencia artificial
 <a href="posts/uso-ia-uruguay-jovenes-educacion-ingreso.html" class="blog-entry-link">Leer más →</a>
 </div>
 
-<div class="blog-entry" data-categories="Políticas Públicas Tecnología Región">
+<div class="blog-entry" data-categories="Adopción">
 ### [Cómo y para qué usamos la inteligencia artificial en Argentina, según un estudio académico](posts/como-y-para-que-usamos-ia-argentina-estudio.html)
 <div class="blog-entry-meta">
 <span>18 de noviembre, 2025</span>
@@ -45,7 +45,7 @@ Por primera vez se presentaron datos locales de adopción y uso sobre inteligenc
 </div>
 
 
-<div class="blog-entry" data-categories="IA Tecnología Políticas Públicas Región">
+<div class="blog-entry" data-categories="Gobernanza Innovación">
 ### [Una inteligencia artificial que hable nuestro idioma](posts/una-inteligencia-artificial-que-hable-nuestro-idioma.html)
 <div class="blog-entry-meta">
 <span>10 de septiembre, 2025</span>
@@ -57,7 +57,7 @@ Por primera vez se presentaron datos locales de adopción y uso sobre inteligenc
 <a href="posts/una-inteligencia-artificial-que-hable-nuestro-idioma.html" class="blog-entry-link">Leer más →</a>
 </div>
 
-<div class="blog-entry" data-categories="IA Regulación Políticas Públicas">
+<div class="blog-entry" data-categories="Gobernanza">
 ### [No culpen al algoritmo: ¿cómo regular la inteligencia artificial en un mundo demasiado humano?](posts/no-culpen-al-algoritmo.html)
 <div class="blog-entry-meta">
 <span>10 de agosto, 2025</span>
@@ -69,7 +69,7 @@ En 2018, mientras en el Congreso se debatía la despenalización del aborto, el 
 <a href="posts/no-culpen-al-algoritmo.html" class="blog-entry-link">Leer más →</a>
 </div>
 
-<div class="blog-entry" data-categories="IA Tecnología Innovación">
+<div class="blog-entry" data-categories="Innovación">
 ### [Inteligencia artificial sin ciencia ficción: más allá de los chatbots, hay mucho por hacer](posts/ia-sin-ciencia-ficcion.html)
 <div class="blog-entry-meta">
 <span>6 de julio, 2025</span>
@@ -81,7 +81,7 @@ Más que preocuparnos por frenar el ascenso inminente y universal de la IA, en A
 <a href="posts/ia-sin-ciencia-ficcion.html" class="blog-entry-link">Leer más →</a>
 </div>
 
-<div class="blog-entry" data-categories="IA Política Deepfakes Democracia">
+<div class="blog-entry" data-categories="Gobernanza">
 ### [Deepfakes, campañas sucias y un decálogo que parece sátira, pero denuncia algo muy real](posts/deepfakes-campanas-sucias.html)
 <div class="blog-entry-meta">
 <span>15 de junio, 2025</span>
@@ -93,7 +93,7 @@ El año pasado hubo al menos tres casos en que un alumno de secundaria publicó 
 <a href="posts/deepfakes-campanas-sucias.html" class="blog-entry-link">Leer más →</a>
 </div>
 
-<div class="blog-entry" data-categories="IA Educación Tecnología">
+<div class="blog-entry" data-categories="Educación">
 ### [La paradoja de tercerizar el pensamiento en la IA](posts/la-paradoja-de-tercerizar-el-pensamiento-en-la-ia.html)
 <div class="blog-entry-meta">
 <span>15 de enero, 2025</span>
@@ -105,7 +105,7 @@ El riesgo de tercerizar en la IA las tareas complejas de pensamiento.
 <a href="posts/la-paradoja-de-tercerizar-el-pensamiento-en-la-ia.html" class="blog-entry-link">Leer más →</a>
 </div>
 
-<div class="blog-entry" data-categories="IA Tecnología Políticas Públicas Región">
+<div class="blog-entry" data-categories="Innovación">
 ### [DeepSeek: ¿atajo a la soberanía tecnológica o nueva dependencia?](posts/deepseek-atajo-a-la-soberanía-tecnológica-o-nueva-dependencia.html)
 <div class="blog-entry-meta">
 <span>15 de diciembre, 2024</span>
@@ -117,7 +117,7 @@ Eduardo Levy Yeyati, director académico del CEPE, y Soledad Guilera, profesora 
 <a href="posts/deepseek-atajo-a-la-soberanía-tecnológica-o-nueva-dependencia.html" class="blog-entry-link">Leer más →</a>
 </div>
 
-<div class="blog-entry" data-categories="IA Educación Tecnología">
+<div class="blog-entry" data-categories="Educación">
 ### [Inteligencia artificial. ¿El conocimiento portátil del futuro?](posts/conocimiento-portatil-futuro.html)
 <div class="blog-entry-meta">
 <span>26 de marzo, 2023</span>
@@ -129,7 +129,7 @@ En 1950, Alan Turing creó el primer método para comprobar si una computadora p
 <a href="posts/conocimiento-portatil-futuro.html" class="blog-entry-link">Leer más →</a>
 </div>
 
-<div class="blog-entry" data-categories="IA Políticas Públicas">
+<div class="blog-entry" data-categories="Gobernanza">
 ### [Inteligencia artificial generativa: una cuestión política](posts/ia-generativa-cuestion-politica.html)
 <div class="blog-entry-meta">
 <span>15 de marzo, 2023</span>
@@ -141,7 +141,7 @@ En las últimas semanas se habló sobre el uso de inteligencia artificial genera
 <a href="posts/ia-generativa-cuestion-politica.html" class="blog-entry-link">Leer más →</a>
 </div>
 
-<div class="blog-entry" data-categories="IA Políticas Públicas">
+<div class="blog-entry" data-categories="Gobernanza">
 ### [Del asombro a la política: la inteligencia artificial sube al estrado](posts/del-asombro-a-la-politica.html)
 <div class="blog-entry-meta">
 <span>1 de febrero, 2023</span>
@@ -160,15 +160,10 @@ La inteligencia artificial (IA) nos vuelve a asombrar: el ChatGPT -un modelo que
 
 <div class="blog-filters" id="blog-filters">
   <button class="blog-filter-btn active" data-category="all">Todas</button>
-  <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
-  <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
-  <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
+  <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button>
+  <button class="blog-filter-btn" data-category="Adopción">Adopción</button>
   <button class="blog-filter-btn" data-category="Educación">Educación</button>
-  <button class="blog-filter-btn" data-category="Política">Política</button>
-  <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
-  <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
   <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
-  <button class="blog-filter-btn" data-category="Región">Región</button>
 </div>
 
 </div>

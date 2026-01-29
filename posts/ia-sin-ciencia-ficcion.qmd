@@ -3,7 +3,7 @@ title: "Inteligencia artificial sin ciencia ficción: más allá de los chatbots
 description: "Artículo sobre inteligencia artificial"
 date: "2025-07-06"
 author: "Macarena Santolaria"
-categories: ['IA', 'Tecnología', 'Innovación']
+categories: ['Innovación']
 ---
 
 <div class="blog-layout">
@@ -56,13 +56,9 @@ Publicado originalmente en <a href="https://fund.ar/publicacion/inteligencia-art
 
 <div class="blog-filters" id="blog-filters">
   <button class="blog-filter-btn active" data-category="all">Todas</button>
-  <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
-  <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
-  <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
+  <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button>
+  <button class="blog-filter-btn" data-category="Adopción">Adopción</button>
   <button class="blog-filter-btn" data-category="Educación">Educación</button>
-  <button class="blog-filter-btn" data-category="Política">Política</button>
-  <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
-  <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
   <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
 </div>
 

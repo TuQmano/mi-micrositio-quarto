@@ -3,7 +3,7 @@ title: "Del asombro a la política: la inteligencia artificial sube al estrado"
 description: "Reflexión sobre cómo la inteligencia artificial está transformando el ámbito político"
 date: "2023-02-01"
 author: "Daniel Yankelevich"
-categories: ["IA", "Políticas Públicas"]
+categories: ['Gobernanza']
 ---
 
 <div class="blog-layout">
@@ -37,13 +37,9 @@ Publicado originalmente en <a href="https://fund.ar/publicacion/del-asombro-a-la
 
 <div class="blog-filters" id="blog-filters">
   <button class="blog-filter-btn active" data-category="all">Todas</button>
-  <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
-  <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
-  <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
+  <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button>
+  <button class="blog-filter-btn" data-category="Adopción">Adopción</button>
   <button class="blog-filter-btn" data-category="Educación">Educación</button>
-  <button class="blog-filter-btn" data-category="Política">Política</button>
-  <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
-  <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
   <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
 </div>
 

@@ -3,7 +3,7 @@ title: "Cómo y para qué usamos la inteligencia artificial en Argentina, según
 description: "Primeros datos locales de adopción y uso de IA en Argentina y Uruguay"
 date: "2025-11-18"
 author: "Irina Sternik y Daniel Yankelevich"
-categories: ['Políticas Públicas', 'Tecnología', 'Región']
+categories: ['Adopción']
 ---
 
 <div class="blog-layout">
@@ -63,13 +63,9 @@ Publicado originalmente en <a href="https://www.lanacion.com.ar/tecnologia/como-
 
 <div class="blog-filters" id="blog-filters">
   <button class="blog-filter-btn active" data-category="all">Todas</button>
-  <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
-  <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
-  <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
+  <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button>
+  <button class="blog-filter-btn" data-category="Adopción">Adopción</button>
   <button class="blog-filter-btn" data-category="Educación">Educación</button>
-  <button class="blog-filter-btn" data-category="Política">Política</button>
-  <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
-  <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
   <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
 </div>
 

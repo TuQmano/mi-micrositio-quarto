@@ -3,7 +3,7 @@ title: "Inteligencia artificial. ¿El conocimiento portátil del futuro?"
 description: "Artículo sobre inteligencia artificial"
 date: "2023-03-26"
 author: "Sebastián Ceria y Daniel Yankelevich"
-categories: ['IA', 'Educación', 'Tecnología']
+categories: ['Educación']
 ---
 
 <div class="blog-layout">

@@ -3,7 +3,7 @@ title: "Uso de la IA en Uruguay se concentra en los jóvenes y en personas con m
 description: "Análisis sobre la adopción de inteligencia artificial en Uruguay"
 date: "2025-11-21"
 author: "Lucía Barrios y Eduardo Levy Yeyati"
-categories: ['Políticas Públicas', 'Tecnología', 'Región']
+categories: ['Adopción']
 ---
 
 <div class="blog-layout">
@@ -87,13 +87,9 @@ Publicado originalmente en <a href="https://ladiaria.com.uy/futuro/articulo/2025
 
 <div class="blog-filters" id="blog-filters">
   <button class="blog-filter-btn active" data-category="all">Todas</button>
-  <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
-  <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
-  <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
+  <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button>
+  <button class="blog-filter-btn" data-category="Adopción">Adopción</button>
   <button class="blog-filter-btn" data-category="Educación">Educación</button>
-  <button class="blog-filter-btn" data-category="Política">Política</button>
-  <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
-  <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
   <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
 </div>
 

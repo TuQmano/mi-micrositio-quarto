@@ -3,7 +3,7 @@ title: "Federico Sturzenegger tiene razón: Argentina no necesita una ley de int
 description: "Artículo sobre regulación de inteligencia artificial"
 date: "2025-08-15"
 author: "Daniel Yankelevich"
-categories: ['Regulación', 'Políticas Públicas']
+categories: ['Gobernanza']
 ---
 
 <div class="blog-layout">
@@ -37,13 +37,9 @@ Publicado originalmente en <a href="https://www.ambito.com/opiniones/federico-st
 
 <div class="blog-filters" id="blog-filters">
   <button class="blog-filter-btn active" data-category="all">Todas</button>
-  <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
-  <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
-  <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
+  <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button>
+  <button class="blog-filter-btn" data-category="Adopción">Adopción</button>
   <button class="blog-filter-btn" data-category="Educación">Educación</button>
-  <button class="blog-filter-btn" data-category="Política">Política</button>
-  <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
-  <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
   <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
 </div>
 
