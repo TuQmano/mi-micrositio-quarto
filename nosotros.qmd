@@ -8,7 +8,7 @@ description: "Desde el Centro de Políticas Públicas (CEPE) de la Universidad T
 
 **¿Qué queremos lograr?**
 
-La IA puede aumentar la productividad económica si existe un ecosistema y acciones coordinadas y eso va a depender de las decisiones que tomemos hoy y de las políticas que implementemos Para eso, nos proponemos traducir datos en acción y generar impactos concretos en distintos niveles:
+La IA puede aumentar la productividad económica si existe un ecosistema y acciones coordinadas y eso va a depender de las decisiones que tomemos hoy y de las políticas que implementemos. Para eso, nos proponemos traducir datos en acción y generar impactos concretos en distintos niveles:
 
 -   **Empresas**: generar inteligencia estratégica que permita acelerar la adopción de IA, mejorar productividad y competir regional e internacionalmente.
 
