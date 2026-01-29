@@ -19,6 +19,32 @@ Federico Sturzenegger argumenta que Argentina no necesita una ley específica de
 <a href="posts/sturzenegger-argentina-no-necesita-ley-ia.html" class="blog-entry-link">Leer más →</a>
 </div>
 
+
+<div class="blog-entry" data-categories="Políticas Públicas Tecnología Región">
+### [Uso de la IA en Uruguay se concentra en los jóvenes y en personas con mayor nivel educativo e ingreso, según estudio](posts/uso-ia-uruguay-jovenes-educacion-ingreso.html)
+<div class="blog-entry-meta">
+<span>21 de noviembre, 2025</span>
+<span>Lucía Barrios y Eduardo Levy Yeyati</span>
+</div>
+<div class="blog-entry-excerpt">
+Un estudio realizado por FUNDAR y CEPE analiza el uso de inteligencia artificial en Uruguay, revelando patrones de adopción que se concentran principalmente en los jóvenes y en personas con mayor nivel educativo e ingreso...
+</div>
+<a href="posts/uso-ia-uruguay-jovenes-educacion-ingreso.html" class="blog-entry-link">Leer más →</a>
+</div>
+
+<div class="blog-entry" data-categories="Políticas Públicas Tecnología Región">
+### [Cómo y para qué usamos la inteligencia artificial en Argentina, según un estudio académico](posts/como-y-para-que-usamos-ia-argentina-estudio.html)
+<div class="blog-entry-meta">
+<span>18 de noviembre, 2025</span>
+<span>Irina Sternik y Daniel Yankelevich</span>
+</div>
+<div class="blog-entry-excerpt">
+Por primera vez se presentaron datos locales de adopción y uso sobre inteligencia artificial. Un informe elaborado por FUNDAR y CEPE revela cómo los individuos usan IA en Argentina y Uruguay...
+</div>
+<a href="posts/como-y-para-que-usamos-ia-argentina-estudio.html" class="blog-entry-link">Leer más →</a>
+</div>
+
+
 <div class="blog-entry" data-categories="IA Tecnología Políticas Públicas Región">
 ### [Una inteligencia artificial que hable nuestro idioma](posts/una-inteligencia-artificial-que-hable-nuestro-idioma.html)
 <div class="blog-entry-meta">

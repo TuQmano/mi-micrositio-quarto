@@ -1,0 +1,151 @@
+---
+title: "Uso de la IA en Uruguay se concentra en los jóvenes y en personas con mayor nivel educativo e ingreso, según estudio"
+description: "Análisis sobre la adopción de inteligencia artificial en Uruguay"
+date: "2025-11-21"
+author: "Lucía Barrios y Eduardo Levy Yeyati"
+categories: ['Políticas Públicas', 'Tecnología', 'Región']
+---
+
+<div class="blog-layout">
+
+<div class="blog-content">
+
+El asesor regional del BID y economista argentino, Eduardo Levy Yeyati, advirtió, en diálogo con la diaria, que el uso de IA en Uruguay sigue siendo superficial, reproduce brechas educativas y laborales, y carece de estrategias empresariales que permitan aprovechar su potencial.
+
+El uso de inteligencia artificial (IA) en Uruguay se encuentra concentrado en jóvenes y en personas con mayor nivel educativo e ingreso, se reporta en un estudio realizado por Centro de Evaluación de Políticas basadas en la Evidencia de la Universidad Torcuato Di Tella y el Centro de Investigación y Diseño de Políticas Públicas.
+
+El “patrón más preocupante” probablemente sea que la adopción de IA se concentra en jóvenes y en personas con mayor nivel educativo e ingreso, lo que podría ocasionar una brecha digital que tenga impacto en el mercado laboral, sobre todo para los sectores de menores ingresos, indicó, en diálogo con la diaria, el economista argentino Eduardo Levy Yeyati, uno de los autores del estudio.
+
+“En algún sentido es paradójico: la IA es descalificadora [...] Al reemplazar el conocimiento explícito, documentado, que está el centro de la formación tal como la conocemos hoy, debería ayudar a los trabajadores de menor calificación formal a achicar las diferencias con los calificados. De hecho, es lo que encuentran los trabajos académicos: la IA aumenta la productividad de los trabajadores de calificación media siempre y cuando estos sepan cómo usarla. Si en cambio dejamos que cada uno aprenda por su cuenta, es probable que la IA aumente esta brecha. Para evitar esto habría que repensar la educación y la formación laboral, algo que por ahora se ve lejano”, afirmó quien además es profesor de la Universidad Di Tella.
+
+En la investigación, llamada Encuesta nacional sobre adopción de IA en Uruguay, que fue publicada a fines de setiembre, se señala que entre quienes cuentan con universidad incompleta o más, el 52,6% declara usar IA en su vida cotidiana, frente al 37% de quienes tienen hasta secundaria completa.
+
+## Uso ocasional
+
+El uso de IA en Uruguay todavía es “ocasional, fragmentado y sin una estrategia”, afirmó Levy Yeyati, quien también es asesor regional del BID en temas de IA y crecimiento y non-resident senior fellow de Brookings.
+
+Según el especialista, el nuevo informe sobre adopción de IA en el país confirma un patrón extendido en América Latina: mucha curiosidad, poco aprovechamiento real.
+
+“Algo más del 40% de los uruguayos usa IA, pero sólo de forma ocasional, como un buscador o editor sofisticado, por lo general la versión gratuita de GPT. Incluso en el trabajo el uso ronda el 20%, la utilización es accesoria, individual, sin una estrategia de las empresas para integrar la IA de manera más orgánica preparando a los trabajadores para una buena complementación”, explicó. “Es como si estuviéramos probando el agua con la punta del pie, entrando unos metros, pero sin nadar”.
+
+Según el estudio, que consistió en un panel en línea de 500 casos recolectados en agosto de 2025, el 41,8% hace un uso personal de la IA, aunque predominan los usuarios ocasionales, el 23,0% no la utiliza pero considera hacerlo, el 22,6% asegura que no está analizando recurrir a dicha tecnología y el 12,6 eligió la opción “no lo sé/prefiero no responder”.
+
+Por género, se observa una diferencia acotada a favor de las mujeres (48,2% versus 43,1% en varones). Mientras tanto, la generación Z (nacidos entre 1997 y 2012), muestra la mayor adopción, con el 63,9%; seguida por los millennials (1981 y 1996), con el 45%; la generación X (1965 y 1980), con el 38,4%, y los boomers (1946 y 1964), con el 29%.
+
+Por nivel socioeconómico, el 58,9% de las personas de mayor poder adquisitivo utiliza IA, frente al 45,3% de los sectores medios y sólo el 29,7% de los de menores recursos.
+
+El uso común de dicha tecnología fue la búsqueda de información y asistencia en tareas cotidianas (67,5%), seguido por aquellos que la utilizan para interpretación, traducción o resumen de textos (30,6), para entretenimiento o generación de contenidos (30,1) y, por último, para conversación libre o terapéutica (13,9).
+
+El reporte observó un “claro predominio” de ChatGPT (76,1%), seguido por Gemini (45,9%), luego por Llama/WhatsApp (19,1%) y Copilot (12%).
+
+## Empresas sin estrategia
+
+Otro de los hallazgos del estudio es que la adopción laboral es impulsada por individuos, no por planes organizacionales. Para Levy Yeyati, esto genera dos riesgos: baja productividad y pérdida de empleo.
+
+“Esta adopción epidérmica tiene pocos dividendos de productividad: hace lo mismo que el trabajador, más rápido y barato, aunque no siempre mejor, sin aumentar la calidad. Así como el trabajador usa un LLM [modelos de lenguaje] para ahorrar tiempo, la empresa podría usar un LLM para reducir personal. En suma, más rentabilidad, menos trabajo, productividad sin cambios, un escenario que la literatura académica denomina ‘la trampa de Turing’”, afirmó.
+
+Mientras tanto, el Estado enfrenta un “dilema” entre la “protección y la innovación”, en un contexto donde “la IA es un blanco móvil y los reguladores a veces no están lo suficientemente informados de su naturaleza, sus variantes y sus consecuencias”, dijo.
+
+“Este es un patrón común con el usuario: se habla del fenómeno de manera impresionista y se advierte que es algo nuevo e importante, pero no siempre se entienden los detalles”, añadió.
+
+Según la investigación, uno de cada cinco adultos (20,6%) emplea IA en su trabajo y más de un tercio (34,2%) planea hacerlo en el futuro cercano. Asimismo, el 59,3% de las personas indican que no existe una estrategia formal en su lugar de trabajo y sólo 16% reporta políticas institucionales explícitas.
+
+## Capacitación
+
+Según el estudio, sólo uno de cada cinco trabajadores recibió formación formal en IA. Para el experto, esto amenaza la competitividad futura del país: “Que la IA reduzca o aumente brechas dependerá de cómo el Estado prepare esta transición. La primera implica mitigar efectos adversos, por ejemplo, en el empleo y la distribución del ingreso, o en la seguridad. La segunda se refiere a las condiciones para acelerar la adopción responsable y productiva [...] Después de casi tres años de sorpresa, embelesamiento sobre la IA generativa, hoy es el momento de pensar estos dos conceptos de manera operativa como políticas de Estado. Los que no lo hagan pueden quedar rezagados cuando la IA se adopte de manera masiva”, advirtió.
+
+Ante el objetivo de Uruguay que busca posicionarse como hub digital, el especialista consideró que cualquier país que se proponga esta meta debería impulsar la “infraestructura y la formación de capital humano”. Sin embargo, advirtió que “este segundo pilar aún es incipiente” en el país.
+
+El informe también reveló que el entendimiento autopercibido de IA es bajo o intermedio. Para el economista, esto imposibilita una adopción profunda: “Creo que debemos superar la etapa del embelesamiento con la nueva aplicación del día y pensar la formación alrededor de la IA como elemento central del trabajo. Como en todas las disciplinas, hay un límite para lo que los usuarios pueden aprender por su cuenta”.
+
+La capacitación laboral en IA es “todavía marginal”: apenas 19,8% ha recibido formación, frente a 75,3% que no la tuvo, lo que “evidencia una brecha de capacidades digitales en entornos de trabajo”, se afirma en el informe.
+
+El nivel de entendimiento autopercibido de la IA es “bajo a intermedio”: sólo 14,9% declara tener un conocimiento alto y 30,7% afirma poseer un nivel moderado, mientras que los niveles bajo/nulo suman 42%, según el reporte.
+
+## Regulación
+
+Levy Yeyati consideró que en materia de formación el “cuello de botella” son los docentes. “El Estado tiene que acompañar a los profesores en su aprendizaje de una tecnología que hoy es vista como competencia o amenaza, pero que es complementaria, en la medida en que aligera y especializa la tarea docente, sin reemplazar la relación entre docentes y alumnos”.
+
+En el ámbito laboral, insistió en entrenar a trabajadores en IA y evitar la “tercerización cognitiva”, que debilita el aprendizaje real.
+
+“Vale la pena encarar la regulación como un balance entre la seguridad de datos, las personas y la innovación con riesgos controlados”, concluyó.
+
+En la investigación se señala que la confianza de los uruguayos en los sistemas de IA es “limitada”. Solo uno de cada diez encuestados declara un nivel alto, mientras que el 42,8% opta por una valoración moderada. En tanto, un 15% expresa una valoración baja y un 10,6% directamente nula.
+
+Asimismo, hay “consenso” en que dicha tecnología necesita una regulación: un 58,4% de las personas encuestadas considera que debería existir un marco normativo sobre el uso de IA en Uruguay y sólo un 15,2% de las personas respondió que no era necesario.
+
+
+
+<div class="blog-source-link">
+Publicado originalmente en <a href="https://ladiaria.com.uy/futuro/articulo/2025/11/uso-de-la-ia-en-uruguay-se-concentra-en-los-jovenes-y-en-personas-con-mayor-nivel-educativo-e-ingreso-segun-estudio/">La Diaria</a>
+</div>
+
+</div>
+
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="Políticas Públicas">Políticas Públicas</button>
+  <button class="blog-filter-btn" data-category="Regulación">Regulación</button>
+  <button class="blog-filter-btn" data-category="Tecnología">Tecnología</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Política">Política</button>
+  <button class="blog-filter-btn" data-category="Deepfakes">Deepfakes</button>
+  <button class="blog-filter-btn" data-category="Democracia">Democracia</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+</div>
+
+</div>
+
+
+</div>
+
+
+<script>
+// Filtros por categoría - redirige al blog con el filtro
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  
+  // Hacer las categorías clickeables
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+
+
+
+<script>
+// Traducir Author y Published al español
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+
+
+<footer class="site-footer">
+  <img src="../NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
+</footer>
+
