@@ -4,39 +4,290 @@ description: "Artículo sobre inteligencia artificial"
 date: "2023-03-15"
 author: "Daniel Yankelevich"
 categories: ['Gobernanza']
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-<div class="blog-layout">
+::: blog-layout
+::: blog-content
+En las últimas semanas se habló sobre el uso de inteligencia artificial
+generativa. El chatGPT3 para textos o Dall-e y Stability para imágenes,
+la IA generativa tiene un gran potencial para transformar la manera en
+que se produce y consume contenido. Ahora bien, esta tecnología trae
+consigo amenazas y desafíos, sobre todo si pensamos en el posible
+impacto en los sistemas democráticos. Fake news, desinformación, trolls
+colapsando sistemas de comunicación oficiales.
 
-<div class="blog-content">
+Qué es cada cosa, qué están haciendo los Estados en el mundo y
+propuestas para trabajar el tema en Argentina.
 
-En las últimas semanas se habló sobre el uso de inteligencia artificial generativa. El chatGPT3 para textos o Dall-e y Stability para imágenes, la IA generativa tiene un gran potencial para transformar la manera en que se produce y consume contenido. Ahora bien, esta tecnología trae consigo amenazas y desafíos, sobre todo si pensamos en el posible impacto en los sistemas democráticos. Fake news, desinformación, trolls colapsando sistemas de comunicación oficiales. 
+## IA generativa: quién es quién (o qué es qué)
 
-Qué es cada cosa, qué están haciendo los Estados en el mundo y propuestas para trabajar el tema en  Argentina.
+**¿Qué es IA generativa?**
 
-<div class="blog-source-link">
-Publicado originalmente en <a href="https://fund.ar/publicacion/ia-generativa-una-cuestion-politica/">Fundar</a>
-</div>
+Son modelos de inteligencia artificial que permiten «producir» cosas. No
+solo reconocen un texto o reaccionan frente a una imagen, sino que
+generan cosas que no existían antes. Por lo general se entrenan con
+cientos o miles de millones de ejemplos: textos escritos por humanos
+(disponibles en internet), imágenes, dibujos o fotos. Luego las combinan
+y modifican en formas difíciles de predecir.
 
-</div>
+**¿Qué es GPT y chatGPT?**
 
+Son los modelos de lenguaje más modernos y exitosos que generan textos y
+mantienen conversaciones. No son perfectos, pero son muy buenos y sus
+textos muchas veces no pueden distinguirse de los creados por personas.
+Por ejemplo, uno puede pedirle «escribí por favor un cuento de menos de
+1000 caracteres cuyos personajes sean un mamut y un canario y que haya
+un objeto mágico» .
 
-<div class="blog-sidebar">
+Se habla de GPT-3 porque el modelo GPT va por la versión 3, pero ya se
+está trabajando en la 4. El Chat GPT permite además conversar con el
+modelo.
 
-<div class="blog-filters" id="blog-filters">
-  <button class="blog-filter-btn active" data-category="all">Todas</button>
-  <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button>
-  <button class="blog-filter-btn" data-category="Adopción">Adopción</button>
-  <button class="blog-filter-btn" data-category="Educación">Educación</button>
-  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
-</div>
+![](https://fund.ar/wp-content/uploads/2023/01/Mesa-de-trabajo-1-copia-4@2x.gif)
 
-</div>
+**¿Qué es la generación de imágenes?**
 
+Son modelos que, en base a una descripción, crean una imagen. En general
+están entrenados con cientos o miles de millones de imágenes ya
+existentes en la web. Por ejemplo, podemos pedirle «un pato de madera
+sentado frente a un escritorio con orejas de Mickey, en estilo art
+nouveau».
 
-</div>
+IA generativa Un caso particular son las «deep fakes». Modelos avanzados
+que se usan sobre videos o fotos para modificar la cara, gestos y hasta
+posición corporal de una personas para simular que es otra. Hay muchos
+videos de gente famosa en situaciones extrañas que es muy difícil
+reconocer que son trucados. Esta tecnología puede usarse para simular la
+voz de una persona y conseguir grabaciones impostadas diciendo cualquier
+cosa.
 
+**Los peligros de la IA generativa**
 
+Una de las preocupaciones más recurrentes sobre el uso de modelos
+generativos es su impacto en los sistemas democrático. Para entender el
+alcance y por qué esto es algo que puede afectarnos en Argentina, van
+algunos ejemplos que podrían pasar:
+
+1.  DoNotPay es una startup que usa modelos de IA para responder y
+    discutir multas. Tiene un costo muy bajo porque lo hace el sistema y
+    no necesitan personas expertas. En diciembre de 2022 inició su
+    primer juicio, el primero en la historia defendido por una IA.
+    Supongamos que se usa un modelo basado en GPT u otros similares que
+    ingresan 50000 demandas, correctas, bien escritas, en un día: podría
+    hacer colapsar el sistema judicial. Se podría pensar que la Justicia
+    podría responder a estas demandas con otros modelos, pero para eso
+    hace falta un sistema judicial moderno, con la tecnología y procesos
+    necesarios para poder hacerlo. El sistema debería estar preparado
+    para esto, sin mencionar que es muy difícil reconocer si un escrito
+    lo hizo o no una persona.
+
+2.  Se hace una propuesta de regulación y frente a ella se piden
+    comentarios o se realizan audiencias. Es posible que un sistema de
+    IA generativa haga cientos de miles de comentarios a una regulación:
+    cartas de lectores, publicaciones en redes, todas las plataformas se
+    inundan de miles y miles de mensajes creados con un costo
+    alcanzable. Cada comentario tiene sentido en sí mismo y es diferente
+    al anterior, no son copias ni fáciles de reconocer. En Estados
+    Unidos pasó algo similar con una propuesta de regulación de la
+    Comisión Federal de Comunicaciones (FCC).
+
+3.  Aparece un video de una legisladora recibiendo una coima y
+    comentando cómo va a cambiar su voto. Se vuelve viral pero más tarde
+    se descubre que era un video generado con IA. Al final la verdad se
+    sabe, pero hay personas que no ven las desmentidas o siguen
+    desconfiando, o se generan dudas sobre la integridad de la
+    legisladora. Se usa IA para identificar actores relevantes para una
+    ley y para bombardearlos con mensajes sobre el tema en distintas
+    plataformas: aplicaciones, cuando abran el mail, etc. Es decir, en
+    un país donde no hay reglas para el lobby, hacer lobby automático.
+
+4.  Un político hace una publicación en redes. Recibe 500 comentarios
+    refutando lo que dice, todos distintos, todos generados por IA que
+    citan fuentes y lo incitan a discutir. En la marea de mensajes, se
+    pierden los comentarios reales. Un municipio tiene un canal de chat
+    para atender a ciudadanos a donde
+
+5.  recibe pedidos y conversaciones que pasan por el sistema de
+    respuesta automática y entretienen a todos sus empleados online con
+    preguntas y charlas, dejando afuera a los humanos que de verdad
+    necesitan realizar un trámite.
+
+Más allá de los casos ficticios, ya hoy aparecen problemas, como el uso
+de GPT para hacer trabajos para revistas, tesis o proyectos para
+universidades, todos muy difíciles de reconocer. Algunos colegios,
+universidades y revistas están «prohibiendo» el uso de GPT, con todas
+las dificultades que esto trae. También hay publicidades que usan los
+«deep fakes» para simular voces o incluso imágenes de personas famosas,
+aunque por lo general indican que se trata de simulaciones.
+
+**¿Censurar o regular?**
+
+Entonces, ¿hay que regular? Cada vez hay más pedidos para regular la IA
+generativa, en particular en lo relacionado con la creación de fake
+news, la desinformación y su impacto en la política. Sin embargo, no es
+tan fácil.
+
+Al comienzo se apelaba a la responsabilidad del publicador, pero en
+redes es cualquiera, es anónimo, o desaparece. Las personas consumen
+cada vez más esas fuentes que son muy difíciles de identificar.
+
+El otro problema gira en torno a la definición de fake news. Si las
+regulamos ¿qué son? ¿Quién las define? El riesgo de caer en la censura
+es muy grande y no solo de parte de los Estados: las plataformas también
+pueden tomar decisiones arbitrarias.
+
+¿Qué respuestas posibles tienen los Estados frente a la desinformación y
+a la difusión de fake news?
+
+**¿Qué están haciendo los países del mundo?**
+
+Entre los dos extremos, los países que no respetan la libertad de prensa
+aprovechan la situación para reforzar los controles y aumentar la
+censura. Por otro lado, en los casos donde se privilegia la libertad de
+expresión sobre el posible daño social del mal uso de estas tecnologías
+se están empezando a preguntar si no es necesario limitar de alguna
+manera estas situaciones.
+
+Por ejemplo, en Bahrein una persona puede ser arrestada por publicar
+información falsa en redes sociales. En Myanmar hay una ley que prohíbe
+la difusión de «información incorrecta que pueda alarmar a la
+audiencia».
+
+El Centro de Comunicaciones de Omán hizo una serie de talleres de buenas
+prácticas para lidiar con rumores y fake news, destinados a funcionarios
+de distintos niveles. Además, están preparando una guía para combatir la
+desinformación.
+
+China tiene una de las leyes más estrictas del mundo: es un crimen crear
+o difundir rumores que «quiebren el orden social y económico». Las redes
+sociales solo pueden compartir links a medios oficiales registrados y
+hay una app en la que las personas pueden reportar potenciales fake
+news. Solo hace falta decir que algo que publica alguien es una «fake
+new» y la persona queda alcanzada por diferentes penas y la información
+debe bajarse.
+
+La Unión Europea está trabajando sobre el tema hace tiempo y su acción
+más reciente es el el Digital Services Act que apunta a esta dirección.
+También crearon un Comité Especial sobre Intervención Extranjera en
+procesos democráticos, incluyendo desinformación. El comité hizo
+recomendaciones de medidas para combatir la difusión de fake news, como
+por ejemplo prohibir los canales de propaganda rusa, aumentar los fondos
+para medios de comunicación independientes o prevenir que actores
+extranjeros contraten ex-políticos de alto nivel.
+
+Existen diferentes opciones en el mundo para hacer frente al avance de
+la desinformación: no se puede no hacer nada, pero tampoco es cuestión
+de hacer cualquier cosa.
+
+## Un camino posible para regular la IA generativa en Argentina
+
+En Argentina todavía no estamos ni pensando en el tema, lo cual es un
+gran problema. Donde el Estado no regula, regula el mercado, y dejar que
+las plataformas lo hagan solas ya no es una opción. **Las leyes e
+infraestructura que hoy existen ya no alcanzan**. Sin embargo, las
+salidas poco reflexivas pueden abrir el camino a la censura, lo que no
+es un riesgo menor.
+
+El abuso regulatorio no solo puede venir de la mano de los gobiernos:
+las plataformas pueden tomar decisiones arbitrarias invocando el
+concepto de fake news. Para evitarlo, es fundamental revisar el concepto
+y analizar los diferentes casos, cuándo se trata de información
+manipulada o de errores, cuando es información no confirmada o puntos de
+vista, por poner algunos ejemplos.
+
+Por otra parte, las plataformas no pueden seguir amparándose en "el
+contenido es del usuario": hay casos en los que pueden responder a la
+manipulación usando las mismas tecnologías que generan las fake news.
+Por ejemplo, además de eliminar contenido y cuentas, pueden etiquetar el
+contenido y curarlo como cualquier agregador periodístico tradicional.
+Es fundamental exigir responsabilidad a las plataformas por lo que
+publican o, al menos, exigir curación de contenidos.
+
+Muchos países están reforzando sus leyes de protección digital y de
+protección de datos y discutiendo la responsabilidad de las plataformas.
+Argentina tiene una ley vieja, limitada e inadecuada para la situación
+actual. Hay una propuesta de ley para cambiarla, pero muchos actores la
+consideran insuficiente y frenaron su tratamiento.
+
+**Argentina necesita una Ley de protección de datos y avanzar en temas
+de protección digital**, no podemos tener una ley obsoleta e incompleta.
+Que no haya una propuesta perfecta no es razón para que no exista
+ninguna.
+
+Ahora bien, hay dos soluciones posibles. Avanzar con regulaciones
+parciales o armar una ley global de servicios digitales. Las primeras
+tienen el riesgo de generar fragmentación, un corpus extenso y poco
+claro de normas que pueden llegar a superponerse. Una única ley en un
+tema tan complejo y dinámico puede ser muy difícil de acordar, por lo
+que hay muchas posibilidades de que su aprobación se retrase. Una
+propuesta superadora es coordinar una hoja de ruta que permita
+incorporar regulaciones de manera escalonada a medida que haya acuerdo,
+para así construir sobre los primeros consensos.
+
+El Estado Argentino necesita generar capacidades en temas de tecnología
+y de uso de IA. Esto implica ofrecer trayectorias interesantes para
+personas capacitadas en estos temas: concursos y carreras que no
+dependan del gobierno de turno y que permitan proyectar a largo plazo.
+Hoy quienes tienen esas herramientas están saliendo, no ingresando al
+Estado. Por otro lado, es fundamental cambiar de mentalidad. Incorporar
+tecnología no es solo comprar equipos y contratar a un par de personas:
+hay que considerar la infraestructura, los procesos y el marco
+regulatorio. Tener sistemas modernos y adecuados es parte fundamental de
+la modernización y automatización de procesos. Sin mejorar procesos, el
+cambio no se produce.
+
+No hay una "bala de plata" para matar al monstruo creado por la IA
+generativa. La solución es multidimensional. No alcanza con decir «las
+plataformas tienen que hacerse cargo» o "hay que regular toda la IA". La
+alfabetización digital de la ciudadanía y de quienes toman decisiones
+también es fundamental para así lograr aprovechar al máximo el potencial
+que trae el uso de esta tecnología.
+
+::: blog-source-link
+Publicado originalmente en
+<a href="https://fund.ar/publicacion/ia-generativa-una-cuestion-politica/">Fundar</a>
+:::
+:::
+
+::: blog-sidebar
+::: {#blog-filters .blog-filters}
+<button class="blog-filter-btn active" data-category="all">
+
+Todas
+
+</button>
+
+<button class="blog-filter-btn" data-category="Gobernanza">
+
+Gobernanza
+
+</button>
+
+<button class="blog-filter-btn" data-category="Adopción">
+
+Adopción
+
+</button>
+
+<button class="blog-filter-btn" data-category="Educación">
+
+Educación
+
+</button>
+
+<button class="blog-filter-btn" data-category="Innovación">
+
+Innovación
+
+</button>
+:::
+:::
+:::
+
+```{=html}
 <script>
 // Filtros por categoría - redirige al blog con el filtro
 document.addEventListener('DOMContentLoaded', function() {
@@ -61,9 +312,8 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 </script>
-
-
-
+```
+```{=html}
 <script>
 // Traducir Author y Published al español
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,8 +327,9 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 </script>
-
-
+```
 <footer class="site-footer">
-  <img src="../NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
+
+<img src="../NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;"/>
+
 </footer>
