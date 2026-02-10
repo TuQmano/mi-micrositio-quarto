@@ -10,7 +10,7 @@ La inteligencia artificial ya está transformando nuestra economía: se integra 
 
 Para que esta tecnología sea un trampolín real de desarrollo, se requiere estabilidad macroeconómica, inversión sostenida, infraestructura digital, I+D, recursos humanos capacitados, y una estrategia de adopción con mirada de largo plazo. En contextos de volatilidad o fragmentación institucional, la IA tiende a profundizar brechas en lugar de cerrarlas. La promesa de la IA sin esas condiciones es una promesa sin sostén.
 
-El despliegue responsable de la IA en Argentina debe articular cinco ejes: trabajo y distribución del ingreso; productividad y cuellos de botella; educación y habilidades humanas; regulación inteligente; y gobernanza estatal y regional.
+El despliegue responsable de la IA en Argentina debe articular cuatro ejes: trabajo y distribución del ingreso; educación y habilidades humanas; regulación inteligente; y gobernanza estatal y regional.
 
 
 ## **IA, desarrollo y trabajo: instituciones para una adopción inclusiva**
