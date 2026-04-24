@@ -28,7 +28,7 @@ Encuesta sobre el uso personal y laboral de inteligencia artificial generativa e
 
 <div class="investigacion-meta">
 <span>Argentina</span>
-<span>En desarrollo</span>
+<span>2026</span>
 </div>
 
 <div class="investigacion-excerpt">

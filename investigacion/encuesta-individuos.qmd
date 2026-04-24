@@ -1,6 +1,6 @@
 ---
 title: "Encuesta Nacional sobre Adopción de IA - Individuos"
-description: "Argentina y Uruguay - Uso personal y laboral de IA generativa"
+description: "Argentina y Uruguay (2025)- Uso personal y laboral de IA generativa"
 ---
 
 ### **INFORMES:**

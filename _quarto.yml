@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "**/*.qmd"
+    - "PREVIEW_INSTRUCTIONS.md"
+    - "!extras/**"
   resources:
     - CNAME
 website:
@@ -13,6 +17,8 @@ website:
         text: "Nosotros"
       - href: investigacion.qmd
         text: "Investigación"
+      - href: red.qmd
+        text: "RED"
       - href: blog.qmd
         text: "Opinión"  
     right:

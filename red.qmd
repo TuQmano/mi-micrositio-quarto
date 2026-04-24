@@ -1,0 +1,15 @@
+---
+title: "RED"
+subtitle: "Organizar una red de talentos latinoamericanos en IA que hoy viven fuera, pero quieren contribuir al desarrollo de la región"
+description: "Red de la Diáspora en IA: conectar talento latinoamericano en el exterior con ecosistemas locales."
+---
+
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="https://fund.ar/wp-content/uploads/2026/02/ImagenWeb-Diaspora.jpg" alt="Mapa del mundo con conexiones entre América del Sur y otros centros globales, representando redes de diáspora e IA." style="max-width: 100%; height: auto;">
+</div>
+
+{{< include extras/red.md >}}
+
+<footer class="site-footer">
+  <img src="NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
+</footer>

@@ -1,31 +1,30 @@
 ---
-title: "Encuesta Nacional sobre Adopción de IA - PyMES"
-description: "Argentina - Uso de IA en pequeñas y medianas empresas"
+title: "Encuesta nacional sobre adopción de IA en pequeñas y medianas empresas argentinas"
+description: "Argentina (2026)"
 ---
 
-### **Sobre esta investigación**
-
-Las pequeñas y medianas empresas (PyMES) representan un componente fundamental de la economía argentina, generando empleo y contribuyendo significativamente al PIB. Sin embargo, su capacidad para adoptar tecnologías emergentes como la inteligencia artificial presenta desafíos únicos que requieren atención específica.
-
-Esta encuesta busca comprender el estado actual de la adopción de IA en las PyMES argentinas, identificando las barreras que enfrentan, las oportunidades que perciben y las estrategias que están implementando para integrar estas tecnologías en sus procesos productivos y de gestión.
-
-### **Objetivos de la investigación**
-
-- Mapear el nivel de adopción de IA en diferentes sectores de PyMES
-- Identificar las principales barreras técnicas, económicas y de conocimiento
-- Analizar el impacto de la IA en la productividad y competitividad
-- Evaluar las necesidades de capacitación y apoyo institucional
-- Proponer políticas públicas específicas para PyMES
+Argentina tiene una oportunidad —y un riesgo— con la inteligencia artificial. La oportunidad: una tecnología de propósito general que puede mejorar procesos, reducir ineficiencias y ampliar capacidades en empresas que hoy operan al límite. El riesgo: que su adopción quede concentrada en quienes ya llevan ventaja, profundizando brechas que el aparato productivo argentino arrastra hace décadas. De eso se trata esta encuesta.
 
 
-### **Resultados esperados**
+### **Sobre la investigación**
 
-Los resultados de esta investigación permitirán:
+Esta encuesta, realizada por nad**IA**, con el apoyo del BID y de la Fundación Observatorio PyME, ofrece la primera radiografía estadísticamente representativa sobre cómo las PyMEs argentinas están incorporando —o no— la inteligencia artificial. El relevamiento abarca 402 empresas industriales y del sector de software, encuestadas entre noviembre y diciembre de 2025, con un diseño probabilístico estratificado por sector de actividad.
 
-- Diseñar políticas públicas específicas para la adopción de IA en PyMES
-- Identificar sectores prioritarios para intervenciones
-- Desarrollar programas de capacitación y apoyo técnico
-- Generar evidencia para la toma de decisiones empresariales
+### **Qué nos propusimos**
+
+- Producir una radiografía representativa del estado actual de adopción de IA en PyMEs argentinas, con desagregación por sector, tamaño y región
+- Complejizar qué entendemos por "adoptar IA": qué tecnologías usan las empresas, en qué funciones las aplican, con qué capacidades técnicas y qué estructuras de gobernanza
+- Proponer una taxonomía de cinco tipos de empresas según su nivel de sofisticación en la adopción: no adoptantes, exploradoras, experimentales, optimizadoras y líderes. 
+- Identificar barreras y preferencias de política pública para avanzar en la difusión de IA en el entramado productivo
+
+
+
+### **Qué encontramos**
+
+**El 41,6% de las empresas encuestadas ya utiliza al menos una tecnología de IA**, en un proceso reciente y acelerado, concentrado sobre todo en 2024 y 2025. Pero la imagen es heterogénea: **la brecha entre sectores es amplia, la mayoría de las firmas adoptantes se encuentran en estadios tempranos, y los indicadores de gobernanza y capacidades internas siguen siendo muy bajos**. La distancia entre adoptar una herramienta y convertirla en una mejora productiva sostenida sigue siendo, para muchas empresas, el desafío pendiente.
+
+**Para profundizar más, descarga el informe completo [⬇️ Descargar](https://drive.google.com/file/d/1uXZyQ8aqcDyxy2vtqSgQsRxEbEMk4E0q/view)**. 
+
 
 <footer class="site-footer">
   <img src="../NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
