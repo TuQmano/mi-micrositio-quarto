@@ -18,12 +18,10 @@ website:
       - href: investigacion.qmd
         text: "Investigación"
       - href: red.qmd
-        text: "RED"
+        text: "Redes"
       - href: blog.qmd
         text: "Opinión"  
-    right:
-      - icon: github
-        href: https://github.com/cepe-fundar
+
 format:
   html:
     theme: cosmo

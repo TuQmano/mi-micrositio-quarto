@@ -16,8 +16,6 @@ editor:
 
 
 
-![](images/flyer.png)
-
 ### **¿Por qué una encuesta sobre usos de IA?**
 
 El mundo ya no es el que conocíamos. La inteligencia artificial está

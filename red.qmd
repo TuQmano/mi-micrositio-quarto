@@ -1,7 +1,6 @@
 ---
-title: "RED"
-subtitle: "Organizar una red de talentos latinoamericanos en IA que hoy viven fuera, pero quieren contribuir al desarrollo de la región"
-description: "Red de la Diáspora en IA: conectar talento latinoamericano en el exterior con ecosistemas locales."
+title: "Red de la Diáspora Latinoamericana en IA"
+description: "Organizar una red de talentos latinoamericanos en IA que hoy viven fuera, pero quieren contribuir al desarrollo de la región. Conectar talento latinoamericano en el exterior con ecosistemas locales."
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
@@ -9,6 +8,8 @@ description: "Red de la Diáspora en IA: conectar talento latinoamericano en el 
 </div>
 
 {{< include extras/red.md >}}
+
++ Para más infromación  acceder [acá](https://fund.ar/publicacion/red-de-la-diaspora-latinoamericana-en-ia/)
 
 <footer class="site-footer">
   <img src="NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">

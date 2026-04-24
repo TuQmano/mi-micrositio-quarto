@@ -3,6 +3,7 @@ Hoy en día, miles de profesionales latinoamericanos protagonizan  la innovació
 Sin embargo, esos talentos latinoamericanos que hoy viven afuera no cuentan con canales ni espacios estructurados para llevar adelante esa vinculación con los ecosistemas locales. Nuestro objetivo es construir una Red de profesionales de la diáspora en IA para que el conocimiento generado fuera de la región contribuya al desarrollo en el continente. Esta iniciativa nace para construir esa comunidad.
 
 ## ¿Qué rol le cabe a América Latina en la discusión sobre IA?
+
 La inteligencia artificial está transformando de forma acelerada la economía mundial y América Latina tiene un rol muy marginal en el proceso. Mientras los actores globales compiten por el liderazgo en la carrera de la IA y se apresuran por desarrollar infraestructura estratégica y definir sus reglas, la participación de la región está limitada por barreras sistémicas:
 
 - Déficit de capacidades técnicas

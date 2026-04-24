@@ -23,7 +23,7 @@ Esta encuesta, realizada por nad**IA**, con el apoyo del BID y de la Fundación 
 
 **El 41,6% de las empresas encuestadas ya utiliza al menos una tecnología de IA**, en un proceso reciente y acelerado, concentrado sobre todo en 2024 y 2025. Pero la imagen es heterogénea: **la brecha entre sectores es amplia, la mayoría de las firmas adoptantes se encuentran en estadios tempranos, y los indicadores de gobernanza y capacidades internas siguen siendo muy bajos**. La distancia entre adoptar una herramienta y convertirla en una mejora productiva sostenida sigue siendo, para muchas empresas, el desafío pendiente.
 
-**Para profundizar más, descarga el informe completo [⬇️ Descargar](https://drive.google.com/file/d/1uXZyQ8aqcDyxy2vtqSgQsRxEbEMk4E0q/view)**. 
+**Para profundizar más, descarga el informe completo [⬇️ Descargar]()**. 
 
 
 <footer class="site-footer">

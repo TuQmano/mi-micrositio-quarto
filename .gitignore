@@ -12,3 +12,10 @@ docs/PREVIEW_INSTRUCTIONS.html
 # Archivos de instalación de Quarto
 *.deb
 *.tar.gz
+
+# Salida de Quarto en la raíz (solo debe publicarse bajo docs/)
+/*.html
+
+# Sistema
+.DS_Store
+Thumbs.db
