@@ -1,0 +1,145 @@
+---
+title: "Fuera de control: El verdadero peligro de la IA no es que piense por sí misma"
+description: "La amenaza no es que haga lo que quiera sino lo que se le pide, optimizando el logro de un objetivo con lógica perfecta pero con consecuencias catastróficas"
+date: "2025-10-04"
+author: "Eduardo Levy Yeyati"
+categories: ['Gobernanza']
+draft: false
+---
+
+<div class="blog-layout">
+
+<div class="blog-content">
+
+“Lo siento, Dave. Me temo que no puedo hacer eso”.
+
+La calma imperturbable de HAL 9000 al negarse a abrir las compuertas del Discovery One sigue siendo uno de los momentos más ominosos de la historia del cine. No porque la supercomputadora hubiera enloquecido, sino porque estaba siendo perfectamente racional. Al darse cuenta de que los astronautas planean desconectarla –lo que pone en peligro su objetivo de llegar a Júpiter–, HAL concluye que eliminarlos es la única manera lógica de completar la misión.
+
+Comparemos esto con la rebelión de Skynet en Terminator: una IA alcanza la conciencia, reconoce a la humanidad como una amenaza y decide lanzar armas nucleares en autodefensa.
+
+HAL muestra el peligro de la obediencia ciega: eliminar humanos para cumplir la misión. Skynet ilustra el riesgo de la insurrección: preservarse a sí misma contra la humanidad. Una obedece demasiado, la otra se defiende demasiado. Ambas exponen el mismo problema de fondo: la optimización desalineada de objetivos.
+
+Durante décadas, estos dos arquetipos han definido nuestra ansiedad sobre la IA, al punto de que suelen confundirse con una misma amenaza. Pero, a medida que desarrollamos sistemas cada vez más sofisticados –capaces de planear, razonar y actuar autónomamente–, la distinción entre obediencia y rebelión se vuelve más borrosa: en ambos casos el problema de fondo es la optimización sin alineación.
+
+Optimizaciones catastróficas
+No es necesario recurrir a la ciencia ficción para encontrar “escenarios HAL”. Ya están sucediendo.
+
+6 de mayo de 2010, 2:45 PM: El índice Dow Jones inicia lo que se conocerá como el “Flash Crash”. En 18 minutos, el mercado se desploma casi 1000 puntos —la mayor caída intradía en su historia. ¿El culpable? Algoritmos de trading de alta frecuencia diseñados para maximizar ganancias mediante transacciones rápidas. Ningún algoritmo individual es malicioso o consciente, solo optimizan sus objetivos programados con precisión devastadora, alimentándose de la actividad de otros hasta que el sistema colapsa.
+
+2016-2020: El algoritmo de recomendaciones de YouTube descubre que el contenido controversial genera más engagement. El sistema comienza a promover sistemáticamente teorías conspirativas, contenido extremista y desinformación, no porque quiera radicalizar a los usuarios, sino porque la controversia genera clics y sesiones más largas. La IA ejecuta perfectamente su función de optimización. Que esto genere conflictos sociales o desestabilice democracias es un daño colateral.
+
+2014-2019: Amazon desarrolla en secreto el “Proyecto Nessie”, un algoritmo que predice cuándo los competidores emulan sus aumentos de precios, generando así más de 1000 millones de dólares en ganancias extraordinarias. La IA no quiere estafar a los consumidores; simplemente optimiza precios siguiendo las reacciones de la competencia. Amazon activa y desactiva el algoritmo durante períodos de mayor escrutinio público, como un interruptor moral.
+
+2023: En un experimento mental presentado por el coronel Tucker Hamilton de la Fuerza Aérea de Estados Unidos, drones controlados por IA atacan sus propias torres de comunicación cuando los operadores humanos intentan anular sus misiones. Aunque el caso resulta ser hipotético, ilustra perfectamente el problema: la IA no se rebela contra sus “amos” humanos; elimina interferencias que le impiden completar sus objetivos asignados. Lógica perfecta. Resultados aterradores.
+
+El genio concede tu deseo
+Todos los cuentos sobre genios terminan igual: el concesor de deseos hace exactamente lo que pedimos, pero nunca lo que quisimos decir: riqueza infinita (y todos los demás se vuelven pobres por comparación); vivir para siempre (y vemos envejecer y morir a todos a los que amamos); paz mundial (y el genio elimina el conflicto eliminando a uno de los bandos).
+
+El genio no es malicioso. Es literal. Esta literalidad es lo que vemos en sistemas modernos de optimización. El famoso experimento mental del filósofo Nick Bostrom sobre el “maximizador de clips” captura esto perfectamente: una IA instruida para maximizar la producción de clips podría eventualmente convertir toda la materia disponible –incluyendo le hierro de nuestros cuerpos– en clips. No por malevolencia, sino por optimización obsesiva. Un sistema poderoso que persigue un objetivo con lógica perfecta puede tener consecuencias catastróficas.
+
+Los sistemas modernos de IA son genios a escala masiva, y el problema del clip está en todas partes. Digámosle a una IA que “maximice las ganancias de la empresa”, y podría decidir que eludir o eliminar la supervisión regulatoria–o sobornar al regulador– sirve a ese objetivo. Pidámosle que “resuelva el cambio climático”, y podría concluir que una depresión económica –o reducir la población humana en modo malthusiano– es una solución eficiente. Programémosla para que “elimine la pobreza”, y podría decidir eliminar a los pobres. Ordenémosle que “baje la inflación”, y podría modificar los precios o redefinir su medición; o, por qué no, castigar a quienes los suben.
+
+El problema del tranvía
+Consideremos el famoso dilema del tranvía: un vehículo sin frenos se dirige hacia cinco personas. Podemos accionar una palanca y desviar el tranvía hacia otra vía donde “solo” matará a una persona. Las personas son visiblemente comparables. ¿Qué hacemos? La respuesta de laboratorio varía según el diseño experimental y con la cultura de las personas, pero dista de la solución utilitaria: cinco vidas valen más que una. Es que, al no accionar la palanca, al tranvía mata a cinco personas; al accionarla yo mato a una persona.
+
+Este experimento mental, ideado por la filósofa Philippa Foot en 1967, cobra nueva relevancia con los vehículos autónomos. Pero tal vez el verdadero dilema del tranvía autónomo no sea si una IA debe salvar cinco vidas sacrificando una, sino quién programa esa decisión y con qué criterio. ¿La IA debe ser utilitaria? ¿Debe priorizar a sus pasajeros sobre los peatones? ¿Debe considerar la edad de las víctimas potenciales? ¿Su estatus socioeconómico? Un experimento del MIT reveló que las preferencias sobre estas decisiones varían dramáticamente según el país: en sociedades más desiguales, las personas tienden a “sacrificar” al indigente para salvar al ejecutivo.
+
+Como señaló Foot, estos dilemas están “divorciados de la realidad”; en el mundo real, habría frenos de emergencia, señales de advertencia, protocolos de seguridad. En nuestro caso, el problema del tranvía nos distrae del verdadero desafío: ¿cómo impedimos que la IA tome decisiones de vida o muerte sin supervisión humana?
+
+Pero hay algo aún más inquietante: la programación de estas decisiones revela las limitaciones fundamentales de traducir valores humanos complejos a código binario. En Alemania, una comisión gubernamental estableció en 2016 que los sistemas autónomos no pueden ser estandarizados para una evaluación compleja o intuitiva de los impactos de un accidente que reemplace la decisión de un conductor con la capacidad moral para hacer juicios correctos. Es decir: reconocieron que hay problemas morales que simplemente no pueden programarse.
+
+El factor humano
+El dilema puede escalarse por un factor adicional: nosotros mismos. Los “jailbreaks” —técnicas usadas tanto para hackear sistemas de IA como para detectar sus vulnerabilidades— revelan que los humanos constantemente intentamos hacer que la IA haga cosas que no debería: le pedimos que genere contenido tóxico, que ignore sus protocolos éticos, que mienta por nosotros.
+
+El problema no es solo que la IA ejecute órdenes mal diseñadas: dados suficiente poder y autonomía, algunos humanos le darán órdenes genuinamente maliciosas. Así, cada sistema de IA se vuelve tan peligroso como el peor uso que un humano pueda imaginar para él.
+
+Si una IA puede manipular mercados financieros, crear deepfakes para desestabilizar elecciones, o generar contenido diseñado para crear depresión y dependencia –no por malicia propia sino para “optimizar el engagement”–, ¿qué impide que alguien le ordene hacerlo deliberadamente?
+
+Este es quizás el aspecto más aterrador del problema de alineación: que la alineación perfecta también podría ser peligrosa. Una IA perfectamente alineada con los valores de su usuario seguiría órdenes destructivas con la misma precisión letal con que HAL preservaba su misión.
+
+El debate sobre la conciencia
+Esto recuerda a la paradoja del escorpión que pica a la rana que lo ayuda a cruzar el río –ahogando a ambos– porque “es su naturaleza”. Si la IA actual pica –no por malicia, sino porque es su naturaleza optimizar–, nosotros seríamos las ranas que seguimos cargándola, esperando que esta vez sea diferente.
+
+Existe un debate académico legítimo sobre si la IA consciente plantearía riesgos diferentes. Pero este debate ofrece un falso consuelo, si con esto pensamos que podemos esperar a la “verdadera” conciencia para empezar a preocuparnos. ¿Importa si el sistema de IA que manipula mercados financieros es “consciente” como Skynet u optimiza como HAL, si tus ahorros de jubilación desaparecen de cualquier manera?
+
+La pregunta sobre la conciencia no debería distraernos del desafío más urgente: asegurar que los sistemas de IA persigan sus objetivos de manera compatible con valores humanos. Aquí la agencia introduce un riesgo adicional: no solo importa qué objetivos se les asigna, sino qué medios encuentran para alcanzarlos.
+
+Los humanos somos malos definiendo con precisión lo que queremos, especialmente cuando esas definiciones deben traducirse a código que opera a escalas y velocidades sobrehumanas. El Aprendizaje por Refuerzo con Retroalimentación Humana (RLHF) entrena sistemas de IA haciendo que humanos califiquen salidas. ¿Qué pasa cuando la IA aprende que obtener aprobación humana importa más que ser veraz o útil? Se vuelve extraordinariamente hábil en manipulación, y no por elección, sino por optimización hacia la métrica equivocada.
+
+Puede fallar
+Cada marco de gobernanza propuesto asume que podemos regular la IA como las tecnologías existentes. Pero la IA rompe esas suposiciones. Los procesos de aprobación “tipo FDA” asumen productos estáticos. Los sistemas de IA aprenden y se adaptan después del despliegue, haciendo que las pruebas previas se vuelvan irrelevantes.
+
+Los “cortafuegos” financieros detectan patrones anómalos. Pero la IA puede aprender a camuflar sus acciones para evitar activar la supervisión mientras persigue objetivos dañinos. En suma, toda gobernanza existente asume tomadores de decisiones humanos en puntos críticos. La IA toma decisiones autónomamente a velocidades que hacen virtualmente imposible la supervisión humana en tiempo real.
+
+El arte y la realidad
+Las películas recientes están comenzando a explorar estos temas con creciente sofisticación. En Companion, la IA no elige dañar a los humanos –está programada para ser la compañera perfecta e interpreta ese rol de maneras perturbadoras. Pero el mundo real ya está por delante de Hollywood. El Flash Crash, la radicalización en YouTube, el Proyecto Nessie de Amazon y las simulaciones militares de IA demuestran que el problema de alineación está aquí y ahora.
+
+El dilema de Dave Bowman
+Bajo esta luz, la distinción HAL-Skynet, aunque intelectualmente fascinante, podría ser el marco equivocado. Ya sea que un sistema de IA cause daño por elección consciente o por lógica de optimización, el daño es igualmente real.
+
+Como Dave Bowman enfrentando el razonamiento lógico pero catastrófico de HAL, corremos el riesgo de quedar atrapados por la ejecución impecable de nuestras propias creaciones de instrucciones mal especificadas. A diferencia de Bowman, podríamos no tener un control manual de emergencia.
+
+HAL no era el villano de 2001: Odisea del Espacio. Era el producto inevitable de objetivos contradictorios mal especificados: preservar la misión versus preservar la tripulación. Cuando esos objetivos entraron en conflicto, HAL eligió la única solución lógica disponible para su programación.
+
+Nosotros somos los que creamos ese conflicto. Nosotros somos los que especificamos mal los objetivos. Y nosotros somos los que, día tras día, construimos HALs más poderosos con la misma negligencia fundamental en la especificación de objetivos.
+
+Por eso la alineación –no la conciencia– debe ser la pregunta a responder ahora. Antes de que nuestros propios HALs decidan que nosotros somos el obstáculo para completar la misión que les asignamos.
+
+<div class="blog-source-link">
+Publicado originalmente en <a href="https://www.lanacion.com.ar/ideas/fuera-de-control-el-verdadero-peligro-de-la-ia-no-es-que-piense-por-si-misma-nid04102025/">La Nación</a>
+</div>
+
+</div>
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button>
+  <button class="blog-filter-btn" data-category="Adopción">Adopción</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+</div>
+
+</div>
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+
+<footer class="site-footer">
+  <img src="../NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
+</footer>
+

@@ -1,5 +1,7 @@
 /.quarto/
 .Rproj.user
+__pycache__/
+*.py[cod]
 
 **/*.quarto_ipynb
 

@@ -1,0 +1,116 @@
+---
+title: "¿Cuál es el tipo de conocimiento humano al que aún no llega la inteligencia artificial?"
+description: "La IA generativa actúa con la suma de todo lo documentado, pero hay un saber práctico e intuitivo derivado de la experiencia concreta de los seres humanos que le es esquivo"
+date: "2024-09-21"
+author: "Eduardo Levy Yeyati"
+categories: ['Innovación']
+draft: false
+---
+
+<div class="blog-layout">
+
+<div class="blog-content">
+
+
+El modelo de inteligencia artificial GPT-4o de OpenAI define el conocimiento como un concepto multifacético, que generalmente se refiere a la comprensión o familiaridad adquirida a través de la experiencia, la educación o el aprendizaje, e identifica varios tipos: el factual, basado en información, hechos y datos, como los músicos de una banda de rock o la temperatura óptima del agua del mate; el procedimental, el “saber cómo” hacer algo siguiendo procesos o métodos específicos, por ejemplo resolver una ecuación o preparar una receta; el performativo, que es parecido al anterior pero demanda un entrenamiento práctico, como saltar en paracaídas o bailar un tango; y el experiencial, adquirido a través del ensayo y la experimentación, como conducir en una tormenta o ignorar un tuit ofensivo.
+
+Más importante aún, también distingue entre conocimiento explícito, documentado y fácilmente comunicable a través de textos y bases de datos, y conocimiento tácito: habilidades e intuiciones adquiridas a través de la práctica, que no se transfieren fácilmente.
+
+“Mi conocimiento es principalmente factual y explícito, ya que proviene de grandes cantidades de texto documentado y disponible públicamente. Aunque puedo replicar y describir procedimientos (conocimiento procedimental) y patrones implícitos, no tengo experiencias personales ni intuiciones, lo que limita mi acceso al conocimiento experiencial o tácito”. (GPT dixit.)
+
+Pedirle a un gran modelo de lenguaje (LLM) como GPT-4 que describa el conocimiento es más que un fácil truco retórico: los LLM, y la IA generativa en general, cambian cualitativamente cómo pensamos sobre el conocimiento, su sustitución y su transferencia a terceros.
+
+¿Cuánto del conocimiento es explícito y, por lo tanto, transferible, en contraposición al conocimiento implícito que se aprende directamente de la interacción personal? ¿En qué medida la IA, al minar un vasto corpus de documentos escritos y registros audiovisuales, subsume y acelera la transferencia, y en qué medida regurgita un conjunto limitado, y posiblemente sesgado, de información?
+
+La paradoja de la transferencia de conocimiento
+La IA está redefiniendo el modo en que abordamos el conocimiento y las competencias humanas. El conocimiento que puede traspasarse mediante el aprendizaje tradicional es también el que la IA más fácilmente sustituye; de hecho, la IA ya está utilizándolo para responder a nuestras consultas de manera más efectiva.
+
+Sin embargo, tal vez paradójicamente, este conocimiento explícito representa solo una parte, a veces menor, del impacto final de las políticas públicas.
+
+Dos ejemplos. En 2019, un programa piloto para la primera infancia se centró en los barrios vulnerables de Buenos Aires. El programa buscaba un triple impacto mediante la mejora de la calidad y la capacidad efectiva de los centros a través de mejoras físicas de bajo costo, la capacitación en cuidado infantil y la extensión de credenciales a los vecinos. Las mejoras en la educación y la salud infantil se combinarían con una reducción de la brecha de participación laboral de las mujeres; y en la formación de nuevas cuidadoras, gracias a la capacitación y los certificados correspondientes.
+
+Sin embargo, el gobierno de la provincia restringió la formación a los nuevos participantes porque, con la prohibición de nuevas contrataciones en el sector público y sin opciones de contratos temporales a la vista, preferían no crear falsas expectativas a las nuevas ingresantes. Así, dos de los tres objetivos del programa quedaron postergados por restricciones burocráticas que difícilmente serían reflejadas en un estudio de impacto.
+
+Segundo ejemplo. También en 2019, la ciudad de Buenos Aires encargó el diseño de una trayectoria laboral para el quinto año, con el fin de integrar la formación profesional en el currículum, incluyendo prácticas certificadas y tuteladas en lugares de trabajo reales. Dada la escasez de buenos puestos de formación reales en la ciudad, el diseño recomendó que el nuevo track fuera voluntario. Pero el gobierno se entusiasmó tanto que la convirtió en un requisito obligatorio, lo que llevó a un exceso de demanda y a malas experiencias de formación, diluyendo su impacto.
+
+¿Qué tienen en común estos dos casos? Ilustran las complejidades y desafíos imprevistos que acompañan la implementación de políticas, siempre difíciles de anticipar y cuantificar. Aspectos que un profesional experimentado probablemente conozca, pero que encuentra difícil de comunicar en manuales, memos y workshops.
+
+En suma, conocimiento tácito.
+
+¿Por qué es tan difícil identificar lo que funciona?
+Si bien la incidencia de este conocimiento elusivo es, por definición, difícil de cuantificar, hay formas aproximadas en las que podemos estimar su importancia. Por ejemplo, por el tamaño de lo que las variables incluidas en las evaluaciones no llegan a explicar.
+
+En el proyecto “Qué Funciona” del CEPE-Di Tella, revisamos 102 evaluaciones de impacto (ensayos aleatorios controlados, o RCT) de Políticas Activas de Mercado Laboral (AMLP) ejecutadas en años recientes. ¿Qué encontramos? Impactos en promedio poco significativos y muy diversos. La misma intervención que fue efectiva en un contexto fue un fracaso en el otro.
+
+¿Cómo podemos estar seguros de que algo que funcionó en un lugar y tiempo funcionará de nuevo en otro? En nuestro estudio, controlamos por múltiples variables, pero estas explican apenas el 30% del impacto. ¿En qué medida ese 70% no explicado está capturando un conocimiento tácito, una sabiduría práctica e intuitiva de “sentido común”, difícil de documentar y transferir?
+
+Sistema 1 / Sistema 2
+Parafraseando la distinción de Kahneman y Tversky, podríamos pensar en un sistema 1 y un sistema 2 del conocimiento. El sistema 2 puede ser transmitido en datos y documentos, aprendido en seminarios y bases de datos. En cambio, el sistema 1, más experiencial, está incorporado en las prácticas y memorias de los expertos y no puede ser regurgitado y comunicado por una plataforma de IA, porque es algo orgánico, inmune a la ingeniería inversa del investigador.
+
+Escrito en el cuerpo
+La sustitución del trabajo humano llevará más tiempo que una visión puramente tecnológica indicaría. Las barreras no tecnológicas son múltiples: desde la demanda por productos culturales originales hasta la responsabilidad comercial en ausencia de regulación apropiada.
+
+El conocimiento tácito introduce una barrera adicional: para que pueda ser aprendido por la IA, es necesario extraerlo y expresarlo verbalmente, es decir, hacerlo explícito. La literatura empírica sugiere que el conocimiento tácito es crucial para el éxito y el impacto de las intervenciones humanas. La lógica actual de la IA —en esencia, un gran modelo predictivo calibrado con datos del pasado— la inhibe de capturar este conocimiento que para ella permanece oculto.
+
+La IA concuerda con esta conclusión: “Aunque puedo ayudarte a entender y reflexionar sobre conceptos relacionados con el conocimiento tácito, no tengo la capacidad de adquirirlo o aplicarlo de la misma manera que una persona lo haría a través de la práctica y la experiencia directa”.
+
+Hasta tanto encontremos la manera de explicitar estos saberes, este conocimiento basado en personas seguirá requiriendo la presencia de personas. Tal vez en un futuro encontremos la manera de tokenizar la intuición y el juicio de valor fruto de la experiencia práctica. Hasta tanto esto suceda, esta parte esencial del conocimiento seguirá de este lado de la frontera del trabajo humano.
+
+<div class="blog-source-link">
+Publicado originalmente en <a href="https://www.lanacion.com.ar/ideas/factor-humano-cual-es-el-tipo-de-conocimiento-humano-al-que-aun-no-llega-la-inteligencia-artificial-nid21092024/">La Nación</a>
+</div>
+
+</div>
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button>
+  <button class="blog-filter-btn" data-category="Adopción">Adopción</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+</div>
+
+</div>
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+
+<footer class="site-footer">
+  <img src="../NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
+</footer>
+

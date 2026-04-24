@@ -1,0 +1,96 @@
+---
+title: "El futuro, siempre incierto, probablemente no sea solo tecnológico, sino también humano"
+description: "La inteligencia artificial generativa avanzó vertiginosamente; sin embargo, su adopción masiva se vería condicionada por varios factores, como la preferencia mayoritaria por los bienes que son el fruto de la creatividad y del trabajo de las personas"
+date: "2024-09-15"
+author: "Eduardo Levy Yeyati — Soledad Guilera"
+categories: ['Adopción']
+draft: false
+---
+
+<div class="blog-layout">
+
+<div class="blog-content">
+
+La aparición y el avance de la inteligencia artificial (IA) generativa ha sido tan vertiginoso que a muchos lleva a pensar que su adopción masiva es solo cuestión de tiempo. La narrativa es convincente: se espera que en las próximas dos décadas la IA generativa evolucione a una IA general (AGI) que supere las capacidades humanas en prácticamente todo, desde el trabajo administrativo rutinario hasta la creación artística y la investigación científica más sofisticada.
+
+Sin embargo, esta visión tecnocrática del futuro deja de lado algunos aspectos importantes que podrían demorar su adopción: la evolución en forma de S (más sigmoidal que exponencial) que suele mostrar la difusión de los grandes avances tecnológicos, el problema de los outliers (situaciones improbables que la IA ignora o ante las cuales alucina), o la regulación que inevitablemente aparecerá para moderar sus efectos nocivos.
+
+Pero aun si somos optimistas, hay barreras no tecnológicas que pueden ser más irreductibles. A pesar del progreso de la IA, su adopción estará determinada en gran medida por nuestras preferencias culturales, consideraciones éticas y el valor que otorgamos al “toque humano”.
+
+El aura de lo auténtico
+El arte, la literatura y la música son áreas en las cuales la IA ha hecho incursiones significativas. Sin embargo, aunque estas obras puedan llegar a ser técnicamente impresionantes, la mayoría de las personas seguiremos prefiriendo la versión humana. Walter Benjamin, en su célebre ensayo sobre el “aura” de las obras de arte, destacó el valor único que atribuimos al esfuerzo humano detrás de cada creación. Es este esfuerzo original el que agrega una capa de significado y autenticidad que la IA puede copiar, pero no replicar.
+
+Imaginemos la Mona Lisa; incluso si una IA pudiera crear una copia indistinguible, seguiríamos prefiriendo la obra de Da Vinci porque fueron su visión y talento los que la crearon. Del mismo modo, un libro o una canción hecha por una persona tendrá un valor añadido por la historia y la experiencia emocional detrás de su creación.
+
+Este apego a lo auténtico ofrece una oportunidad para los mercados. Las empresas que pongan énfasis en la creatividad humana encontrarán una audiencia dispuesta a pagar más por productos de la "economía naranja" hechos por humanos, tal como sucede con lo orgánico o el comercio justo. El valor agregado del trabajador será la imperfección, la espontaneidad y la diversidad que el autómata solo puede emular de manera artificiosa.
+
+Fronteras éticas y legales
+El avance de la IA enfrenta dilemas legales profundos. Un ejemplo claro son los vehículos autónomos: la tecnología está lista, pero ¿quién es responsable en caso de accidente? Estos dilemas no se han resuelto y constituyen un obstáculo significativo.
+
+De igual modo, sistemas utilizados en el ámbito judicial han sido criticados por reproducir sesgos humanos. ¿Podemos confiar plenamente en una máquina para tomar decisiones que afectan profundamente la vida de las personas? La respuesta, por ahora, es que no estamos listos como sociedad para delegar esas responsabilidades enteramente en la IA.
+
+Estas barreras indican que la adopción no solo depende de lo técnicamente posible, sino de lo legal y éticamente aceptable. Las empresas que prioricen la transparencia y la equidad estarán mejor posicionadas.
+
+Una oportunidad única
+La resistencia humana no es necesariamente una barrera, sino una oportunidad para los innovadores. Aquellos que comprendan cómo equilibrar el progreso tecnológico con el deseo de autenticidad tendrán la ventaja competitiva. El éxito será para quienes sepan integrar la tecnología con el factor humano, combinando eficiencia y autenticidad.
+
+Ni doomers, ni boomers. El futuro, siempre incierto, probablemente no sea solo tecnológico, también será humano. En buena hora.
+
+<div class="blog-source-link">
+Publicado originalmente en <a href="https://www.lanacion.com.ar/economia/el-futuro-siempre-incierto-probablemente-no-sea-solo-tecnologico-sino-tambien-humano-nid15092024/">La Nación</a>
+</div>
+
+</div>
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button>
+  <button class="blog-filter-btn" data-category="Adopción">Adopción</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+</div>
+
+</div>
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+
+<footer class="site-footer">
+  <img src="../NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
+</footer>
+

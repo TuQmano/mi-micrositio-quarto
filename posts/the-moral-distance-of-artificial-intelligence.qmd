@@ -1,0 +1,164 @@
+---
+title: "The Moral Distance of Artificial Intelligence"
+description: "The Moral Distance of Artificial Intelligence"
+date: "2026-02-21"
+author: "Eduardo Levy Yeyati"
+categories: ['Gobernanza']
+draft: false
+---
+
+<div class="blog-layout">
+
+<div class="blog-content">
+
+You can save one person from certain death: your mother, who works as a cleaning lady, or a scientist on the verge of discovering a cure for cancer.
+
+Choose.
+
+Most people would save their mother. Not because they cannot calculate the lives saved—the math is clear—but because they cannot see themselves as the kind of person who would sacrifice their mother to save strangers, even a lot of them. This is not irrationality or cognitive bias. It is the structure of moral agency: we cannot act as pure welfare maximizers because our moral constraints define who we are—and vice versa: to a large degree, our morals are built around our identity.
+
+We can find versions of this thought experiment in hospitals allocating ventilators, hiring systems screening applicants, autonomous vehicles programmed for collision scenarios. The systems making these choices do not hesitate. They do not experience moral distress. They execute the utilitarian solution we endorse intellectually but cannot bring ourselves to perform.
+
+The problem of AI alignment turns out not to be only what the technical literature assumes: making AI do what we want. The real challenge—and this is harder to face—is deciding what we are willing to choose when freed from the constraints that make us moral agents. The tension is not between what we say and what AI does; it's between what we do and what we authorize AI to do on our behalf.
+
+The philosopher Bernard Williams called these "agent-relative" constraints: limits that cannot be simply reduced to a comparison of outcomes. We cannot extract these limits from a utility function because we are not maximizing anything—these constraints stem from who we are willing to become through our actions.
+
+The many versions of the trolley problem (which most people are sick of hearing about by now, but bear with me) illustrate this clearly. People refuse to push the fat man off the bridge even when doing so would save five lives. Why? Well, if we do nothing, the trolley kills five; if we do, we murder one. The distinction matters: we tolerate harm through inaction but refuse to harm directly because we care about the kind of person we become through action. We endorse utilitarianism in a dinner conversation, but can we embody it in a real context?
+
+Should we?
+
+Now translate this into an AI design context. We are building an autonomous decision system. It faces the same conundrum: save the low-status individual who happens to be the system creator's mother, or the scientist developing the life-saving cancer drug. What should we “align” the system to do?
+
+In the technical AI safety community, the answer is clear: save the scientist. Maximize expected welfare, eliminate parochial bias.
+
+Success! We have created a system that makes the impartial choices we endorse. Freed from the constraints of identity and relationship that distort our actual choices, the AI does what we say we should do but wouldn’t.
+
+Indeed, this is more than alignment; it is moral outsourcing.
+
+**AI & moral distancing**
+
+When a programmer writes code that makes utilitarian trade-offs, they know the outcomes that will result. They are not confused about what the system does. They simply will not be the direct agents behind those decisions. Thus, responsibility is diffused through role distance. (Think of Milgram’s experiment, with a twist: we deliberately design an authority to which we can delegate these tough choices.)
+
+Hannah Arendt wrote about the "banality of evil" in bureaucratic systems where the responsibility fragments across roles until no one feels accountable for outcomes everyone helped produce collectively. AI systems create a variation of this mechanism: the programmer is separated from the consequence of moral decisions by layers of code, probability distributions, and deployment contexts.
+
+But there is another element that produces a comparable moral distance: delegation. From ordered assassinations to contemporary outsourcing, humans have long known that delegation diminishes moral distress. (The film Crimes and Misdemeanors, for example, offers a lucid illustration: a character orders a murder that he is unable to commit himself and, somewhat to his surprise, gradually finds the guilt bearable because of that distance.)
+
+AI systems conflate both mechanisms in what we might call "computational distancing". The programmer is separated from consequences by: (1) task fragmentation—no one builds the system in full; and (2) execution delegation—the algorithm performs what the designer only authorized. This separation is engineered into the architecture.
+
+What if the trolley problem weren't about pushing someone yourself, but about designing and authorizing the system that would push? The psychological weight shifts with fragmentation and distance, even though causal responsibility remains. Computational distancing does exactly this: it transforms direct authorship into authorized delegation across fragmented roles.
+
+There is a critical distinction here between authoring an outcome and endorsing it—perhaps because the confusion is convenient, we systematically confuse the two. AI systems allow us to approve consequences whose authorship we would reject. Yes, this is alignment, but with a version of us that does not (cannot?) exist—the welfare-maximizing displacing the moral agent.
+
+Consider how this plays out in medical triage. An ICU has one ventilator and two patients arrive simultaneously. Patient A is 45, previously healthy, with a 70% survival probability if treated. Patient B is 68, with comorbidities and a 35% survival probability. A triage algorithm allocates the ventilator to Patient A based on survival-adjusted life years.
+
+Now imagine you are the doctor. You look Patient B in the eye—a retired teacher, lucid, terrified—and tell her she will not receive treatment because the algorithm calculated her life is worth less. You watch her expression change. You know her daughter is in the waiting room. You are not implementing a policy; you are denying a person the means to survive. Most doctors report profound moral distress in such moments, even if they understand and accept the utilitarian logic.
+
+The algorithm experiences nothing. It executes the calculation cleanly, without hesitation or distress. This is presented as eliminating bias. But what we are actually eliminating is the friction of moral authorship: the psychological cost that haunts us when we do something that violates our identity as moral agents.
+
+The same structure appears across domains. Hiring algorithms screen thousands of applicants while explicitly ignoring factors like loyalty to current employees or second chances for those with gaps. Organ transplant committees implement algorithmic rankings without experiencing what it means to choose who lives. Workforce optimization systems identify "redundancies" for marginal productivity gains without the weight of ending someone's livelihood. Autonomous vehicles execute collision protocols programmed in advance by engineers who will never feel the impact or see the victim’s face. In each case, systems perform calculations that we endorse in principle but cannot execute without moral residue. We authorize the outcomes without authoring them directly.
+
+Let’s be clear: these systems are not misaligned. They are doing exactly what they were designed to do: implementing the utilitarian logic we endorse in principle but cannot enforce in practice because by doing that we would violate our moral identity.
+
+In that sense, the system is morally liberating.
+
+**Why technical solutions misidentify the problem**
+
+The technical AI alignment literature treats this as a preference aggregation problem. The challenge, in this framing, is to extract human values accurately and implement them consistently at scale. Get the reward function right—reflect what humans "really want"—and an aligned AI will do what we would do if we were smarter, consistent, unbiased.
+
+This perspective rests on a fundamental philosophical error—one that is easy to make if you spend most of your time obsessing about optimization. It assumes that our human values are like stable and consistent preferences over consumption goods: parameters that could be discovered and optimized with the right measurement tools. Economists have long known that preferences are far from stable. And, judging from the prevalence of a long list of biases, one wonders whether they are ever consistent.
+
+Human values are not a coherent utility function waiting to be discovered and optimized. They are a set of identity constraints, role obligations, relational commitments, and contextual judgments that systematically contradict each other. We want to maximize social welfare and we want to protect our own. We want impartial justice and we want mercy for those we love. We want efficiency and we want to preserve the moral residue, the guilt and hesitation that signal we are treating people as ends, not merely means.
+
+Moreover, as the philosopher Harry Frankfurt argued, we are not simply bundles of systematic desires. We have second-order volitions: preferences about our preferences, judgments about which desires we endorse and which we repudiate. (Think about addiction: you want the cigarette, but you want not to want it. The second-order volition is what makes you a person, not just a bundle of desires.)
+
+Before the technical question: "How do we make AI do X?", we need to address deeper alignment queries: "Would we do X if freed from moral constraints? Should we behave as if we were unconstrained by them?" If we agree that moral limits are not bugs but features of human cognition, machine learning cannot solve this hurdle. When decision-making is delegated to a system that lacks the identity constraints that shaped our original moral intuitions, the core challenge is preserving attributable—not just causal—responsibility.
+
+When we refuse to sacrifice our mother—or to push a person to his death to save many—, we are expressing our inability to treat people as fungible means. When we build a system that makes that trade-off clean, we are aligning it not with human values but with a hypothetical version of ourselves artificially stripped of the features that made our values what they are.
+
+The philosopher T.M. Scanlon distinguishes between reasons we offer to others and reasons that depend on our special relationships. Some obligations—to our children, our patients, our collaborators—cannot be justified through impartial calculation. They are “non-fungible”—a horrible word for something important. AI alignment research treats these as biases to be corrected rather than constraints to be respected. By doing so, it obliterates the problem: it scraps the “human” from “human values”, eliminating an essential part of what makes those values morally binding.
+
+**The alignment paradox**
+
+We face a fundamental tension, and it will not resolve itself no matter how much compute we throw at it: we can build systems that make utilitarian choices we can endorse in reflection, or we can preserve moral agency where humans remain authors of outcomes.
+
+If AI systems make decisions as we would make them—with all our partiality, identity constraints, and refusal to reduce critical decisions to abstract calculations—then we have simply automated our existing moral psychology, biases included. But if AI systems make decisions as we think we should make them—maximizing welfare without regard to relationships or identity—then we have abdicated moral authorship to entities that lack the very features that made our values morally significant in the first place.
+
+Under what conditions can we delegate moral decisions we would not make ourselves? When is it acceptable to authorize an outcome that you would refuse to execute? The question relates to democratic accountability, legal liability, and the boundaries of permissible moral outsourcing. No amount of technical sophistication in value learning or reward modeling will resolve it. (Though many are trying.)
+
+Real-world deployment does not wait for philosophical resolution. Each deployment of triage algorithms, hiring systems, or autonomous vehicles implicitly answers the legitimacy question through revealed preference: we are willing to delegate these choices. But this is just the beginning: we have not yet confronted the costs of that delegation.
+
+These costs go beyond safety and capability—engineering problems with engineering solutions; they involve a loss of moral agency. When we build systems that make trade-offs we endorse but cannot perform, we silently agree to live with outcomes that we would not choose directly, we authorize a world we would not build with our own hands.
+
+There is a deeper irony here. The entire AI alignment project is motivated by concern that advanced AI systems might pursue objectives misaligned with human progress. But by solving alignment technically—by building systems that reliably implement our stated preferences—we may create something worse: agents that implement preferences we should not have acted on, that execute calculations we were morally right to resist, that do away with the friction, the discomfort and the hesitation that founded our moral agency.
+
+The alignment paradox: perfect alignment with a construct, an ideal human being, very different from us.
+
+**The missing link**
+
+The technical AI safety community has done remarkable work on capability control, interpretability, and robust specification. These are real achievements. But they are solving a well-defined problem while avoiding the hard one: deciding what kind of moral agents we want to be when we can delegate our choices to systems that will execute them cleanly, efficiently, and without the hesitation that once signaled something morally important was at stake.
+
+What we need is not better machine learning, but institutional frameworks for deliberation about the scope of legitimate delegation. When can we authorize AI to make decisions we would refuse to execute ourselves? Where must we preserve moral authorship? These questions involve democratic accountability, legal liability, and the boundaries of permissible moral outsourcing—none of which technical alignment can resolve.
+
+Can we remain moral agents when the friction of authorship has been optimized away as inefficiency? Do we change the system to embed human identity values, or does algorithmic distancing change us, bringing us closer to the utilitarian AI?
+
+The algorithm executes. We authorize. And we call that progress.
+
+
+<div class="blog-source-link">
+Publicado originalmente en <a href="https://www.linkedin.com/pulse/moral-distance-artificial-intelligence-eduardo-levy-yeyati-2wpjf/?trackingId=KZXfG5n1reAcWy3XeZYDVQ%3D%3D">LinkedIn</a>
+</div>
+
+</div>
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button>
+  <button class="blog-filter-btn" data-category="Adopción">Adopción</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+</div>
+
+</div>
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+
+<footer class="site-footer">
+  <img src="../NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
+</footer>
+

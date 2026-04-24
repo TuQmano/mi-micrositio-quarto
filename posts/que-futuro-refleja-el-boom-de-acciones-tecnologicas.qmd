@@ -1,0 +1,102 @@
+---
+title: "¿Qué futuro refleja el boom de acciones tecnológicas?"
+description: "Empresas: sus precios no muestran lo que la inteligencia artificial está haciendo hoy, sino lo que podría hacer mañana, o, más precisamente, lo que los mercados creen que hará pasado mañana"
+date: "2025-11-19"
+author: "Eduardo Levy Yeyati"
+categories: ['Innovación']
+draft: false
+---
+
+<div class="blog-layout">
+
+<div class="blog-content">
+
+Las siete empresas tecnológicas más grandes de Estados Unidos concentran hoy un tercio del valor del S&P 500. Sus precios no reflejan lo que la inteligencia artificial está haciendo hoy, sino lo que podría hacer mañana. O más precisamente: lo que los mercados creen que hará pasado mañana. El problema es que ese “pasado mañana”, aun si se verificara, podría tardar más de lo que los inversores esperan.
+
+El progreso tecnológico suele avanzar en forma de S: una fase inicial lenta, una aceleración exponencial y, finalmente, una meseta donde las ganancias marginales se reducen y la adopción se acelera. La comunidad IA hoy se divide entre tres escenarios posibles: crecimiento sostenido (fase exponencial de la S de la IA generativa), una meseta inminente, o un salto cualitativo en camino (una nueva S: ¿la IA general?). Los mercados ya eligieron. Están apostando al salto: una nueva “curva S” (un nuevo cambio tecnológico, como lo fueron los modelos transformers detrás de los LLM) que redefina la productividad y los márgenes en todas las industrias.
+
+Es una apuesta de alto riesgo: los mercados financieros tienden a comprimir horizontes tecnológicos largos en ciclos de valuación cortos. Incluso demoras menores pueden ser costosas. La realidad macroeconómica cuenta otra historia. El crecimiento de la productividad sigue siendo modesto; la adopción empresarial, lenta, y las ganancias e inversiones se concentran en fabricantes de chips y proveedores de nube.
+
+Pero los mercados no esperan. Este patrón no es nuevo: siempre descuentan el progreso tecnológico antes de que aparezca en las estadísticas. Lo distintivo hoy es la escala y la concentración. Cuando un puñado de empresas sostiene toda la narrativa del mercado, los cambios de humor se propagan rápido.
+
+Las valuaciones actuales descansan en un supuesto: que la IA está al borde de un salto cualitativo inminente. No un progreso constante, sino un cambio de régimen. Esa fe se traduce en tres señales:
+
+Inversión en infraestructura: Goldman Sachs proyecta que el gasto ligado a IA superará el billón de dólares para 2027. Centros de datos masivos, chips, capacidad en la nube. Son inversiones que solo tienen sentido si el avance llega pronto.
+
+Múltiplos de ganancias: Las empresas expuestas a IA cotizan al doble del promedio del mercado, pese al escaso crecimiento de los ingresos fuera del sector de chips. Los inversores pagan hoy por ganancias imaginadas en un futuro transformado.
+
+Unanimidad narrativa: Desde Wall Street hasta los bancos centrales, todos hablan de lo mismo: modelos con memoria, sistemas autónomos, razonamiento genuino. Las valuaciones dependen no del progreso incremental, sino de la expectativa de un quiebre.
+
+En otras palabras, los mercados están anticipando la próxima S antes de que la actual se haya estabilizado. Para que estas valuaciones se sostengan, cuatro cosas deberían alinearse rápido: primero, nuevas arquitecturas de modelos que reduzcan drásticamente los costos o desbloqueen capacidades radicalmente nuevas en el corto plazo (12 a 18 meses); segundo, una adopción acelerada más allá de la tecnología: que los sectores tradicionales pasen de pilotos a despliegue masivo, visible en las cifras de productividad hacia 2027; tercero, modelos de negocio que permitan capturar un valor proporcional al que se crea: el desafío de la monetización que la IA todavía no resuelve, y cuarto, una claridad regulatoria que no frene el despliegue ni fragmente los mercados.
+
+Es un conjunto de condiciones exigente, que requiere sincronizar avances técnicos, adaptación organizacional, innovación comercial y coordinación política. La historia tecnológica está llena de cronogramas comprimidos… y de desincronizaciones. El escenario alternativo no es el fracaso de la IA generativa, sino su éxito: progreso en la frontera, difusión gradual, ganancias que se acumulan durante una década en lugar de llegar de golpe. Igualmente transformador, pero insuficiente para justificar los múltiplos actuales.
+
+El FMI señaló en octubre que “los precios de activos de riesgo están muy por encima de los fundamentos”. El Banco de Inglaterra habla de mercados “vulnerables a una fuerte corrección”. En la industria financiera también crece la cautela. Jamie Dimon, CEO de J.P. Morgan, estima en 30% la probabilidad de una corrección importante, citando “exuberancia excesiva por la IA”. David Solomon, de Goldman Sachs, ve “euforia de fin de ciclo”. Un estudio reciente del NBER cuantifica el fenómeno: las valuaciones de empresas expuestas a IA implican mejoras de productividad cuatro veces mayores que las que predicen las tasas actuales de adopción.
+
+Lo dicho, los inversores ya están descontando una nueva S. El riesgo no es solo que la IA falle; también lo es que las expectativas lleguen antes que la realidad. Ya vimos esta película con las puntocom y los vehículos eléctricos. El progreso continuó, pero los cronogramas de ganancias se corrieron. Cuando las valuaciones incorporan un salto que no llega todavía, cualquier demora —técnica, regulatoria u organizacional— genera un desajuste entre esperanza capitalizada y resultados efectivos.
+
+Así, incluso el escenario optimista conlleva riesgos. Si la próxima ola de modelos mejora de forma constante y no escalonada, los inversores podrían reevaluar el timing de los retornos y comprimir múltiplos, aun cuando los fundamentos se fortalezcan. La tecnología se valida, pero la apuesta temporal resulta prematura.
+
+La historia es congruente: ferrocarriles en 1840, electrificación en 1890, internet en 1990. Los mercados valoraron el salto antes de que la difusión lo acompañara. Cuando el salto se demoró, vino la corrección. La tecnología igual transformó la economía, solo que no en el tiempo imaginado.
+
+Quizás estemos viviendo varias curvas S simultáneas: progreso exponencial en la frontera de investigación, meseta en aplicaciones actuales y gestación del próximo paradigma bajo la superficie. Los mercados, en cambio, valoran una sola curva sincronizada. Asumen que las tres se alinearán pronto. Pero rara vez el cambio tecnológico funciona así. Los avances no esperan a la adopción, y la adopción no se acelera solo porque aparezcan nuevas capacidades.
+
+Lo que los precios de las acciones de IA están valorando no es una subida constante, sino la sincronización perfecta entre innovación, adopción y rentabilidad. Un resultado que, la historia sugiere, casi nunca llega a horario. Reconocer ese desajuste ayuda a moderar la exuberancia sin caer en pesimismo. El impacto de la IA es real y creciente, pero el ritmo de transformación sigue siendo desigu
+<div class="blog-source-link">
+Publicado originalmente en <a href="https://www.lanacion.com.ar/opinion/que-futuro-refleja-el-boom-de-acciones-tecnologicas-nid19112025/">La Nación</a>
+</div>
+
+</div>
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button>
+  <button class="blog-filter-btn" data-category="Adopción">Adopción</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+</div>
+
+</div>
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+
+<footer class="site-footer">
+  <img src="../NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
+</footer>
+

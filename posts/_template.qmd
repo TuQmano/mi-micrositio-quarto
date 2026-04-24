@@ -4,6 +4,7 @@ description: "Breve descripción de la entrada"
 date: "2025-01-26"
 author: "Autor"
 categories: ["IA", "Políticas Públicas"]
+draft: true
 ---
 
 ## Introducción

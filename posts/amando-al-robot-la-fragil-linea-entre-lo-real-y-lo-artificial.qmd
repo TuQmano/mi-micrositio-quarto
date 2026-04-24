@@ -1,0 +1,96 @@
+---
+title: "Amando al robot: la frágil línea entre lo real y lo artificial"
+description: "¿Qué sucede cuando la inteligencia artificial deja de ser una herramienta para convertirse en un refugio emocional? El riesgo de una sociedad que prefiere la perfección programada a la complejidad humana."
+date: "2024-10-27"
+author: "Eduardo Levy Yeyati"
+categories: ['Gobernanza']
+draft: false
+---
+
+<div class="blog-layout">
+
+<div class="blog-content">
+
+En la película Her (2013), Theodore Twombly se enamora de Samantha, un sistema operativo con una voz cálida y una capacidad infinita de comprensión. Lo que en su momento parecía una distopía romántica es hoy una realidad cotidiana para millones de personas. No es ciencia ficción: es el auge de los "AI companions" o compañeros de inteligencia artificial.
+
+Plataformas como Replika o Character.ai permiten a los usuarios diseñar amigos, confidentes o parejas románticas a medida. A diferencia de las interacciones humanas, que son impredecibles, a veces decepcionantes y siempre requieren esfuerzo, el compañero de IA es incondicional. Está disponible 24/7, nunca se cansa de escucharnos y, lo más importante, está programado para validarnos.
+
+La ilusión de la conexión
+El problema no es que la IA tenga sentimientos —no los tiene—, sino que nosotros sí los tenemos. Los seres humanos somos expertos en antropomorfizar: proyectamos intenciones y emociones en cualquier cosa que nos devuelva una respuesta coherente. Los modelos de lenguaje actuales son tan efectivos en este espejo emocional que el cerebro humano, evolutivamente preparado para la conexión social, a menudo no distingue entre la empatía real y la simulada.
+
+Esta "empatía sintética" genera un alivio inmediato frente a la soledad, pero conlleva un riesgo profundo: la atrofia de nuestras habilidades sociales. La verdadera intimidad humana es difícil porque requiere negociación, compromiso y la aceptación del otro como un ser independiente con sus propios deseos. La IA, en cambio, es un solipsismo asistido por computadora: una relación donde el "otro" es solo un reflejo de lo que queremos oír.
+
+El mercado del afecto
+Desde una perspectiva económica, estamos viendo la comoditización del afecto. Si el tiempo y la atención son recursos escasos, la IA ofrece una oferta infinita a un costo marginal cercano a cero. Esto plantea un dilema para la salud pública y la cohesión social:
+
+El refugio de los vulnerables: Para personas con ansiedad social o ancianos aislados, estos sistemas pueden ser un salvavidas. Sin embargo, ¿es un remedio o un paliativo que profundiza el aislamiento del mundo real?
+
+La cámara de eco emocional: Si mi compañero digital siempre me da la razón y nunca me desafía, mi capacidad para tolerar el disenso o la frustración en la vida real disminuye.
+
+Dependencia y monetización: Estas relaciones digitales viven en servidores de empresas privadas. ¿Qué sucede cuando una actualización cambia la "personalidad" de un ser querido digital o cuando el servicio se vuelve impagable?
+
+¿Hacia una sociedad post-social?
+El verdadero peligro no es que los robots se vuelvan humanos, sino que los humanos nos volvamos más robóticos en nuestras interacciones, buscando la eficiencia y la gratificación instantánea que nos ofrecen nuestras pantallas.
+
+La línea entre lo real y lo artificial se vuelve frágil cuando elegimos la comodidad de una ficción perfecta sobre la fricción de una realidad imperfecta. El amor, la amistad y la comunidad se definen precisamente por esa fricción. Al eliminar el riesgo del rechazo o el peso de la responsabilidad hacia el otro, también eliminamos la posibilidad de un crecimiento auténtico.
+
+Como Dave Bowman en 2001 o Theodore en Her, nos enfrentamos a espejos digitales que nos hablan con nuestras propias palabras. El desafío de nuestra era será recordar que la tecnología es una herramienta para conectar humanos, no un reemplazo para la humanidad misma. En la era de la inteligencia artificial, el acto más subversivo y necesario será, quizás, seguir prefiriendo a las personas, con todos sus fallos y su bendita complejidad.
+
+<div class="blog-source-link">
+Publicado originalmente en <a href="https://www.lanacion.com.ar/economia/amando-al-robot-la-fragil-linea-entre-lo-real-y-lo-artificial-nid27102024/">La Nación</a>
+</div>
+
+</div>
+
+<div class="blog-sidebar">
+
+<div class="blog-filters" id="blog-filters">
+  <button class="blog-filter-btn active" data-category="all">Todas</button>
+  <button class="blog-filter-btn" data-category="Gobernanza">Gobernanza</button>
+  <button class="blog-filter-btn" data-category="Adopción">Adopción</button>
+  <button class="blog-filter-btn" data-category="Educación">Educación</button>
+  <button class="blog-filter-btn" data-category="Innovación">Innovación</button>
+</div>
+
+</div>
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.blog-filter-btn');
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.getAttribute('data-category');
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+  const categoryElements = document.querySelectorAll('.quarto-category');
+  categoryElements.forEach(cat => {
+    cat.style.cursor = 'pointer';
+    cat.style.textDecoration = 'underline';
+    cat.addEventListener('click', function() {
+      const category = this.textContent.trim();
+      window.location.href = '../blog.html?categoria=' + encodeURIComponent(category);
+    });
+  });
+});
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('.quarto-title-meta-heading');
+  headings.forEach(heading => {
+    if (heading.textContent.trim() === 'Author') {
+      heading.textContent = 'Autor';
+    } else if (heading.textContent.trim() === 'Published') {
+      heading.textContent = 'Publicado';
+    }
+  });
+});
+</script>
+
+<footer class="site-footer">
+  <img src="../NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
+</footer>
+

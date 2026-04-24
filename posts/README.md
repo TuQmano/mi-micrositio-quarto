@@ -11,11 +11,12 @@ Esta carpeta contiene las entradas del blog.
    - `description`: Breve descripción
    - `date`: Fecha en formato "YYYY-MM-DD"
    - `author`: Nombre del autor
-   - `categories`: Lista de categorías (ej: ["IA", "Políticas Públicas"])
+   - `categories`: Lista de categorías (ej: `["Gobernanza"]`; deben coincidir con los filtros del blog)
+   - Si copiás `_template.qmd`, quitá `draft: true` (o usá `draft: false`) cuando la entrada deba aparecer en el índice.
 
 3. Escribe el contenido de tu entrada usando Markdown
 
-4. Agrega la entrada a `blog.qmd` siguiendo el formato de las entradas existentes
+4. El índice en `blog.qmd` se genera solo al renderizar: incluye todos los `.qmd` de esta carpeta salvo borradores (`draft: true`). No hace falta editar `blog.qmd` para cada nota nueva.
 
 ## Ejemplo
 

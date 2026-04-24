@@ -6,9 +6,22 @@ description: "Desde el Centro de Políticas Públicas (CEPE) de la Universidad T
   <img src="footer.png" alt="NADIA" style="max-width: 100%; height: auto;">
 </div>
 
+**¿Quiénes somos?** 
+
+nadIA es el primer espacio en Argentina dedicado a producir datos, investigación y proyectos innovadores sobre inteligencia artificial, con foco en políticas públicas y desarrollo económico. Somos un laboratorio de investigación aplicada que conecta evidencia con acción y contribuye a la construcción de un ecosistema tecnológico que genere valor agregado para la economía.
+
+Nuestra misión es: 
+
+- generar conocimiento riguroso y traducirlo en programas, herramientas y estrategias que permitan que la IA impulse productividad, inclusión y bienestar;
+- tejer alianzas con actores claves y construir una red de colaboración local y regional.
+
+Así, buscamos convertirnos en el punto de referencia local y regional en evidencia y políticas públicas sobre IA, impulsando un desarrollo inclusivo, competitivo y sostenible. 
+
+
+
 **¿Qué queremos lograr?**
 
-La IA puede aumentar la productividad económica si existe un ecosistema y acciones coordinadas y eso va a depender de las decisiones que tomemos hoy y de las políticas que implementemos. Para eso, nos proponemos traducir datos en acción y generar impactos concretos en distintos niveles:
+Nuestro objetivo es que la inteligencia artificial se convierta en un motor de productividad, inclusión y desarrollo sostenible. Para eso, N.A.D.I.A. busca traducir datos en acción y generar impactos concretos en distintos niveles
 
 -   **Empresas**: generar inteligencia estratégica que permita acelerar la adopción de IA, mejorar productividad y competir regional e internacionalmente.
 
@@ -19,8 +32,6 @@ La IA puede aumentar la productividad económica si existe un ecosistema y accio
 -   **Región**: liderar una red de colaboración que conecte a Argentina con América Latina y posicione a la región en la discusión global sobre IA.
  
 #### Nosotros
-
-**nadIA** es el primer espacio en Argentina dedicado a producir datos, investigación y proyectos innovadores sobre inteligencia artificial, con foco en políticas públicas y desarrollo económico. Queremos que la IA sea un vector para impulsar un desarrollo inclusivo, competitivo y sostenible para Argentina y la región.
 
 > **[**CEPE**](https://www.utdt.edu/listado_contenidos.php?id_item_menu=25278)** es el centro de políticas públicas basadas en evidencia de la Escuela de Gobierno de la Universidad Torcuato Di Tella.
 
@@ -34,10 +45,9 @@ La IA puede aumentar la productividad económica si existe un ecosistema y accio
 |   Mariana Barrera   | Juan Pablo Ruiz Nicolini |
 |    Darío Judzik     |    Agustina Bendersky    |
 |   Guadalupe Dorna   |      Juan O'Farrell      |
-|   Soledad Guilera   |    Johanna Cristallo     |
-|                     |      Mariana Kunst       |
-|                     |    Alejandro Avenburg    |
-|                     |   Macarena Santolaria    |
+|   Soledad Guilera   |      Mariana Kunst       |
+|    Lucía Recondo    |      Alejandro Avenburg  |
+|    Malena Cabado    |    Macarena Santolaria   |
 
 <footer class="site-footer">
   <img src="NADIA-banners.png" alt="CEPE y Fundar" style="max-width: 100%; width: 100%; height: auto;">
